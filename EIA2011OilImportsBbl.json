@@ -1,0 +1,1727 @@
+{
+  "currentNamedRankingId": "OilImportsBbl", 
+  "currentThemeId": "OilGasTrends", 
+  "list": [
+    {
+      "name": "United States", 
+      "value": "9.50 mbd", 
+      "caption": "United States imported 9.5 million barrels per day in 2010. Production is up slightly while consumption is down. The US is the #1 oil importer.", 
+      "imageName": "EIA2011USOilBblPortrait_en.png", 
+      "rank": 1, 
+      "id": "US"
+    }, 
+    {
+      "name": "China", 
+      "value": "4.92 mbd", 
+      "caption": "China imported 4.9 million barrels per day in 2010. Production is still rising but cannot keep pace with consumption. Existing trends suggest that net imports will keep rising.", 
+      "imageName": "EIA2011CNOilBblPortrait_en.png", 
+      "rank": 2, 
+      "id": "CN"
+    }, 
+    {
+      "name": "Japan", 
+      "value": "4.29 mbd", 
+      "caption": "Japan imported 4.3 million barrels per day in 2010. In 2010 Japan was the #3 oil importer. In 2011 imports are rising due the closure of damaged nuclear plants.", 
+      "imageName": "EIA2011JPOilBblPortrait_en.png", 
+      "rank": 3, 
+      "id": "JP"
+    }, 
+    {
+      "name": "Germany", 
+      "value": "2.34 mbd", 
+      "caption": "Germany imported 2.3 million barrels per day in 2010. Germany is the #4 oil importer.", 
+      "imageName": "EIA2011DEOilBblPortrait_en.png", 
+      "rank": 4, 
+      "id": "DE"
+    }, 
+    {
+      "name": "India", 
+      "value": "2.23 mbd", 
+      "caption": "India imported 2.2 million barrels per day in 2010. Similar to China, Indian production is up only slightly in the face of rapidly increasing consumption.", 
+      "imageName": "EIA2011INOilBblPortrait_en.png", 
+      "rank": 5, 
+      "id": "IN"
+    }, 
+    {
+      "name": "South Korea", 
+      "value": "2.20 mbd", 
+      "caption": "South Korea imported 2.2 million barrels per day in 2010. South Korea is the #6 oil importer.", 
+      "imageName": "EIA2011KROilBblPortrait_en.png", 
+      "rank": 6, 
+      "id": "KR"
+    }, 
+    {
+      "name": "France", 
+      "value": "1.73 mbd", 
+      "caption": "France imported 1.7 million barrels per day in 2010. French consumption and imports of oil have been steady for almost three decades. France is the #7 oil importer.", 
+      "imageName": "EIA2011FROilBblPortrait_en.png", 
+      "rank": 7, 
+      "id": "FR"
+    }, 
+    {
+      "name": "Spain", 
+      "value": "1.41 mbd", 
+      "caption": "Spain imported 1.4 million barrels per day in 2010. Spanish consumption increased during the boom of the previous decade. Spain is currently the #8 oil importer.", 
+      "imageName": "EIA2011ESOilBblPortrait_en.png", 
+      "rank": 8, 
+      "id": "ES"
+    }, 
+    {
+      "name": "Italy", 
+      "value": "1.35 mbd", 
+      "caption": "Italy imported 1.4 million barrels per day in 2010. With little production of their own, increasing prices in Italy are driving down consumption.", 
+      "imageName": "EIA2011ITOilBblPortrait_en.png", 
+      "rank": 9, 
+      "id": "IT"
+    }, 
+    {
+      "name": "Singapore", 
+      "value": "1.07 mbd", 
+      "caption": "Singapore imported 1.1 million barrels per day in 2010. ", 
+      "imageName": "EIA2011SGOilBblPortrait_en.png", 
+      "rank": 10, 
+      "id": "SG"
+    }, 
+    {
+      "name": "Taiwan", 
+      "value": "975 kbd", 
+      "caption": "Taiwan imported 975 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TWOilBblPortrait_en.png", 
+      "rank": 11, 
+      "id": "TW"
+    }, 
+    {
+      "name": "Netherlands", 
+      "value": "968 kbd", 
+      "caption": "Netherlands imported 968 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NLOilBblPortrait_en.png", 
+      "rank": 12, 
+      "id": "NL"
+    }, 
+    {
+      "name": "Thailand", 
+      "value": "645 kbd", 
+      "caption": "Thailand imported 645 thousand barrels per day in 2010. Production and consumption are both rising in this net oil importer.", 
+      "imageName": "EIA2011THOilBblPortrait_en.png", 
+      "rank": 13, 
+      "id": "TH"
+    }, 
+    {
+      "name": "Belgium", 
+      "value": "589 kbd", 
+      "caption": "Belgium imported 589 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BEOilBblPortrait_en.png", 
+      "rank": 14, 
+      "id": "BE"
+    }, 
+    {
+      "name": "Poland", 
+      "value": "538 kbd", 
+      "caption": "Poland imported 538 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PLOilBblPortrait_en.png", 
+      "rank": 15, 
+      "id": "PL"
+    }, 
+    {
+      "name": "Turkey", 
+      "value": "536 kbd", 
+      "caption": "Turkey imported 536 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TROilBblPortrait_en.png", 
+      "rank": 16, 
+      "id": "TR"
+    }, 
+    {
+      "name": "Australia", 
+      "value": "409 kbd", 
+      "caption": "Australia imported 409 thousand barrels per day in 2010. Net imports are on the rise.", 
+      "imageName": "EIA2011AUOilBblPortrait_en.png", 
+      "rank": 17, 
+      "id": "AU"
+    }, 
+    {
+      "name": "Greece", 
+      "value": "366 kbd", 
+      "caption": "Greece imported 366 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GROilBblPortrait_en.png", 
+      "rank": 18, 
+      "id": "GR"
+    }, 
+    {
+      "name": "South Africa", 
+      "value": "361 kbd", 
+      "caption": "South Africa imported 361 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ZAOilBblPortrait_en.png", 
+      "rank": 19, 
+      "id": "ZA"
+    }, 
+    {
+      "name": "Sweden", 
+      "value": "360 kbd", 
+      "caption": "Sweden imported 360 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SEOilBblPortrait_en.png", 
+      "rank": 20, 
+      "id": "SE"
+    }, 
+    {
+      "name": "Pakistan", 
+      "value": "346 kbd", 
+      "caption": "Pakistan imported 346 thousand barrels per day in 2010. Increasing oil imports have generated a sever balance of payments problem in Pakistan.", 
+      "imageName": "EIA2011PKOilBblPortrait_en.png", 
+      "rank": 21, 
+      "id": "PK"
+    }, 
+    {
+      "name": "Hong Kong SAR China", 
+      "value": "333 kbd", 
+      "caption": "Hong Kong SAR China imported 333 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HKOilBblPortrait_en.png", 
+      "rank": 22, 
+      "id": "HK"
+    }, 
+    {
+      "name": "Chile", 
+      "value": "294 kbd", 
+      "caption": "Chile imported 294 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CLOilBblPortrait_en.png", 
+      "rank": 23, 
+      "id": "CL"
+    }, 
+    {
+      "name": "Philippines", 
+      "value": "277 kbd", 
+      "caption": "Philippines imported 277 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PHOilBblPortrait_en.png", 
+      "rank": 24, 
+      "id": "PH"
+    }, 
+    {
+      "name": "Indonesia", 
+      "value": "272 kbd", 
+      "caption": "Indonesia imported 272 thousand barrels per day in 2010. A classic example of the 'Export Land Model', production has fallen behind consumption and this previous OPEC member now imports oil.", 
+      "imageName": "EIA2011IDOilBblPortrait_en.png", 
+      "rank": 25, 
+      "id": "ID"
+    }, 
+    {
+      "name": "Portugal", 
+      "value": "267 kbd", 
+      "caption": "Portugal imported 267 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PTOilBblPortrait_en.png", 
+      "rank": 26, 
+      "id": "PT"
+    }, 
+    {
+      "name": "Austria", 
+      "value": "252 kbd", 
+      "caption": "Austria imported 252 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ATOilBblPortrait_en.png", 
+      "rank": 27, 
+      "id": "AT"
+    }, 
+    {
+      "name": "Switzerland", 
+      "value": "251 kbd", 
+      "caption": "Switzerland imported 251 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CHOilBblPortrait_en.png", 
+      "rank": 28, 
+      "id": "CH"
+    }, 
+    {
+      "name": "Israel", 
+      "value": "234 kbd", 
+      "caption": "Israel imported 234 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ILOilBblPortrait_en.png", 
+      "rank": 29, 
+      "id": "IL"
+    }, 
+    {
+      "name": "United Kingdom", 
+      "value": "233 kbd", 
+      "caption": "United Kingdom imported 233 thousand barrels per day in 2010. The Piper Alpha disaster in 1988 reduced offshore production for several years. Since 2000, UK oil fields have been in steady decline.", 
+      "imageName": "EIA2011GBOilBblPortrait_en.png", 
+      "rank": 30, 
+      "id": "GB"
+    }, 
+    {
+      "name": "Ukraine", 
+      "value": "214 kbd", 
+      "caption": "Ukraine imported 214 thousand barrels per day in 2010. Ukrainian oil consumption is down sharply since the fall of the Soviet Union.", 
+      "imageName": "EIA2011UAOilBblPortrait_en.png", 
+      "rank": 31, 
+      "id": "UA"
+    }, 
+    {
+      "name": "Morocco", 
+      "value": "205 kbd", 
+      "caption": "Morocco imported 205 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MAOilBblPortrait_en.png", 
+      "rank": 32, 
+      "id": "MA"
+    }, 
+    {
+      "name": "Finland", 
+      "value": "203 kbd", 
+      "caption": "Finland imported 203 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011FIOilBblPortrait_en.png", 
+      "rank": 33, 
+      "id": "FI"
+    }, 
+    {
+      "name": "Czech Republic", 
+      "value": "186 kbd", 
+      "caption": "Czech Republic imported 186 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CZOilBblPortrait_en.png", 
+      "rank": 34, 
+      "id": "CZ"
+    }, 
+    {
+      "name": "Ireland", 
+      "value": "165 kbd", 
+      "caption": "Ireland imported 165 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011IEOilBblPortrait_en.png", 
+      "rank": 35, 
+      "id": "IE"
+    }, 
+    {
+      "name": "Puerto Rico", 
+      "value": "149 kbd", 
+      "caption": "Puerto Rico imported 149 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PROilBblPortrait_en.png", 
+      "rank": 36, 
+      "id": "PR"
+    }, 
+    {
+      "name": "Belarus", 
+      "value": "132 kbd", 
+      "caption": "Belarus imported 132 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BYOilBblPortrait_en.png", 
+      "rank": 37, 
+      "id": "BY"
+    }, 
+    {
+      "name": "Cuba", 
+      "value": "125 kbd", 
+      "caption": "Cuba imported 125 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CUOilBblPortrait_en.png", 
+      "rank": 38, 
+      "id": "CU"
+    }, 
+    {
+      "name": "Dominican Republic", 
+      "value": "119 kbd", 
+      "caption": "Dominican Republic imported 119 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011DOOilBblPortrait_en.png", 
+      "rank": 39, 
+      "id": "DO"
+    }, 
+    {
+      "name": "Hungary", 
+      "value": "112 kbd", 
+      "caption": "Hungary imported 112 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HUOilBblPortrait_en.png", 
+      "rank": 40, 
+      "id": "HU"
+    }, 
+    {
+      "name": "Lebanon", 
+      "value": "106 kbd", 
+      "caption": "Lebanon imported 106 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LBOilBblPortrait_en.png", 
+      "rank": 41, 
+      "id": "LB"
+    }, 
+    {
+      "name": "Jordan", 
+      "value": "98 kbd", 
+      "caption": "Jordan imported 98 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011JOOilBblPortrait_en.png", 
+      "rank": 42, 
+      "id": "JO"
+    }, 
+    {
+      "name": "Panama", 
+      "value": "97 kbd", 
+      "caption": "Panama imported 97 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PAOilBblPortrait_en.png", 
+      "rank": 43, 
+      "id": "PA"
+    }, 
+    {
+      "name": "New Zealand", 
+      "value": "94 kbd", 
+      "caption": "New Zealand imported 94 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NZOilBblPortrait_en.png", 
+      "rank": 44, 
+      "id": "NZ"
+    }, 
+    {
+      "name": "Sri Lanka", 
+      "value": "93 kbd", 
+      "caption": "Sri Lanka imported 93 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LKOilBblPortrait_en.png", 
+      "rank": 45, 
+      "id": "LK"
+    }, 
+    {
+      "name": "Bangladesh", 
+      "value": "92 kbd", 
+      "caption": "Bangladesh imported 92 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BDOilBblPortrait_en.png", 
+      "rank": 46, 
+      "id": "BD"
+    }, 
+    {
+      "name": "Romania", 
+      "value": "89 kbd", 
+      "caption": "Romania imported 89 thousand barrels per day in 2010. Romania was the most important source of oil for Nazi Germany but is now in long term decline.", 
+      "imageName": "EIA2011ROOilBblPortrait_en.png", 
+      "rank": 47, 
+      "id": "RO"
+    }, 
+    {
+      "name": "Bulgaria", 
+      "value": "88 kbd", 
+      "caption": "Bulgaria imported 88 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BGOilBblPortrait_en.png", 
+      "rank": 48, 
+      "id": "BG"
+    }, 
+    {
+      "name": "Uzbekistan", 
+      "value": "85 kbd", 
+      "caption": "Uzbekistan imported 85 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UZOilBblPortrait_en.png", 
+      "rank": 49, 
+      "id": "UZ"
+    }, 
+    {
+      "name": "Kenya", 
+      "value": "78 kbd", 
+      "caption": "Kenya imported 78 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KEOilBblPortrait_en.png", 
+      "rank": 50, 
+      "id": "KE"
+    }, 
+    {
+      "name": "Egypt", 
+      "value": "77 kbd", 
+      "caption": "Egypt imported 77 thousand barrels per day in 2010. Egypt went from net exporter to net importer in 2009. The overthrow of the Mubarak regime occurred in 2010.", 
+      "imageName": "EIA2011EGOilBblPortrait_en.png", 
+      "rank": 51, 
+      "id": "EG"
+    }, 
+    {
+      "name": "Slovakia", 
+      "value": "75 kbd", 
+      "caption": "Slovakia imported 75 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SKOilBblPortrait_en.png", 
+      "rank": 52, 
+      "id": "SK"
+    }, 
+    {
+      "name": "Croatia", 
+      "value": "75 kbd", 
+      "caption": "Croatia imported 75 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HROilBblPortrait_en.png", 
+      "rank": 53, 
+      "id": "HR"
+    }, 
+    {
+      "name": "Serbia", 
+      "value": "74 kbd", 
+      "caption": "Serbia imported 74 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011RSOilBblPortrait_en.png", 
+      "rank": 54, 
+      "id": "RS"
+    }, 
+    {
+      "name": "Netherlands Antilles", 
+      "value": "71 kbd", 
+      "caption": "Netherlands Antilles imported 71 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ANOilBblPortrait_en.png", 
+      "rank": 55, 
+      "id": "AN"
+    }, 
+    {
+      "name": "U.S. Virgin Islands", 
+      "value": "68 kbd", 
+      "caption": "U.S. Virgin Islands imported 68 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VIOilBblPortrait_en.png", 
+      "rank": 56, 
+      "id": "VI"
+    }, 
+    {
+      "name": "Jamaica", 
+      "value": "64 kbd", 
+      "caption": "Jamaica imported 64 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011JMOilBblPortrait_en.png", 
+      "rank": 57, 
+      "id": "JM"
+    }, 
+    {
+      "name": "Slovenia", 
+      "value": "63 kbd", 
+      "caption": "Slovenia imported 63 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SIOilBblPortrait_en.png", 
+      "rank": 58, 
+      "id": "SI"
+    }, 
+    {
+      "name": "Lithuania", 
+      "value": "61 kbd", 
+      "caption": "Lithuania imported 61 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LTOilBblPortrait_en.png", 
+      "rank": 59, 
+      "id": "LT"
+    }, 
+    {
+      "name": "Cyprus", 
+      "value": "61 kbd", 
+      "caption": "Cyprus imported 61 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CYOilBblPortrait_en.png", 
+      "rank": 60, 
+      "id": "CY"
+    }, 
+    {
+      "name": "Guatemala", 
+      "value": "58 kbd", 
+      "caption": "Guatemala imported 58 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GTOilBblPortrait_en.png", 
+      "rank": 61, 
+      "id": "GT"
+    }, 
+    {
+      "name": "Luxembourg", 
+      "value": "57 kbd", 
+      "caption": "Luxembourg imported 57 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LUOilBblPortrait_en.png", 
+      "rank": 62, 
+      "id": "LU"
+    }, 
+    {
+      "name": "Armenia", 
+      "value": "52 kbd", 
+      "caption": "Armenia imported 52 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AMOilBblPortrait_en.png", 
+      "rank": 63, 
+      "id": "AM"
+    }, 
+    {
+      "name": "Ghana", 
+      "value": "51 kbd", 
+      "caption": "Ghana imported 51 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GHOilBblPortrait_en.png", 
+      "rank": 64, 
+      "id": "GH"
+    }, 
+    {
+      "name": "Uruguay", 
+      "value": "51 kbd", 
+      "caption": "Uruguay imported 51 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UYOilBblPortrait_en.png", 
+      "rank": 65, 
+      "id": "UY"
+    }, 
+    {
+      "name": "Honduras", 
+      "value": "51 kbd", 
+      "caption": "Honduras imported 51 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HNOilBblPortrait_en.png", 
+      "rank": 66, 
+      "id": "HN"
+    }, 
+    {
+      "name": "El Salvador", 
+      "value": "47 kbd", 
+      "caption": "El Salvador imported 47 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SVOilBblPortrait_en.png", 
+      "rank": 67, 
+      "id": "SV"
+    }, 
+    {
+      "name": "Costa Rica", 
+      "value": "47 kbd", 
+      "caption": "Costa Rica imported 47 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CROilBblPortrait_en.png", 
+      "rank": 68, 
+      "id": "CR"
+    }, 
+    {
+      "name": "Ethiopia", 
+      "value": "47 kbd", 
+      "caption": "Ethiopia imported 47 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ETOilBblPortrait_en.png", 
+      "rank": 69, 
+      "id": "ET"
+    }, 
+    {
+      "name": "Senegal", 
+      "value": "41 kbd", 
+      "caption": "Senegal imported 41 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SNOilBblPortrait_en.png", 
+      "rank": 70, 
+      "id": "SN"
+    }, 
+    {
+      "name": "Latvia", 
+      "value": "41 kbd", 
+      "caption": "Latvia imported 41 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LVOilBblPortrait_en.png", 
+      "rank": 71, 
+      "id": "LV"
+    }, 
+    {
+      "name": "Tajikistan", 
+      "value": "40 kbd", 
+      "caption": "Tajikistan imported 40 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TJOilBblPortrait_en.png", 
+      "rank": 72, 
+      "id": "TJ"
+    }, 
+    {
+      "name": "Tanzania", 
+      "value": "38 kbd", 
+      "caption": "Tanzania imported 38 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TZOilBblPortrait_en.png", 
+      "rank": 73, 
+      "id": "TZ"
+    }, 
+    {
+      "name": "Bahamas", 
+      "value": "35 kbd", 
+      "caption": "Bahamas imported 35 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BSOilBblPortrait_en.png", 
+      "rank": 74, 
+      "id": "BS"
+    }, 
+    {
+      "name": "Cambodia", 
+      "value": "32 kbd", 
+      "caption": "Cambodia imported 32 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KHOilBblPortrait_en.png", 
+      "rank": 75, 
+      "id": "KH"
+    }, 
+    {
+      "name": "Paraguay", 
+      "value": "31 kbd", 
+      "caption": "Paraguay imported 31 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PYOilBblPortrait_en.png", 
+      "rank": 76, 
+      "id": "PY"
+    }, 
+    {
+      "name": "Peru", 
+      "value": "31 kbd", 
+      "caption": "Peru imported 31 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PEOilBblPortrait_en.png", 
+      "rank": 77, 
+      "id": "PE"
+    }, 
+    {
+      "name": "Nicaragua", 
+      "value": "30 kbd", 
+      "caption": "Nicaragua imported 30 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NIOilBblPortrait_en.png", 
+      "rank": 78, 
+      "id": "NI"
+    }, 
+    {
+      "name": "Bosnia and Herzegovina", 
+      "value": "29 kbd", 
+      "caption": "Bosnia and Herzegovina imported 29 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BAOilBblPortrait_en.png", 
+      "rank": 79, 
+      "id": "BA"
+    }, 
+    {
+      "name": "Benin", 
+      "value": "25 kbd", 
+      "caption": "Benin imported 25 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BJOilBblPortrait_en.png", 
+      "rank": 80, 
+      "id": "BJ"
+    }, 
+    {
+      "name": "Gibraltar", 
+      "value": "25 kbd", 
+      "caption": "Gibraltar imported 25 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GIOilBblPortrait_en.png", 
+      "rank": 81, 
+      "id": "GI"
+    }, 
+    {
+      "name": "Palestinian Territory", 
+      "value": "24 kbd", 
+      "caption": "Palestinian Territory imported 24 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PSOilBblPortrait_en.png", 
+      "rank": 82, 
+      "id": "PS"
+    }, 
+    {
+      "name": "Estonia", 
+      "value": "23 kbd", 
+      "caption": "Estonia imported 23 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011EEOilBblPortrait_en.png", 
+      "rank": 83, 
+      "id": "EE"
+    }, 
+    {
+      "name": "Mauritius", 
+      "value": "23 kbd", 
+      "caption": "Mauritius imported 23 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MUOilBblPortrait_en.png", 
+      "rank": 84, 
+      "id": "MU"
+    }, 
+    {
+      "name": "Togo", 
+      "value": "23 kbd", 
+      "caption": "Togo imported 23 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TGOilBblPortrait_en.png", 
+      "rank": 85, 
+      "id": "TG"
+    }, 
+    {
+      "name": "Madagascar", 
+      "value": "22 kbd", 
+      "caption": "Madagascar imported 22 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MGOilBblPortrait_en.png", 
+      "rank": 86, 
+      "id": "MG"
+    }, 
+    {
+      "name": "Albania", 
+      "value": "22 kbd", 
+      "caption": "Albania imported 22 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ALOilBblPortrait_en.png", 
+      "rank": 87, 
+      "id": "AL"
+    }, 
+    {
+      "name": "Reunion", 
+      "value": "21 kbd", 
+      "caption": "Reunion imported 21 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011REOilBblPortrait_en.png", 
+      "rank": 88, 
+      "id": "RE"
+    }, 
+    {
+      "name": "Moldova", 
+      "value": "20 kbd", 
+      "caption": "Moldova imported 20 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MDOilBblPortrait_en.png", 
+      "rank": 89, 
+      "id": "MD"
+    }, 
+    {
+      "name": "Nepal", 
+      "value": "20 kbd", 
+      "caption": "Nepal imported 20 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NPOilBblPortrait_en.png", 
+      "rank": 90, 
+      "id": "NP"
+    }, 
+    {
+      "name": "Macedonia", 
+      "value": "19 kbd", 
+      "caption": "Macedonia imported 19 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MKOilBblPortrait_en.png", 
+      "rank": 91, 
+      "id": "MK"
+    }, 
+    {
+      "name": "Malta", 
+      "value": "19 kbd", 
+      "caption": "Malta imported 19 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MTOilBblPortrait_en.png", 
+      "rank": 92, 
+      "id": "MT"
+    }, 
+    {
+      "name": "Iceland", 
+      "value": "18 kbd", 
+      "caption": "Iceland imported 18 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ISOilBblPortrait_en.png", 
+      "rank": 93, 
+      "id": "IS"
+    }, 
+    {
+      "name": "Martinique", 
+      "value": "17 kbd", 
+      "caption": "Martinique imported 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MQOilBblPortrait_en.png", 
+      "rank": 94, 
+      "id": "MQ"
+    }, 
+    {
+      "name": "Mongolia", 
+      "value": "17 kbd", 
+      "caption": "Mongolia imported 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MNOilBblPortrait_en.png", 
+      "rank": 95, 
+      "id": "MN"
+    }, 
+    {
+      "name": "Macau SAR China", 
+      "value": "17 kbd", 
+      "caption": "Macau SAR China imported 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MOOilBblPortrait_en.png", 
+      "rank": 96, 
+      "id": "MO"
+    }, 
+    {
+      "name": "Mozambique", 
+      "value": "17 kbd", 
+      "caption": "Mozambique imported 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MZOilBblPortrait_en.png", 
+      "rank": 97, 
+      "id": "MZ"
+    }, 
+    {
+      "name": "Guadeloupe", 
+      "value": "16 kbd", 
+      "caption": "Guadeloupe imported 16 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GPOilBblPortrait_en.png", 
+      "rank": 98, 
+      "id": "GP"
+    }, 
+    {
+      "name": "Myanmar", 
+      "value": "16 kbd", 
+      "caption": "Myanmar imported 16 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MMOilBblPortrait_en.png", 
+      "rank": 99, 
+      "id": "MM"
+    }, 
+    {
+      "name": "Zambia", 
+      "value": "16 kbd", 
+      "caption": "Zambia imported 16 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ZMOilBblPortrait_en.png", 
+      "rank": 100, 
+      "id": "ZM"
+    }, 
+    {
+      "name": "Kyrgyzstan", 
+      "value": "15 kbd", 
+      "caption": "Kyrgyzstan imported 15 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KGOilBblPortrait_en.png", 
+      "rank": 101, 
+      "id": "KG"
+    }, 
+    {
+      "name": "Botswana", 
+      "value": "15 kbd", 
+      "caption": "Botswana imported 15 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BWOilBblPortrait_en.png", 
+      "rank": 102, 
+      "id": "BW"
+    }, 
+    {
+      "name": "Fiji", 
+      "value": "15 kbd", 
+      "caption": "Fiji imported 15 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011FJOilBblPortrait_en.png", 
+      "rank": 103, 
+      "id": "FJ"
+    }, 
+    {
+      "name": "New Caledonia", 
+      "value": "14 kbd", 
+      "caption": "New Caledonia imported 14 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NCOilBblPortrait_en.png", 
+      "rank": 104, 
+      "id": "NC"
+    }, 
+    {
+      "name": "Uganda", 
+      "value": "14 kbd", 
+      "caption": "Uganda imported 14 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UGOilBblPortrait_en.png", 
+      "rank": 105, 
+      "id": "UG"
+    }, 
+    {
+      "name": "North Korea", 
+      "value": "13 kbd", 
+      "caption": "North Korea imported 13 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KPOilBblPortrait_en.png", 
+      "rank": 106, 
+      "id": "KP"
+    }, 
+    {
+      "name": "Georgia", 
+      "value": "12 kbd", 
+      "caption": "Georgia imported 12 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GEOilBblPortrait_en.png", 
+      "rank": 107, 
+      "id": "GE"
+    }, 
+    {
+      "name": "Djibouti", 
+      "value": "12 kbd", 
+      "caption": "Djibouti imported 12 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011DJOilBblPortrait_en.png", 
+      "rank": 108, 
+      "id": "DJ"
+    }, 
+    {
+      "name": "Haiti", 
+      "value": "12 kbd", 
+      "caption": "Haiti imported 12 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HTOilBblPortrait_en.png", 
+      "rank": 109, 
+      "id": "HT"
+    }, 
+    {
+      "name": "Zimbabwe", 
+      "value": "11 kbd", 
+      "caption": "Zimbabwe imported 11 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ZWOilBblPortrait_en.png", 
+      "rank": 110, 
+      "id": "ZW"
+    }, 
+    {
+      "name": "Guyana", 
+      "value": "10 kbd", 
+      "caption": "Guyana imported 10 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GYOilBblPortrait_en.png", 
+      "rank": 111, 
+      "id": "GY"
+    }, 
+    {
+      "name": "Burkina Faso", 
+      "value": "9 kbd", 
+      "caption": "Burkina Faso imported 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BFOilBblPortrait_en.png", 
+      "rank": 112, 
+      "id": "BF"
+    }, 
+    {
+      "name": "Guinea", 
+      "value": "9 kbd", 
+      "caption": "Guinea imported 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GNOilBblPortrait_en.png", 
+      "rank": 113, 
+      "id": "GN"
+    }, 
+    {
+      "name": "Guam", 
+      "value": "9 kbd", 
+      "caption": "Guam imported 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GUOilBblPortrait_en.png", 
+      "rank": 114, 
+      "id": "GU"
+    }, 
+    {
+      "name": "Sierra Leone", 
+      "value": "9 kbd", 
+      "caption": "Sierra Leone imported 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SLOilBblPortrait_en.png", 
+      "rank": 115, 
+      "id": "SL"
+    }, 
+    {
+      "name": "Mauritania", 
+      "value": "8 kbd", 
+      "caption": "Mauritania imported 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MROilBblPortrait_en.png", 
+      "rank": 116, 
+      "id": "MR"
+    }, 
+    {
+      "name": "Barbados", 
+      "value": "8 kbd", 
+      "caption": "Barbados imported 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BBOilBblPortrait_en.png", 
+      "rank": 117, 
+      "id": "BB"
+    }, 
+    {
+      "name": "Bolivia", 
+      "value": "8 kbd", 
+      "caption": "Bolivia imported 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BOOilBblPortrait_en.png", 
+      "rank": 118, 
+      "id": "BO"
+    }, 
+    {
+      "name": "Malawi", 
+      "value": "8 kbd", 
+      "caption": "Malawi imported 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MWOilBblPortrait_en.png", 
+      "rank": 119, 
+      "id": "MW"
+    }, 
+    {
+      "name": "French Polynesia", 
+      "value": "8 kbd", 
+      "caption": "French Polynesia imported 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PFOilBblPortrait_en.png", 
+      "rank": 120, 
+      "id": "PF"
+    }, 
+    {
+      "name": "Seychelles", 
+      "value": "8 kbd", 
+      "caption": "Seychelles imported 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SCOilBblPortrait_en.png", 
+      "rank": 121, 
+      "id": "SC"
+    }, 
+    {
+      "name": "French Guiana", 
+      "value": "7 kbd", 
+      "caption": "French Guiana imported 7 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GFOilBblPortrait_en.png", 
+      "rank": 122, 
+      "id": "GF"
+    }, 
+    {
+      "name": "Eritrea", 
+      "value": "6 kbd", 
+      "caption": "Eritrea imported 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011EROilBblPortrait_en.png", 
+      "rank": 123, 
+      "id": "ER"
+    }, 
+    {
+      "name": "Mali", 
+      "value": "6 kbd", 
+      "caption": "Mali imported 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MLOilBblPortrait_en.png", 
+      "rank": 124, 
+      "id": "ML"
+    }, 
+    {
+      "name": "Maldives", 
+      "value": "6 kbd", 
+      "caption": "Maldives imported 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MVOilBblPortrait_en.png", 
+      "rank": 125, 
+      "id": "MV"
+    }, 
+    {
+      "name": "Niger", 
+      "value": "6 kbd", 
+      "caption": "Niger imported 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NEOilBblPortrait_en.png", 
+      "rank": 126, 
+      "id": "NE"
+    }, 
+    {
+      "name": "Rwanda", 
+      "value": "6 kbd", 
+      "caption": "Rwanda imported 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011RWOilBblPortrait_en.png", 
+      "rank": 127, 
+      "id": "RW"
+    }, 
+    {
+      "name": "Aruba", 
+      "value": "6 kbd", 
+      "caption": "Aruba imported 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AWOilBblPortrait_en.png", 
+      "rank": 128, 
+      "id": "AW"
+    }, 
+    {
+      "name": "Antigua and Barbuda", 
+      "value": "5 kbd", 
+      "caption": "Antigua and Barbuda imported 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AGOilBblPortrait_en.png", 
+      "rank": 129, 
+      "id": "AG"
+    }, 
+    {
+      "name": "Bermuda", 
+      "value": "5 kbd", 
+      "caption": "Bermuda imported 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BMOilBblPortrait_en.png", 
+      "rank": 130, 
+      "id": "BM"
+    }, 
+    {
+      "name": "Faroe Islands", 
+      "value": "5 kbd", 
+      "caption": "Faroe Islands imported 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011FOOilBblPortrait_en.png", 
+      "rank": 131, 
+      "id": "FO"
+    }, 
+    {
+      "name": "Somalia", 
+      "value": "5 kbd", 
+      "caption": "Somalia imported 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SOOilBblPortrait_en.png", 
+      "rank": 132, 
+      "id": "SO"
+    }, 
+    {
+      "name": "Afghanistan", 
+      "value": "5 kbd", 
+      "caption": "Afghanistan imported 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AFOilBblPortrait_en.png", 
+      "rank": 133, 
+      "id": "AF"
+    }, 
+    {
+      "name": "Liberia", 
+      "value": "4 kbd", 
+      "caption": "Liberia imported 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LROilBblPortrait_en.png", 
+      "rank": 134, 
+      "id": "LR"
+    }, 
+    {
+      "name": "American Samoa", 
+      "value": "4 kbd", 
+      "caption": "American Samoa imported 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ASOilBblPortrait_en.png", 
+      "rank": 135, 
+      "id": "AS"
+    }, 
+    {
+      "name": "Greenland", 
+      "value": "4 kbd", 
+      "caption": "Greenland imported 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GLOilBblPortrait_en.png", 
+      "rank": 136, 
+      "id": "GL"
+    }, 
+    {
+      "name": "Montenegro", 
+      "value": "4 kbd", 
+      "caption": "Montenegro imported 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MEOilBblPortrait_en.png", 
+      "rank": 137, 
+      "id": "ME"
+    }, 
+    {
+      "name": "Swaziland", 
+      "value": "4 kbd", 
+      "caption": "Swaziland imported 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SZOilBblPortrait_en.png", 
+      "rank": 138, 
+      "id": "SZ"
+    }, 
+    {
+      "name": "Burundi", 
+      "value": "3 kbd", 
+      "caption": "Burundi imported 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BIOilBblPortrait_en.png", 
+      "rank": 139, 
+      "id": "BI"
+    }, 
+    {
+      "name": "Grenada", 
+      "value": "3 kbd", 
+      "caption": "Grenada imported 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GDOilBblPortrait_en.png", 
+      "rank": 140, 
+      "id": "GD"
+    }, 
+    {
+      "name": "Guinea-Bissau", 
+      "value": "3 kbd", 
+      "caption": "Guinea-Bissau imported 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GWOilBblPortrait_en.png", 
+      "rank": 141, 
+      "id": "GW"
+    }, 
+    {
+      "name": "Cayman Islands", 
+      "value": "3 kbd", 
+      "caption": "Cayman Islands imported 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KYOilBblPortrait_en.png", 
+      "rank": 142, 
+      "id": "KY"
+    }, 
+    {
+      "name": "Laos", 
+      "value": "3 kbd", 
+      "caption": "Laos imported 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LAOilBblPortrait_en.png", 
+      "rank": 143, 
+      "id": "LA"
+    }, 
+    {
+      "name": "Saint Lucia", 
+      "value": "3 kbd", 
+      "caption": "Saint Lucia imported 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LCOilBblPortrait_en.png", 
+      "rank": 144, 
+      "id": "LC"
+    }, 
+    {
+      "name": "Belize", 
+      "value": "3 kbd", 
+      "caption": "Belize imported 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BZOilBblPortrait_en.png", 
+      "rank": 145, 
+      "id": "BZ"
+    }, 
+    {
+      "name": "Papua New Guinea", 
+      "value": "2 kbd", 
+      "caption": "Papua New Guinea imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PGOilBblPortrait_en.png", 
+      "rank": 146, 
+      "id": "PG"
+    }, 
+    {
+      "name": "Antarctica", 
+      "value": "2 kbd", 
+      "caption": "Antarctica imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AQOilBblPortrait_en.png", 
+      "rank": 147, 
+      "id": "AQ"
+    }, 
+    {
+      "name": "Central African Republic", 
+      "value": "2 kbd", 
+      "caption": "Central African Republic imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CFOilBblPortrait_en.png", 
+      "rank": 148, 
+      "id": "CF"
+    }, 
+    {
+      "name": "Cape Verde", 
+      "value": "2 kbd", 
+      "caption": "Cape Verde imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CVOilBblPortrait_en.png", 
+      "rank": 149, 
+      "id": "CV"
+    }, 
+    {
+      "name": "Western Sahara", 
+      "value": "2 kbd", 
+      "caption": "Western Sahara imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011EHOilBblPortrait_en.png", 
+      "rank": 150, 
+      "id": "EH"
+    }, 
+    {
+      "name": "Gambia", 
+      "value": "2 kbd", 
+      "caption": "Gambia imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GMOilBblPortrait_en.png", 
+      "rank": 151, 
+      "id": "GM"
+    }, 
+    {
+      "name": "Saint Kitts and Nevis", 
+      "value": "2 kbd", 
+      "caption": "Saint Kitts and Nevis imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KNOilBblPortrait_en.png", 
+      "rank": 152, 
+      "id": "KN"
+    }, 
+    {
+      "name": "Lesotho", 
+      "value": "2 kbd", 
+      "caption": "Lesotho imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LSOilBblPortrait_en.png", 
+      "rank": 153, 
+      "id": "LS"
+    }, 
+    {
+      "name": "Solomon Islands", 
+      "value": "2 kbd", 
+      "caption": "Solomon Islands imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SBOilBblPortrait_en.png", 
+      "rank": 154, 
+      "id": "SB"
+    }, 
+    {
+      "name": "United States Minor Outlying Islands", 
+      "value": "2 kbd", 
+      "caption": "United States Minor Outlying Islands imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UMOilBblPortrait_en.png", 
+      "rank": 155, 
+      "id": "UM"
+    }, 
+    {
+      "name": "Saint Vincent and the Grenadines", 
+      "value": "2 kbd", 
+      "caption": "Saint Vincent and the Grenadines imported 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VCOilBblPortrait_en.png", 
+      "rank": 156, 
+      "id": "VC"
+    }, 
+    {
+      "name": "Nauru", 
+      "value": "1 kbd", 
+      "caption": "Nauru imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NROilBblPortrait_en.png", 
+      "rank": 157, 
+      "id": "NR"
+    }, 
+    {
+      "name": "Bhutan", 
+      "value": "1 kbd", 
+      "caption": "Bhutan imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BTOilBblPortrait_en.png", 
+      "rank": 158, 
+      "id": "BT"
+    }, 
+    {
+      "name": "Cook Islands", 
+      "value": "1 kbd", 
+      "caption": "Cook Islands imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CKOilBblPortrait_en.png", 
+      "rank": 159, 
+      "id": "CK"
+    }, 
+    {
+      "name": "Dominica", 
+      "value": "1 kbd", 
+      "caption": "Dominica imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011DMOilBblPortrait_en.png", 
+      "rank": 160, 
+      "id": "DM"
+    }, 
+    {
+      "name": "Comoros", 
+      "value": "1 kbd", 
+      "caption": "Comoros imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KMOilBblPortrait_en.png", 
+      "rank": 161, 
+      "id": "KM"
+    }, 
+    {
+      "name": "Montserrat", 
+      "value": "1 kbd", 
+      "caption": "Montserrat imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MSOilBblPortrait_en.png", 
+      "rank": 162, 
+      "id": "MS"
+    }, 
+    {
+      "name": "Saint Pierre and Miquelon", 
+      "value": "1 kbd", 
+      "caption": "Saint Pierre and Miquelon imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PMOilBblPortrait_en.png", 
+      "rank": 163, 
+      "id": "PM"
+    }, 
+    {
+      "name": "Sao Tome and Principe", 
+      "value": "1 kbd", 
+      "caption": "Sao Tome and Principe imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011STOilBblPortrait_en.png", 
+      "rank": 164, 
+      "id": "ST"
+    }, 
+    {
+      "name": "Tonga", 
+      "value": "1 kbd", 
+      "caption": "Tonga imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TOOilBblPortrait_en.png", 
+      "rank": 165, 
+      "id": "TO"
+    }, 
+    {
+      "name": "British Virgin Islands", 
+      "value": "1 kbd", 
+      "caption": "British Virgin Islands imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VGOilBblPortrait_en.png", 
+      "rank": 166, 
+      "id": "VG"
+    }, 
+    {
+      "name": "Vanuatu", 
+      "value": "1 kbd", 
+      "caption": "Vanuatu imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VUOilBblPortrait_en.png", 
+      "rank": 167, 
+      "id": "VU"
+    }, 
+    {
+      "name": "Samoa", 
+      "value": "1 kbd", 
+      "caption": "Samoa imported 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011WSOilBblPortrait_en.png", 
+      "rank": 168, 
+      "id": "WS"
+    }, 
+    {
+      "name": "Bahrain", 
+      "value": "none", 
+      "caption": "Bahrain imported no oil in 2010. ", 
+      "imageName": "EIA2011BHOilBblPortrait_en.png", 
+      "rank": 169, 
+      "id": "BH"
+    }, 
+    {
+      "name": "Suriname", 
+      "value": "none", 
+      "caption": "Suriname imported no oil in 2010. ", 
+      "imageName": "EIA2011SROilBblPortrait_en.png", 
+      "rank": 170, 
+      "id": "SR"
+    }, 
+    {
+      "name": "Turks and Caicos Islands", 
+      "value": "none", 
+      "caption": "Turks and Caicos Islands imported no oil in 2010. ", 
+      "imageName": "EIA2011TCOilBblPortrait_en.png", 
+      "rank": 171, 
+      "id": "TC"
+    }, 
+    {
+      "name": "Falkland Islands", 
+      "value": "none", 
+      "caption": "Falkland Islands imported no oil in 2010. ", 
+      "imageName": "EIA2011FKOilBblPortrait_en.png", 
+      "rank": 172, 
+      "id": "FK"
+    }, 
+    {
+      "name": "Kiribati", 
+      "value": "none", 
+      "caption": "Kiribati imported no oil in 2010. ", 
+      "imageName": "EIA2011KIOilBblPortrait_en.png", 
+      "rank": 173, 
+      "id": "KI"
+    }, 
+    {
+      "name": "Tunisia", 
+      "value": "none", 
+      "caption": "Tunisia imported no oil in 2010. ", 
+      "imageName": "EIA2011TNOilBblPortrait_en.png", 
+      "rank": 174, 
+      "id": "TN"
+    }, 
+    {
+      "name": "Saint Helena", 
+      "value": "none", 
+      "caption": "Saint Helena imported no oil in 2010. ", 
+      "imageName": "EIA2011SHOilBblPortrait_en.png", 
+      "rank": 175, 
+      "id": "SH"
+    }, 
+    {
+      "name": "Niue", 
+      "value": "none", 
+      "caption": "Niue imported no oil in 2010. ", 
+      "imageName": "EIA2011NUOilBblPortrait_en.png", 
+      "rank": 176, 
+      "id": "NU"
+    }, 
+    {
+      "name": "Congo - Kinshasa", 
+      "value": "8 kbd", 
+      "caption": "Congo - Kinshasa exported 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CDOilBblPortrait_en.png", 
+      "rank": 177, 
+      "id": "CD"
+    }, 
+    {
+      "name": "Ivory Coast", 
+      "value": "20 kbd", 
+      "caption": "Ivory Coast exported 20 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CIOilBblPortrait_en.png", 
+      "rank": 178, 
+      "id": "CI"
+    }, 
+    {
+      "name": "Cameroon", 
+      "value": "35 kbd", 
+      "caption": "Cameroon exported 35 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CMOilBblPortrait_en.png", 
+      "rank": 179, 
+      "id": "CM"
+    }, 
+    {
+      "name": "Vietnam", 
+      "value": "53 kbd", 
+      "caption": "Vietnam exported 53 thousand barrels per day in 2010. Production has stabilized after a rapid rise but consuption is still rising. Net exports are in decline.", 
+      "imageName": "EIA2011VNOilBblPortrait_en.png", 
+      "rank": 180, 
+      "id": "VN"
+    }, 
+    {
+      "name": "Denmark", 
+      "value": "81 kbd", 
+      "caption": "Denmark exported 81 thousand barrels per day in 2010. Danish production displays a well defined peak. Net exports have entered a steady decline.", 
+      "imageName": "EIA2011DKOilBblPortrait_en.png", 
+      "rank": 181, 
+      "id": "DK"
+    }, 
+    {
+      "name": "Turkmenistan", 
+      "value": "83 kbd", 
+      "caption": "Turkmenistan exported 83 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TMOilBblPortrait_en.png", 
+      "rank": 182, 
+      "id": "TM"
+    }, 
+    {
+      "name": "East Timor", 
+      "value": "85 kbd", 
+      "caption": "East Timor exported 85 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TLOilBblPortrait_en.png", 
+      "rank": 183, 
+      "id": "TL"
+    }, 
+    {
+      "name": "Brazil", 
+      "value": "92 kbd", 
+      "caption": "Brazil exported 92 thousand barrels per day in 2010. Production has risen sharply and Brazil is now a (small) net exporter.", 
+      "imageName": "EIA2011BROilBblPortrait_en.png", 
+      "rank": 184, 
+      "id": "BR"
+    }, 
+    {
+      "name": "Yemen", 
+      "value": "102 kbd", 
+      "caption": "Yemen exported 102 thousand barrels per day in 2010. Yemen is well past peak production. Current unrest will likely reduce production quantities.", 
+      "imageName": "EIA2011YEOilBblPortrait_en.png", 
+      "rank": 185, 
+      "id": "YE"
+    }, 
+    {
+      "name": "Malaysia", 
+      "value": "104 kbd", 
+      "caption": "Malaysia exported 104 thousand barrels per day in 2010. Trends of declining production and increasing consumption look set to soon convert Malaysia into a net importer.", 
+      "imageName": "EIA2011MYOilBblPortrait_en.png", 
+      "rank": 186, 
+      "id": "MY"
+    }, 
+    {
+      "name": "Trinidad and Tobago", 
+      "value": "104 kbd", 
+      "caption": "Trinidad and Tobago exported 104 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TTOilBblPortrait_en.png", 
+      "rank": 187, 
+      "id": "TT"
+    }, 
+    {
+      "name": "Syria", 
+      "value": "109 kbd", 
+      "caption": "Syria exported 109 thousand barrels per day in 2010. The production peak is evident but the events of 2011 will dramatically alter both production and consumption", 
+      "imageName": "EIA2011SYOilBblPortrait_en.png", 
+      "rank": 188, 
+      "id": "SY"
+    }, 
+    {
+      "name": "Chad", 
+      "value": "124 kbd", 
+      "caption": "Chad exported 124 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TDOilBblPortrait_en.png", 
+      "rank": 189, 
+      "id": "TD"
+    }, 
+    {
+      "name": "Brunei", 
+      "value": "142 kbd", 
+      "caption": "Brunei exported 142 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BNOilBblPortrait_en.png", 
+      "rank": 190, 
+      "id": "BN"
+    }, 
+    {
+      "name": "Argentina", 
+      "value": "145 kbd", 
+      "caption": "Argentina exported 145 thousand barrels per day in 2010. Trends of declining production and increasing consumption look set to soon convert Argentina into a net importer.", 
+      "imageName": "EIA2011AROilBblPortrait_en.png", 
+      "rank": 191, 
+      "id": "AR"
+    }, 
+    {
+      "name": "Gabon", 
+      "value": "210 kbd", 
+      "caption": "Gabon exported 210 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GAOilBblPortrait_en.png", 
+      "rank": 192, 
+      "id": "GA"
+    }, 
+    {
+      "name": "Ecuador", 
+      "value": "285 kbd", 
+      "caption": "Ecuador exported 285 thousand barrels per day in 2010. Since 2004, net exports have been in steady decline. The 1987 earthquake halved exports.", 
+      "imageName": "EIA2011ECOilBblPortrait_en.png", 
+      "rank": 193, 
+      "id": "EC"
+    }, 
+    {
+      "name": "Congo - Brazzaville", 
+      "value": "291 kbd", 
+      "caption": "Congo - Brazzaville exported 291 thousand barrels per day in 2010. Production has been rising. Consumption is still negligable.", 
+      "imageName": "EIA2011CGOilBblPortrait_en.png", 
+      "rank": 194, 
+      "id": "CG"
+    }, 
+    {
+      "name": "Equatorial Guinea", 
+      "value": "321 kbd", 
+      "caption": "Equatorial Guinea exported 321 thousand barrels per day in 2010. The rapid rise in offshore production has now tapered off. The US is the #1 destination for Guinean oil.", 
+      "imageName": "EIA2011GQOilBblPortrait_en.png", 
+      "rank": 195, 
+      "id": "GQ"
+    }, 
+    {
+      "name": "Sudan", 
+      "value": "416 kbd", 
+      "caption": "Sudan exported 416 thousand barrels per day in 2010. Production and net exports are up significantly. The recent partition of North and South may impact this trend.", 
+      "imageName": "EIA2011SDOilBblPortrait_en.png", 
+      "rank": 196, 
+      "id": "SD"
+    }, 
+    {
+      "name": "Colombia", 
+      "value": "505 kbd", 
+      "caption": "Colombia exported 505 thousand barrels per day in 2010. Production has risen recently and is anticipated to increase to 1.2 mbd by 2012.", 
+      "imageName": "EIA2011COOilBblPortrait_en.png", 
+      "rank": 197, 
+      "id": "CO"
+    }, 
+    {
+      "name": "Oman", 
+      "value": "726 kbd", 
+      "caption": "Oman exported 726 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011OMOilBblPortrait_en.png", 
+      "rank": 198, 
+      "id": "OM"
+    }, 
+    {
+      "name": "Mexico", 
+      "value": "842 kbd", 
+      "caption": "Mexico exported 842 thousand barrels per day in 2010. Mexican production and net exports are down recently as the giant Cantarell field enters terminal decline.", 
+      "imageName": "EIA2011MXOilBblPortrait_en.png", 
+      "rank": 199, 
+      "id": "MX"
+    }, 
+    {
+      "name": "Azerbaijan", 
+      "value": "937 kbd", 
+      "caption": "Azerbaijan exported 937 thousand barrels per day in 2010. The world's first oil well was drilled in 1846 in Azerbaijan. Production and net exports are up significantly.", 
+      "imageName": "EIA2011AZOilBblPortrait_en.png", 
+      "rank": 200, 
+      "id": "AZ"
+    }, 
+    {
+      "name": "Canada", 
+      "value": "1.22 mbd", 
+      "caption": "Canada exported 1.2 million barrels per day in 2010. Production is up primarily due to increased tar sands production in Alberta.", 
+      "imageName": "EIA2011CAOilBblPortrait_en.png", 
+      "rank": 201, 
+      "id": "CA"
+    }, 
+    {
+      "name": "Qatar", 
+      "value": "1.27 mbd", 
+      "caption": "Qatar exported 1.3 million barrels per day in 2010. Better known for natural gas production, oil production is also up steeply in Qatar.", 
+      "imageName": "EIA2011QAOilBblPortrait_en.png", 
+      "rank": 202, 
+      "id": "QA"
+    }, 
+    {
+      "name": "Kazakhstan", 
+      "value": "1.36 mbd", 
+      "caption": "Kazakhstan exported 1.4 million barrels per day in 2010. Production and net exports are up significantly.", 
+      "imageName": "EIA2011KZOilBblPortrait_en.png", 
+      "rank": 203, 
+      "id": "KZ"
+    }, 
+    {
+      "name": "Libya", 
+      "value": "1.50 mbd", 
+      "caption": "Libya exported 1.5 million barrels per day in 2010. The recent revolution in Lybia means that Lybian production and net exports will look very different for 2011.", 
+      "imageName": "EIA2011LYOilBblPortrait_en.png", 
+      "rank": 204, 
+      "id": "LY"
+    }, 
+    {
+      "name": "Venezuela", 
+      "value": "1.63 mbd", 
+      "caption": "Venezuela exported 1.6 million barrels per day in 2010. Production is in decline largely due to a lack of investment while consumption is steadily rising.", 
+      "imageName": "EIA2011VEOilBblPortrait_en.png", 
+      "rank": 205, 
+      "id": "VE"
+    }, 
+    {
+      "name": "Iraq", 
+      "value": "1.71 mbd", 
+      "caption": "Iraq exported 1.7 million barrels per day in 2010. Iraq's production history is chaotic because of sanctions, war and ongoing dislocation. But consumption is steadily rising.", 
+      "imageName": "EIA2011IQOilBblPortrait_en.png", 
+      "rank": 206, 
+      "id": "IQ"
+    }, 
+    {
+      "name": "Algeria", 
+      "value": "1.77 mbd", 
+      "caption": "Algeria exported 1.8 million barrels per day in 2010. Production and net exports are up over the last decade.", 
+      "imageName": "EIA2011DZOilBblPortrait_en.png", 
+      "rank": 207, 
+      "id": "DZ"
+    }, 
+    {
+      "name": "Angola", 
+      "value": "1.91 mbd", 
+      "caption": "Angola exported 1.9 million barrels per day in 2010. Production and net exports are up significantly. Most production is located offshore.", 
+      "imageName": "EIA2011AOOilBblPortrait_en.png", 
+      "rank": 208, 
+      "id": "AO"
+    }, 
+    {
+      "name": "Norway", 
+      "value": "1.92 mbd", 
+      "caption": "Norway exported 1.9 million barrels per day in 2010. A perfect example of a geologically determined 'production peak'.", 
+      "imageName": "EIA2011NOOilBblPortrait_en.png", 
+      "rank": 209, 
+      "id": "NO"
+    }, 
+    {
+      "name": "Kuwait", 
+      "value": "2.10 mbd", 
+      "caption": "Kuwait exported 2.1 million barrels per day in 2010. Production has recently declined slightly. Oilfield damage resulting from the 1990 Iraqi invasion is obvious.", 
+      "imageName": "EIA2011KWOilBblPortrait_en.png", 
+      "rank": 210, 
+      "id": "KW"
+    }, 
+    {
+      "name": "Nigeria", 
+      "value": "2.18 mbd", 
+      "caption": "Nigeria exported 2.2 million barrels per day in 2010. Production, consumption and net exports are relatively stable.", 
+      "imageName": "EIA2011NGOilBblPortrait_en.png", 
+      "rank": 211, 
+      "id": "NG"
+    }, 
+    {
+      "name": "UAE", 
+      "value": "2.27 mbd", 
+      "caption": "UAE exported 2.3 million barrels per day in 2010. Production is currently rising more slowly than consumption.", 
+      "imageName": "EIA2011AEOilBblPortrait_en.png", 
+      "rank": 212, 
+      "id": "AE"
+    }, 
+    {
+      "name": "Iran", 
+      "value": "2.41 mbd", 
+      "caption": "Iran exported 2.4 million barrels per day in 2010. Production increases are barely keeping pace with increased consumption. Net exports are trending downward.", 
+      "imageName": "EIA2011IROilBblPortrait_en.png", 
+      "rank": 213, 
+      "id": "IR"
+    }, 
+    {
+      "name": "Russia", 
+      "value": "7.19 mbd", 
+      "caption": "Russia exported 7.2 million barrels per day in 2010. Production, consumption and net exports are steady. Data for Russia by itself are unavailable prior to the Soviet breakup.", 
+      "imageName": "EIA2011RUOilBblPortrait_en.png", 
+      "rank": 214, 
+      "id": "RU"
+    }, 
+    {
+      "name": "Saudi Arabia", 
+      "value": "7.88 mbd", 
+      "caption": "Saudi Arabia exported 7.9 million barrels per day in 2010. Production has been stable but consumption is steadily rising. Net exports are in decline.", 
+      "imageName": "EIA2011SAOilBblPortrait_en.png", 
+      "rank": 215, 
+      "id": "SA"
+    }
+  ], 
+  "imageBaseUrl": "http://mazamascience.com/iPhone/PeakOil/"
+}

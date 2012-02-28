@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>PeakOil</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>PeakOil</key>
+		<dict>
+			<key>Country</key>
+			<data>
+			IeBUZon9DCm/6tDCvXLkQHLuese67H5BdWPkFIpLVqU=
+			</data>
+			<key>NamedRanking</key>
+			<data>
+			6xD2HtPTbmy5tUmK7BflSyZozBvTY22STr9k87WDysg=
+			</data>
+			<key>Theme</key>
+			<data>
+			uPZ0Do/hvJEwgxLco2GaBSybdZC56VOlYzCBuVsyFZk=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

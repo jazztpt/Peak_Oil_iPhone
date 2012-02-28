@@ -1,0 +1,328 @@
+TPeakOil
+v7
+r0
+t325382668.715706
+cCheck dependencies
+cProcessInfoPlistFile /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/Info.plist PeakOil-Info.plist
+cCompileXIB /Users/annacallahan/Programming/iPhone/PeakOil/MainWindow.xib
+cCompileXIB /Users/annacallahan/Programming/iPhone/PeakOil/RootViewController.xib
+cProcessPCH /var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch.gch PeakOil_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PeakOil.momd /Users/annacallahan/Programming/iPhone/PeakOil/PeakOil.xcdatamodeld
+cCompileC build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/main.o /Users/annacallahan/Programming/iPhone/PeakOil/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/PeakOilAppDelegate.o /Users/annacallahan/Programming/iPhone/PeakOil/Classes/PeakOilAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/RootViewController.o /Users/annacallahan/Programming/iPhone/PeakOil/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/APIManager.o /Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.h
+c000000004DB1D1D2000000000000058C
+t1303499218
+s1420
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m
+c000000004DB1D1CC00000000000009C6
+t1303499212
+s2502
+i"APIManager.h"
+i"ASIFormDataRequest.h"
+i"JSON.h"
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/Classes/PeakOilAppDelegate.h
+c000000004DB4B3ED00000000000003E4
+t1303688173
+s996
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/Classes/PeakOilAppDelegate.m
+c000000004DB4B3ED0000000000001FC4
+t1303688173
+s8132
+i"PeakOilAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/Classes/RootViewController.h
+c000000004DB4B5F4000000000000029D
+t1303688692
+s669
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/Classes/RootViewController.m
+c000000004DB4BA8A0000000000002F2B
+t1303689866
+s12075
+i"RootViewController.h"
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/MainWindow.xib
+c000000004DB4B3ED0000000000005FF4
+t1303688173
+s24564
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/PeakOil.xcdatamodeld
+c000000004DB4B3ED0000000000000088
+t1303688173
+s136
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/PeakOil_Prefix.pch
+c000000004DB4B3ED0000000000000163
+t1303688173
+s355
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/RootViewController.xib
+c000000004DB4B3ED0000000000004452
+t1303688173
+s17490
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app
+t2
+s0
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app.dSYM
+t2
+s0
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/Info.plist
+t1303689867
+s591
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/MainWindow.nib
+t1303689867
+s1509
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PeakOil
+t2
+s0
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PeakOil.momd
+t1303689868
+s136
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PkgInfo
+t1303689867
+s8
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/RootViewController.nib
+t1303689867
+s979
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/APIManager.o
+t2
+s0
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/PeakOil.LinkFileList
+c000000004DB4BA8B000000000000022A
+t1303689867
+s554
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/PeakOilAppDelegate.o
+t1303689868
+s68588
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/RootViewController.o
+t1303689868
+s69520
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/main.o
+t1303689868
+s6320
+
+N/Users/annacallahan/Programming/iPhone/PeakOil/main.m
+c000000004DB4B3ED0000000000000166
+t1303688173
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch.gch
+t1303689868
+s16326640
+
+NPeakOil-Info.plist
+c000000004DB4B3ED000000000000038D
+t1303688173
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325382667#325382667#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/APIManager.o /Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325382668.644350
+e325382668.683871
+r0
+xCompileC
+xbuild/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/APIManager.o
+x/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:8:
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.h:20:27: error: ASIHTTPRequest.h: No such file or directory
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:10:31: error: ASIFormDataRequest.h: No such file or directory
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:11:17: error: JSON.h: No such file or directory
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m: In function '-[APIManager authenticateWithEmail:password:]':
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:29: error: 'ASIFormDataRequest' undeclared (first use in this function)
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:29: error: (Each undeclared identifier is reported only once
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:29: error: for each function it appears in.)
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:29: error: 'request' undeclared (first use in this function)
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:32: error: 'ETDNA' undeclared (first use in this function)
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m: At top level:
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:42: error: expected ')' before 'ASIHTTPRequest'
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m: In function '-[APIManager requestFinished:]':
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:51: warning: no '-responseString' method found
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:51: warning: (Messages without a matching method signature
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:51: warning: will be assumed to return 'id' and accept
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:51: warning: '...' as arguments.)
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:54: error: 'SBJSON' undeclared (first use in this function)
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:54: error: 'parseJSON' undeclared (first use in this function)
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:72: error: 'jsonDict' undeclared (first use in this function)
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m: At top level:
+o/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:82: error: expected ')' before 'ASIHTTPRequest'
+lSLF07#2@75"Compile /Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325382668#325382668#0(2602"In file included from /Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:8:/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.h:20:27: error: ASIHTTPRequest.h: No such file or directory/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:10:31: error: ASIFormDataRequest.h: No such file or directory/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:11:17: error: JSON.h: No such file or directory/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m: In function '-[APIManager authenticateWithEmail:password:]':/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:29: error: 'ASIFormDataRequest' undeclared (first use in this function)/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:29: error: (Each undeclared identifier is reported only once/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:29: error: for each function it appears in.)/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:29: error: 'request' undeclared (first use in this function)/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:32: error: 'ETDNA' undeclared (first use in this function)/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m: At top level:/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:42: error: expected ')' before 'ASIHTTPRequest'/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m: In function '-[APIManager requestFinished:]':/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:51: warning: no '-responseString' method found/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:51: warning: (Messages without a matching method signature/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:51: warning: will be assumed to return 'id' and accept/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:51: warning: '...' as arguments.)/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:54: error: 'SBJSON' undeclared (first use in this function)/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:54: error: 'parseJSON' undeclared (first use in this function)/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:72: error: 'jsonDict' undeclared (first use in this function)/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m: At top level:/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m:82: error: expected ')' before 'ASIHTTPRequest'15(4@43"ASIHTTPRequest.h: No such file or directory325382668#93#126#2(7@89"In file included from /Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325382668#18446744073709551615#0#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#8#0#8#0#0"0(13@114"ASIHTTPRequest.h: No such file or directory in /Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.h325382668#18446744073709551615#0#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.h325192018#20#0#20#0#0"0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.h325192018#20#0#20#0#28"*: No such file or directory0(4@47"ASIFormDataRequest.h: No such file or directory325382668#219#130#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#10#0#10#0#28"*: No such file or directory0(4@33"JSON.h: No such file or directory325382668#349#116#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#11#0#11#0#28"*: No such file or directory0(4@60"'ASIFormDataRequest' undeclared (first use in this function)325382668#595#140#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#29#0#29#0#43"'*' undeclared (first use in this function)0(4@49"'request' undeclared (first use in this function)325382668#977#129#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#29#0#29#0#43"'*' undeclared (first use in this function)0(4@47"'ETDNA' undeclared (first use in this function)325382668#1106#127#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#32#0#32#0#43"'*' undeclared (first use in this function)0(23@13"At top level:325382668#1233#83#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#0#0#0#0#0"0(4@36"Expected ')' before 'ASIHTTPRequest'325382668#1316#116#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#42#0#42#0#19"expected * before *0(22@33"No '-responseString' method found325382668#1547#115#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#51#0#51#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)325382668#1662#127#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#51#0#51#0#0"0(4@48"'SBJSON' undeclared (first use in this function)325382668#2014#128#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#54#0#54#0#43"'*' undeclared (first use in this function)0(4@51"'parseJSON' undeclared (first use in this function)325382668#2142#131#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#54#0#54#0#43"'*' undeclared (first use in this function)0(4@50"'jsonDict' undeclared (first use in this function)325382668#2273#130#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#72#0#72#0#43"'*' undeclared (first use in this function)0(23@13"At top level:325382668#2403#83#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#0#0#0#0#0"0(4@36"Expected ')' before 'ASIHTTPRequest'325382668#2486#116#0(6@67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m325192012#82#0#82#0#19"expected * before *0(0#0#67"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m8614859552#2022"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-generated-files.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-own-target-headers.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-all-target-headers.hmap -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-project-headers.hmap -F/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator -I/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/include -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources/i386 -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources -include /var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch -c /Users/annacallahan/Programming/iPhone/PeakOil/Classes/APIManager.m -o /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/APIManager.o1#
+
+CCompileC build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/PeakOilAppDelegate.o /Users/annacallahan/Programming/iPhone/PeakOil/Classes/PeakOilAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325382668.643229
+e325382668.709191
+r1
+xCompileC
+xbuild/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/PeakOilAppDelegate.o
+x/Users/annacallahan/Programming/iPhone/PeakOil/Classes/PeakOilAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/annacallahan/Programming/iPhone/PeakOil/Classes/PeakOilAppDelegate.m325382668#325382668#0(0"0(0#0#75"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/PeakOilAppDelegate.m8615153824#2038"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-generated-files.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-own-target-headers.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-all-target-headers.hmap -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-project-headers.hmap -F/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator -I/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/include -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources/i386 -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources -include /var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch -c /Users/annacallahan/Programming/iPhone/PeakOil/Classes/PeakOilAppDelegate.m -o /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/PeakOilAppDelegate.o0#
+
+CCompileC build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/RootViewController.o /Users/annacallahan/Programming/iPhone/PeakOil/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325382668.643773
+e325382668.715646
+r1
+xCompileC
+xbuild/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/RootViewController.o
+x/Users/annacallahan/Programming/iPhone/PeakOil/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/annacallahan/Programming/iPhone/PeakOil/Classes/RootViewController.m325382668#325382668#0(0"0(0#0#75"/Users/annacallahan/Programming/iPhone/PeakOil/Classes/RootViewController.m8614957344#2038"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-generated-files.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-own-target-headers.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-all-target-headers.hmap -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-project-headers.hmap -F/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator -I/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/include -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources/i386 -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources -include /var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch -c /Users/annacallahan/Programming/iPhone/PeakOil/Classes/RootViewController.m -o /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/main.o /Users/annacallahan/Programming/iPhone/PeakOil/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325382668.642681
+e325382668.683617
+r1
+xCompileC
+xbuild/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/main.o
+x/Users/annacallahan/Programming/iPhone/PeakOil/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/annacallahan/Programming/iPhone/PeakOil/main.m325382668#325382668#0(0"0(0#0#53"/Users/annacallahan/Programming/iPhone/PeakOil/main.m8615468000#2002"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-generated-files.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-own-target-headers.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-all-target-headers.hmap -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-project-headers.hmap -F/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator -I/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/include -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources/i386 -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources -include /var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch -c /Users/annacallahan/Programming/iPhone/PeakOil/main.m -o /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/annacallahan/Programming/iPhone/PeakOil/MainWindow.xib
+s325382667.773277
+e325382667.995775
+r1
+xCompileXIB
+x/Users/annacallahan/Programming/iPhone/PeakOil/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325382667#325382667#0(0"0(0#0#61"/Users/annacallahan/Programming/iPhone/PeakOil/MainWindow.xib8615172128#594"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/MainWindow.nib /Users/annacallahan/Programming/iPhone/PeakOil/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/annacallahan/Programming/iPhone/PeakOil/RootViewController.xib
+s325382667.774600
+e325382667.996944
+r1
+xCompileXIB
+x/Users/annacallahan/Programming/iPhone/PeakOil/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib325382667#325382667#0(0"0(0#0#69"/Users/annacallahan/Programming/iPhone/PeakOil/RootViewController.xib8614995936#610"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/RootViewController.nib /Users/annacallahan/Programming/iPhone/PeakOil/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PeakOil.momd /Users/annacallahan/Programming/iPhone/PeakOil/PeakOil.xcdatamodeld
+s325382668.642148
+e325382668.677171
+r1
+xDataModelVersionCompile
+x/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PeakOil.momd
+x/Users/annacallahan/Programming/iPhone/PeakOil/PeakOil.xcdatamodeld
+lSLF07#2@97"DataModelVersionCompile build/Debug-iphonesimulator/PeakOil.app/PeakOil.momd PeakOil.xcdatamodeld325382668#325382668#0(0"0(0#0#67"/Users/annacallahan/Programming/iPhone/PeakOil/PeakOil.xcdatamodeld8615910432#410"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/annacallahan/Programming/iPhone/PeakOil/PeakOil.xcdatamodeld /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PeakOil.momd0#
+
+CGenerateDSYMFile /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app.dSYM /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PeakOil
+r0
+
+CLd /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PeakOil normal i386
+r0
+
+CProcessInfoPlistFile /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/Info.plist PeakOil-Info.plist
+s325382667.765224
+e325382667.773207
+r1
+xProcessInfoPlistFile
+x/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/Info.plist
+xPeakOil-Info.plist
+lSLF07#2@26"Process PeakOil-Info.plist325382667#325382667#0(0"0(0#0#65"/Users/annacallahan/Programming/iPhone/PeakOil/PeakOil-Info.plist31244169098821736#503"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PeakOil-Info.plist -genpkginfo /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app/Info.plist0#
+
+CProcessPCH /var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch.gch PeakOil_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325382667.997042
+e325382668.642080
+r1
+xProcessPCH
+x/var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch.gch
+xPeakOil_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile PeakOil_Prefix.pch325382667#325382668#0(0"0(0#0#65"/Users/annacallahan/Programming/iPhone/PeakOil/PeakOil_Prefix.pch8615005120#1886"    cd /Users/annacallahan/Programming/iPhone/PeakOil    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-generated-files.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-own-target-headers.hmap -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-all-target-headers.hmap -iquote /Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/PeakOil-project-headers.hmap -F/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator -I/Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/include -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources/i386 -I/Users/annacallahan/Programming/iPhone/PeakOil/build/PeakOil.build/Debug-iphonesimulator/PeakOil.build/DerivedSources -c /Users/annacallahan/Programming/iPhone/PeakOil/PeakOil_Prefix.pch -o /var/folders/rb/rbD+6-H8G8Gj+b5-qXbTO++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeakOil_Prefix-csxjsolkhgfsxhbvartfqolzlugz/PeakOil_Prefix.pch.gch0#
+
+CTouch /Users/annacallahan/Programming/iPhone/PeakOil/build/Debug-iphonesimulator/PeakOil.app
+r0
+

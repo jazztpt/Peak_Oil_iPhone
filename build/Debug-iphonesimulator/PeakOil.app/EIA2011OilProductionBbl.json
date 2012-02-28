@@ -1,0 +1,1727 @@
+{
+  "currentNamedRankingId": "OilProductionBbl", 
+  "currentThemeId": "OilGasTrends", 
+  "list": [
+    {
+      "name": "Saudi Arabia", 
+      "value": "10.52 mbd", 
+      "caption": "Saudi Arabia produced 10.5 million barrels per day in 2010. Production has been stable but consumption is steadily rising. Net exports are in decline.", 
+      "imageName": "EIA2011SAOilBblPortrait_en.png", 
+      "rank": 1, 
+      "id": "SA"
+    }, 
+    {
+      "name": "Russia", 
+      "value": "10.12 mbd", 
+      "caption": "Russia produced 10.1 million barrels per day in 2010. Production, consumption and net exports are steady. Data for Russia by itself are unavailable prior to the Soviet breakup.", 
+      "imageName": "EIA2011RUOilBblPortrait_en.png", 
+      "rank": 2, 
+      "id": "RU"
+    }, 
+    {
+      "name": "United States", 
+      "value": "9.65 mbd", 
+      "caption": "United States produced 9.6 million barrels per day in 2010. Production is up slightly while consumption is down. The US is the #1 oil importer.", 
+      "imageName": "EIA2011USOilBblPortrait_en.png", 
+      "rank": 3, 
+      "id": "US"
+    }, 
+    {
+      "name": "China", 
+      "value": "4.27 mbd", 
+      "caption": "China produced 4.3 million barrels per day in 2010. Production is still rising but cannot keep pace with consumption. Existing trends suggest that net imports will keep rising.", 
+      "imageName": "EIA2011CNOilBblPortrait_en.png", 
+      "rank": 4, 
+      "id": "CN"
+    }, 
+    {
+      "name": "Iran", 
+      "value": "4.25 mbd", 
+      "caption": "Iran produced 4.3 million barrels per day in 2010. Production increases are barely keeping pace with increased consumption. Net exports are trending downward.", 
+      "imageName": "EIA2011IROilBblPortrait_en.png", 
+      "rank": 5, 
+      "id": "IR"
+    }, 
+    {
+      "name": "Canada", 
+      "value": "3.46 mbd", 
+      "caption": "Canada produced 3.5 million barrels per day in 2010. Production is up primarily due to increased tar sands production in Alberta.", 
+      "imageName": "EIA2011CAOilBblPortrait_en.png", 
+      "rank": 6, 
+      "id": "CA"
+    }, 
+    {
+      "name": "Mexico", 
+      "value": "2.98 mbd", 
+      "caption": "Mexico produced 3.0 million barrels per day in 2010. Mexican production and net exports are down recently as the giant Cantarell field enters terminal decline.", 
+      "imageName": "EIA2011MXOilBblPortrait_en.png", 
+      "rank": 7, 
+      "id": "MX"
+    }, 
+    {
+      "name": "UAE", 
+      "value": "2.81 mbd", 
+      "caption": "UAE produced 2.8 million barrels per day in 2010. Production is currently rising more slowly than consumption.", 
+      "imageName": "EIA2011AEOilBblPortrait_en.png", 
+      "rank": 8, 
+      "id": "AE"
+    }, 
+    {
+      "name": "Brazil", 
+      "value": "2.75 mbd", 
+      "caption": "Brazil produced 2.7 million barrels per day in 2010. Production has risen sharply and Brazil is now a (small) net exporter.", 
+      "imageName": "EIA2011BROilBblPortrait_en.png", 
+      "rank": 9, 
+      "id": "BR"
+    }, 
+    {
+      "name": "Nigeria", 
+      "value": "2.46 mbd", 
+      "caption": "Nigeria produced 2.5 million barrels per day in 2010. Production, consumption and net exports are relatively stable.", 
+      "imageName": "EIA2011NGOilBblPortrait_en.png", 
+      "rank": 10, 
+      "id": "NG"
+    }, 
+    {
+      "name": "Kuwait", 
+      "value": "2.45 mbd", 
+      "caption": "Kuwait produced 2.5 million barrels per day in 2010. Production has recently declined slightly. Oilfield damage resulting from the 1990 Iraqi invasion is obvious.", 
+      "imageName": "EIA2011KWOilBblPortrait_en.png", 
+      "rank": 11, 
+      "id": "KW"
+    }, 
+    {
+      "name": "Iraq", 
+      "value": "2.41 mbd", 
+      "caption": "Iraq produced 2.4 million barrels per day in 2010. Iraq's production history is chaotic because of sanctions, war and ongoing dislocation. But consumption is steadily rising.", 
+      "imageName": "EIA2011IQOilBblPortrait_en.png", 
+      "rank": 12, 
+      "id": "IQ"
+    }, 
+    {
+      "name": "Venezuela", 
+      "value": "2.37 mbd", 
+      "caption": "Venezuela produced 2.4 million barrels per day in 2010. Production is in decline largely due to a lack of investment while consumption is steadily rising.", 
+      "imageName": "EIA2011VEOilBblPortrait_en.png", 
+      "rank": 13, 
+      "id": "VE"
+    }, 
+    {
+      "name": "Norway", 
+      "value": "2.13 mbd", 
+      "caption": "Norway produced 2.1 million barrels per day in 2010. A perfect example of a geologically determined 'production peak'.", 
+      "imageName": "EIA2011NOOilBblPortrait_en.png", 
+      "rank": 14, 
+      "id": "NO"
+    }, 
+    {
+      "name": "Algeria", 
+      "value": "2.08 mbd", 
+      "caption": "Algeria produced 2.1 million barrels per day in 2010. Production and net exports are up over the last decade.", 
+      "imageName": "EIA2011DZOilBblPortrait_en.png", 
+      "rank": 15, 
+      "id": "DZ"
+    }, 
+    {
+      "name": "Angola", 
+      "value": "1.99 mbd", 
+      "caption": "Angola produced 2.0 million barrels per day in 2010. Production and net exports are up significantly. Most production is located offshore.", 
+      "imageName": "EIA2011AOOilBblPortrait_en.png", 
+      "rank": 16, 
+      "id": "AO"
+    }, 
+    {
+      "name": "Libya", 
+      "value": "1.79 mbd", 
+      "caption": "Libya produced 1.8 million barrels per day in 2010. The recent revolution in Lybia means that Lybian production and net exports will look very different for 2011.", 
+      "imageName": "EIA2011LYOilBblPortrait_en.png", 
+      "rank": 17, 
+      "id": "LY"
+    }, 
+    {
+      "name": "Kazakhstan", 
+      "value": "1.61 mbd", 
+      "caption": "Kazakhstan produced 1.6 million barrels per day in 2010. Production and net exports are up significantly.", 
+      "imageName": "EIA2011KZOilBblPortrait_en.png", 
+      "rank": 18, 
+      "id": "KZ"
+    }, 
+    {
+      "name": "Qatar", 
+      "value": "1.44 mbd", 
+      "caption": "Qatar produced 1.4 million barrels per day in 2010. Better known for natural gas production, oil production is also up steeply in Qatar.", 
+      "imageName": "EIA2011QAOilBblPortrait_en.png", 
+      "rank": 19, 
+      "id": "QA"
+    }, 
+    {
+      "name": "United Kingdom", 
+      "value": "1.39 mbd", 
+      "caption": "United Kingdom produced 1.4 million barrels per day in 2010. The Piper Alpha disaster in 1988 reduced offshore production for several years. Since 2000, UK oil fields have been in steady decline.", 
+      "imageName": "EIA2011GBOilBblPortrait_en.png", 
+      "rank": 20, 
+      "id": "GB"
+    }, 
+    {
+      "name": "Azerbaijan", 
+      "value": "1.04 mbd", 
+      "caption": "Azerbaijan produced 1.0 million barrels per day in 2010. The world's first oil well was drilled in 1846 in Azerbaijan. Production and net exports are up significantly.", 
+      "imageName": "EIA2011AZOilBblPortrait_en.png", 
+      "rank": 21, 
+      "id": "AZ"
+    }, 
+    {
+      "name": "Indonesia", 
+      "value": "1.02 mbd", 
+      "caption": "Indonesia produced 1.0 million barrels per day in 2010. A classic example of the 'Export Land Model', production has fallen behind consumption and this previous OPEC member now imports oil.", 
+      "imageName": "EIA2011IDOilBblPortrait_en.png", 
+      "rank": 22, 
+      "id": "ID"
+    }, 
+    {
+      "name": "India", 
+      "value": "955 kbd", 
+      "caption": "India produced 955 thousand barrels per day in 2010. Similar to China, Indian production is up only slightly in the face of rapidly increasing consumption.", 
+      "imageName": "EIA2011INOilBblPortrait_en.png", 
+      "rank": 23, 
+      "id": "IN"
+    }, 
+    {
+      "name": "Oman", 
+      "value": "868 kbd", 
+      "caption": "Oman produced 868 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011OMOilBblPortrait_en.png", 
+      "rank": 24, 
+      "id": "OM"
+    }, 
+    {
+      "name": "Colombia", 
+      "value": "801 kbd", 
+      "caption": "Colombia produced 801 thousand barrels per day in 2010. Production has risen recently and is anticipated to increase to 1.2 mbd by 2012.", 
+      "imageName": "EIA2011COOilBblPortrait_en.png", 
+      "rank": 25, 
+      "id": "CO"
+    }, 
+    {
+      "name": "Argentina", 
+      "value": "763 kbd", 
+      "caption": "Argentina produced 763 thousand barrels per day in 2010. Trends of declining production and increasing consumption look set to soon convert Argentina into a net importer.", 
+      "imageName": "EIA2011AROilBblPortrait_en.png", 
+      "rank": 26, 
+      "id": "AR"
+    }, 
+    {
+      "name": "Malaysia", 
+      "value": "665 kbd", 
+      "caption": "Malaysia produced 665 thousand barrels per day in 2010. Trends of declining production and increasing consumption look set to soon convert Malaysia into a net importer.", 
+      "imageName": "EIA2011MYOilBblPortrait_en.png", 
+      "rank": 27, 
+      "id": "MY"
+    }, 
+    {
+      "name": "Egypt", 
+      "value": "663 kbd", 
+      "caption": "Egypt produced 663 thousand barrels per day in 2010. Egypt went from net exporter to net importer in 2009. The overthrow of the Mubarak regime occurred in 2010.", 
+      "imageName": "EIA2011EGOilBblPortrait_en.png", 
+      "rank": 28, 
+      "id": "EG"
+    }, 
+    {
+      "name": "Australia", 
+      "value": "550 kbd", 
+      "caption": "Australia produced 550 thousand barrels per day in 2010. Net imports are on the rise.", 
+      "imageName": "EIA2011AUOilBblPortrait_en.png", 
+      "rank": 29, 
+      "id": "AU"
+    }, 
+    {
+      "name": "Sudan", 
+      "value": "514 kbd", 
+      "caption": "Sudan produced 514 thousand barrels per day in 2010. Production and net exports are up significantly. The recent partition of North and South may impact this trend.", 
+      "imageName": "EIA2011SDOilBblPortrait_en.png", 
+      "rank": 30, 
+      "id": "SD"
+    }, 
+    {
+      "name": "Ecuador", 
+      "value": "486 kbd", 
+      "caption": "Ecuador produced 486 thousand barrels per day in 2010. Since 2004, net exports have been in steady decline. The 1987 earthquake halved exports.", 
+      "imageName": "EIA2011ECOilBblPortrait_en.png", 
+      "rank": 31, 
+      "id": "EC"
+    }, 
+    {
+      "name": "Syria", 
+      "value": "401 kbd", 
+      "caption": "Syria produced 401 thousand barrels per day in 2010. The production peak is evident but the events of 2011 will dramatically alter both production and consumption", 
+      "imageName": "EIA2011SYOilBblPortrait_en.png", 
+      "rank": 32, 
+      "id": "SY"
+    }, 
+    {
+      "name": "Vietnam", 
+      "value": "373 kbd", 
+      "caption": "Vietnam produced 373 thousand barrels per day in 2010. Production has stabilized after a rapid rise but consuption is still rising. Net exports are in decline.", 
+      "imageName": "EIA2011VNOilBblPortrait_en.png", 
+      "rank": 33, 
+      "id": "VN"
+    }, 
+    {
+      "name": "Thailand", 
+      "value": "343 kbd", 
+      "caption": "Thailand produced 343 thousand barrels per day in 2010. Production and consumption are both rising in this net oil importer.", 
+      "imageName": "EIA2011THOilBblPortrait_en.png", 
+      "rank": 34, 
+      "id": "TH"
+    }, 
+    {
+      "name": "Equatorial Guinea", 
+      "value": "323 kbd", 
+      "caption": "Equatorial Guinea produced 323 thousand barrels per day in 2010. The rapid rise in offshore production has now tapered off. The US is the #1 destination for Guinean oil.", 
+      "imageName": "EIA2011GQOilBblPortrait_en.png", 
+      "rank": 35, 
+      "id": "GQ"
+    }, 
+    {
+      "name": "Congo - Brazzaville", 
+      "value": "302 kbd", 
+      "caption": "Congo - Brazzaville produced 302 thousand barrels per day in 2010. Production has been rising. Consumption is still negligable.", 
+      "imageName": "EIA2011CGOilBblPortrait_en.png", 
+      "rank": 36, 
+      "id": "CG"
+    }, 
+    {
+      "name": "Yemen", 
+      "value": "259 kbd", 
+      "caption": "Yemen produced 259 thousand barrels per day in 2010. Yemen is well past peak production. Current unrest will likely reduce production quantities.", 
+      "imageName": "EIA2011YEOilBblPortrait_en.png", 
+      "rank": 37, 
+      "id": "YE"
+    }, 
+    {
+      "name": "Denmark", 
+      "value": "248 kbd", 
+      "caption": "Denmark produced 248 thousand barrels per day in 2010. Danish production displays a well defined peak. Net exports have entered a steady decline.", 
+      "imageName": "EIA2011DKOilBblPortrait_en.png", 
+      "rank": 38, 
+      "id": "DK"
+    }, 
+    {
+      "name": "Gabon", 
+      "value": "228 kbd", 
+      "caption": "Gabon produced 228 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GAOilBblPortrait_en.png", 
+      "rank": 39, 
+      "id": "GA"
+    }, 
+    {
+      "name": "Turkmenistan", 
+      "value": "202 kbd", 
+      "caption": "Turkmenistan produced 202 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TMOilBblPortrait_en.png", 
+      "rank": 40, 
+      "id": "TM"
+    }, 
+    {
+      "name": "South Africa", 
+      "value": "192 kbd", 
+      "caption": "South Africa produced 192 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ZAOilBblPortrait_en.png", 
+      "rank": 41, 
+      "id": "ZA"
+    }, 
+    {
+      "name": "Brunei", 
+      "value": "159 kbd", 
+      "caption": "Brunei produced 159 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BNOilBblPortrait_en.png", 
+      "rank": 42, 
+      "id": "BN"
+    }, 
+    {
+      "name": "Peru", 
+      "value": "158 kbd", 
+      "caption": "Peru produced 158 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PEOilBblPortrait_en.png", 
+      "rank": 43, 
+      "id": "PE"
+    }, 
+    {
+      "name": "Italy", 
+      "value": "153 kbd", 
+      "caption": "Italy produced 153 thousand barrels per day in 2010. With little production of their own, increasing prices in Italy are driving down consumption.", 
+      "imageName": "EIA2011ITOilBblPortrait_en.png", 
+      "rank": 44, 
+      "id": "IT"
+    }, 
+    {
+      "name": "Germany", 
+      "value": "148 kbd", 
+      "caption": "Germany produced 148 thousand barrels per day in 2010. Germany is the #4 oil importer.", 
+      "imageName": "EIA2011DEOilBblPortrait_en.png", 
+      "rank": 45, 
+      "id": "DE"
+    }, 
+    {
+      "name": "Trinidad and Tobago", 
+      "value": "145 kbd", 
+      "caption": "Trinidad and Tobago produced 145 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TTOilBblPortrait_en.png", 
+      "rank": 46, 
+      "id": "TT"
+    }, 
+    {
+      "name": "Japan", 
+      "value": "132 kbd", 
+      "caption": "Japan produced 132 thousand barrels per day in 2010. In 2010 Japan was the #3 oil importer. In 2011 imports are rising due the closure of damaged nuclear plants.", 
+      "imageName": "EIA2011JPOilBblPortrait_en.png", 
+      "rank": 47, 
+      "id": "JP"
+    }, 
+    {
+      "name": "Chad", 
+      "value": "126 kbd", 
+      "caption": "Chad produced 126 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TDOilBblPortrait_en.png", 
+      "rank": 48, 
+      "id": "TD"
+    }, 
+    {
+      "name": "Romania", 
+      "value": "107 kbd", 
+      "caption": "Romania produced 107 thousand barrels per day in 2010. Romania was the most important source of oil for Nazi Germany but is now in long term decline.", 
+      "imageName": "EIA2011ROOilBblPortrait_en.png", 
+      "rank": 49, 
+      "id": "RO"
+    }, 
+    {
+      "name": "East Timor", 
+      "value": "88 kbd", 
+      "caption": "East Timor produced 88 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TLOilBblPortrait_en.png", 
+      "rank": 50, 
+      "id": "TL"
+    }, 
+    {
+      "name": "France", 
+      "value": "84 kbd", 
+      "caption": "France produced 84 thousand barrels per day in 2010. French consumption and imports of oil have been steady for almost three decades. France is the #7 oil importer.", 
+      "imageName": "EIA2011FROilBblPortrait_en.png", 
+      "rank": 51, 
+      "id": "FR"
+    }, 
+    {
+      "name": "Tunisia", 
+      "value": "84 kbd", 
+      "caption": "Tunisia produced 84 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TNOilBblPortrait_en.png", 
+      "rank": 52, 
+      "id": "TN"
+    }, 
+    {
+      "name": "Ukraine", 
+      "value": "82 kbd", 
+      "caption": "Ukraine produced 82 thousand barrels per day in 2010. Ukrainian oil consumption is down sharply since the fall of the Soviet Union.", 
+      "imageName": "EIA2011UAOilBblPortrait_en.png", 
+      "rank": 53, 
+      "id": "UA"
+    }, 
+    {
+      "name": "Cameroon", 
+      "value": "65 kbd", 
+      "caption": "Cameroon produced 65 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CMOilBblPortrait_en.png", 
+      "rank": 54, 
+      "id": "CM"
+    }, 
+    {
+      "name": "Pakistan", 
+      "value": "64 kbd", 
+      "caption": "Pakistan produced 64 thousand barrels per day in 2010. Increasing oil imports have generated a sever balance of payments problem in Pakistan.", 
+      "imageName": "EIA2011PKOilBblPortrait_en.png", 
+      "rank": 55, 
+      "id": "PK"
+    }, 
+    {
+      "name": "New Zealand", 
+      "value": "61 kbd", 
+      "caption": "New Zealand produced 61 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NZOilBblPortrait_en.png", 
+      "rank": 56, 
+      "id": "NZ"
+    }, 
+    {
+      "name": "Uzbekistan", 
+      "value": "59 kbd", 
+      "caption": "Uzbekistan produced 59 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UZOilBblPortrait_en.png", 
+      "rank": 57, 
+      "id": "UZ"
+    }, 
+    {
+      "name": "Netherlands", 
+      "value": "58 kbd", 
+      "caption": "Netherlands produced 58 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NLOilBblPortrait_en.png", 
+      "rank": 58, 
+      "id": "NL"
+    }, 
+    {
+      "name": "Turkey", 
+      "value": "55 kbd", 
+      "caption": "Turkey produced 55 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TROilBblPortrait_en.png", 
+      "rank": 59, 
+      "id": "TR"
+    }, 
+    {
+      "name": "Bolivia", 
+      "value": "54 kbd", 
+      "caption": "Bolivia produced 54 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BOOilBblPortrait_en.png", 
+      "rank": 60, 
+      "id": "BO"
+    }, 
+    {
+      "name": "Cuba", 
+      "value": "51 kbd", 
+      "caption": "Cuba produced 51 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CUOilBblPortrait_en.png", 
+      "rank": 61, 
+      "id": "CU"
+    }, 
+    {
+      "name": "South Korea", 
+      "value": "48 kbd", 
+      "caption": "South Korea produced 48 thousand barrels per day in 2010. South Korea is the #6 oil importer.", 
+      "imageName": "EIA2011KROilBblPortrait_en.png", 
+      "rank": 62, 
+      "id": "KR"
+    }, 
+    {
+      "name": "Bahrain", 
+      "value": "46 kbd", 
+      "caption": "Bahrain produced 46 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BHOilBblPortrait_en.png", 
+      "rank": 63, 
+      "id": "BH"
+    }, 
+    {
+      "name": "Ivory Coast", 
+      "value": "45 kbd", 
+      "caption": "Ivory Coast produced 45 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CIOilBblPortrait_en.png", 
+      "rank": 64, 
+      "id": "CI"
+    }, 
+    {
+      "name": "Hungary", 
+      "value": "34 kbd", 
+      "caption": "Hungary produced 34 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HUOilBblPortrait_en.png", 
+      "rank": 65, 
+      "id": "HU"
+    }, 
+    {
+      "name": "Philippines", 
+      "value": "33 kbd", 
+      "caption": "Philippines produced 33 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PHOilBblPortrait_en.png", 
+      "rank": 66, 
+      "id": "PH"
+    }, 
+    {
+      "name": "Belarus", 
+      "value": "31 kbd", 
+      "caption": "Belarus produced 31 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BYOilBblPortrait_en.png", 
+      "rank": 67, 
+      "id": "BY"
+    }, 
+    {
+      "name": "Papua New Guinea", 
+      "value": "31 kbd", 
+      "caption": "Papua New Guinea produced 31 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PGOilBblPortrait_en.png", 
+      "rank": 68, 
+      "id": "PG"
+    }, 
+    {
+      "name": "Spain", 
+      "value": "27 kbd", 
+      "caption": "Spain produced 27 thousand barrels per day in 2010. Spanish consumption increased during the boom of the previous decade. Spain is currently the #8 oil importer.", 
+      "imageName": "EIA2011ESOilBblPortrait_en.png", 
+      "rank": 69, 
+      "id": "ES"
+    }, 
+    {
+      "name": "Taiwan", 
+      "value": "27 kbd", 
+      "caption": "Taiwan produced 27 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TWOilBblPortrait_en.png", 
+      "rank": 70, 
+      "id": "TW"
+    }, 
+    {
+      "name": "Austria", 
+      "value": "26 kbd", 
+      "caption": "Austria produced 26 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ATOilBblPortrait_en.png", 
+      "rank": 71, 
+      "id": "AT"
+    }, 
+    {
+      "name": "Croatia", 
+      "value": "23 kbd", 
+      "caption": "Croatia produced 23 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HROilBblPortrait_en.png", 
+      "rank": 72, 
+      "id": "HR"
+    }, 
+    {
+      "name": "Poland", 
+      "value": "22 kbd", 
+      "caption": "Poland produced 22 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PLOilBblPortrait_en.png", 
+      "rank": 73, 
+      "id": "PL"
+    }, 
+    {
+      "name": "Myanmar", 
+      "value": "21 kbd", 
+      "caption": "Myanmar produced 21 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MMOilBblPortrait_en.png", 
+      "rank": 74, 
+      "id": "MM"
+    }, 
+    {
+      "name": "Congo - Kinshasa", 
+      "value": "21 kbd", 
+      "caption": "Congo - Kinshasa produced 21 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CDOilBblPortrait_en.png", 
+      "rank": 75, 
+      "id": "CD"
+    }, 
+    {
+      "name": "U.S. Virgin Islands", 
+      "value": "17 kbd", 
+      "caption": "U.S. Virgin Islands produced 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VIOilBblPortrait_en.png", 
+      "rank": 76, 
+      "id": "VI"
+    }, 
+    {
+      "name": "Suriname", 
+      "value": "14 kbd", 
+      "caption": "Suriname produced 14 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SROilBblPortrait_en.png", 
+      "rank": 77, 
+      "id": "SR"
+    }, 
+    {
+      "name": "Serbia", 
+      "value": "14 kbd", 
+      "caption": "Serbia produced 14 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011RSOilBblPortrait_en.png", 
+      "rank": 78, 
+      "id": "RS"
+    }, 
+    {
+      "name": "Guatemala", 
+      "value": "13 kbd", 
+      "caption": "Guatemala produced 13 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GTOilBblPortrait_en.png", 
+      "rank": 79, 
+      "id": "GT"
+    }, 
+    {
+      "name": "Mauritania", 
+      "value": "12 kbd", 
+      "caption": "Mauritania produced 12 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MROilBblPortrait_en.png", 
+      "rank": 80, 
+      "id": "MR"
+    }, 
+    {
+      "name": "Belgium", 
+      "value": "11 kbd", 
+      "caption": "Belgium produced 11 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BEOilBblPortrait_en.png", 
+      "rank": 81, 
+      "id": "BE"
+    }, 
+    {
+      "name": "Albania", 
+      "value": "11 kbd", 
+      "caption": "Albania produced 11 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ALOilBblPortrait_en.png", 
+      "rank": 82, 
+      "id": "AL"
+    }, 
+    {
+      "name": "Singapore", 
+      "value": "11 kbd", 
+      "caption": "Singapore produced 11 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SGOilBblPortrait_en.png", 
+      "rank": 83, 
+      "id": "SG"
+    }, 
+    {
+      "name": "Czech Republic", 
+      "value": "10 kbd", 
+      "caption": "Czech Republic produced 10 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CZOilBblPortrait_en.png", 
+      "rank": 84, 
+      "id": "CZ"
+    }, 
+    {
+      "name": "Chile", 
+      "value": "9 kbd", 
+      "caption": "Chile produced 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CLOilBblPortrait_en.png", 
+      "rank": 85, 
+      "id": "CL"
+    }, 
+    {
+      "name": "Ghana", 
+      "value": "9 kbd", 
+      "caption": "Ghana produced 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GHOilBblPortrait_en.png", 
+      "rank": 86, 
+      "id": "GH"
+    }, 
+    {
+      "name": "Finland", 
+      "value": "9 kbd", 
+      "caption": "Finland produced 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011FIOilBblPortrait_en.png", 
+      "rank": 87, 
+      "id": "FI"
+    }, 
+    {
+      "name": "Slovakia", 
+      "value": "8 kbd", 
+      "caption": "Slovakia produced 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SKOilBblPortrait_en.png", 
+      "rank": 88, 
+      "id": "SK"
+    }, 
+    {
+      "name": "Greece", 
+      "value": "8 kbd", 
+      "caption": "Greece produced 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GROilBblPortrait_en.png", 
+      "rank": 89, 
+      "id": "GR"
+    }, 
+    {
+      "name": "Estonia", 
+      "value": "8 kbd", 
+      "caption": "Estonia produced 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011EEOilBblPortrait_en.png", 
+      "rank": 90, 
+      "id": "EE"
+    }, 
+    {
+      "name": "Lithuania", 
+      "value": "6 kbd", 
+      "caption": "Lithuania produced 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LTOilBblPortrait_en.png", 
+      "rank": 91, 
+      "id": "LT"
+    }, 
+    {
+      "name": "Bangladesh", 
+      "value": "6 kbd", 
+      "caption": "Bangladesh produced 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BDOilBblPortrait_en.png", 
+      "rank": 92, 
+      "id": "BD"
+    }, 
+    {
+      "name": "Sweden", 
+      "value": "5 kbd", 
+      "caption": "Sweden produced 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SEOilBblPortrait_en.png", 
+      "rank": 93, 
+      "id": "SE"
+    }, 
+    {
+      "name": "Portugal", 
+      "value": "5 kbd", 
+      "caption": "Portugal produced 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PTOilBblPortrait_en.png", 
+      "rank": 94, 
+      "id": "PT"
+    }, 
+    {
+      "name": "Belize", 
+      "value": "4 kbd", 
+      "caption": "Belize produced 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BZOilBblPortrait_en.png", 
+      "rank": 95, 
+      "id": "BZ"
+    }, 
+    {
+      "name": "Israel", 
+      "value": "4 kbd", 
+      "caption": "Israel produced 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ILOilBblPortrait_en.png", 
+      "rank": 96, 
+      "id": "IL"
+    }, 
+    {
+      "name": "Morocco", 
+      "value": "4 kbd", 
+      "caption": "Morocco produced 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MAOilBblPortrait_en.png", 
+      "rank": 97, 
+      "id": "MA"
+    }, 
+    {
+      "name": "Switzerland", 
+      "value": "3 kbd", 
+      "caption": "Switzerland produced 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CHOilBblPortrait_en.png", 
+      "rank": 98, 
+      "id": "CH"
+    }, 
+    {
+      "name": "Bulgaria", 
+      "value": "3 kbd", 
+      "caption": "Bulgaria produced 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BGOilBblPortrait_en.png", 
+      "rank": 99, 
+      "id": "BG"
+    }, 
+    {
+      "name": "Aruba", 
+      "value": "2 kbd", 
+      "caption": "Aruba produced 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AWOilBblPortrait_en.png", 
+      "rank": 100, 
+      "id": "AW"
+    }, 
+    {
+      "name": "Puerto Rico", 
+      "value": "1 kbd", 
+      "caption": "Puerto Rico produced 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PROilBblPortrait_en.png", 
+      "rank": 101, 
+      "id": "PR"
+    }, 
+    {
+      "name": "Georgia", 
+      "value": "none", 
+      "caption": "Georgia produced no oil in 2010. ", 
+      "imageName": "EIA2011GEOilBblPortrait_en.png", 
+      "rank": 102, 
+      "id": "GE"
+    }, 
+    {
+      "name": "Kyrgyzstan", 
+      "value": "none", 
+      "caption": "Kyrgyzstan produced no oil in 2010. ", 
+      "imageName": "EIA2011KGOilBblPortrait_en.png", 
+      "rank": 103, 
+      "id": "KG"
+    }, 
+    {
+      "name": "Uruguay", 
+      "value": "none", 
+      "caption": "Uruguay produced no oil in 2010. ", 
+      "imageName": "EIA2011UYOilBblPortrait_en.png", 
+      "rank": 104, 
+      "id": "UY"
+    }, 
+    {
+      "name": "Barbados", 
+      "value": "none", 
+      "caption": "Barbados produced no oil in 2010. ", 
+      "imageName": "EIA2011BBOilBblPortrait_en.png", 
+      "rank": 105, 
+      "id": "BB"
+    }, 
+    {
+      "name": "Netherlands Antilles", 
+      "value": "none", 
+      "caption": "Netherlands Antilles produced no oil in 2010. ", 
+      "imageName": "EIA2011ANOilBblPortrait_en.png", 
+      "rank": 106, 
+      "id": "AN"
+    }, 
+    {
+      "name": "Tajikistan", 
+      "value": "none", 
+      "caption": "Tajikistan produced no oil in 2010. ", 
+      "imageName": "EIA2011TJOilBblPortrait_en.png", 
+      "rank": 107, 
+      "id": "TJ"
+    }, 
+    {
+      "name": "Zambia", 
+      "value": "none", 
+      "caption": "Zambia produced no oil in 2010. ", 
+      "imageName": "EIA2011ZMOilBblPortrait_en.png", 
+      "rank": 108, 
+      "id": "ZM"
+    }, 
+    {
+      "name": "North Korea", 
+      "value": "none", 
+      "caption": "North Korea produced no oil in 2010. ", 
+      "imageName": "EIA2011KPOilBblPortrait_en.png", 
+      "rank": 109, 
+      "id": "KP"
+    }, 
+    {
+      "name": "Somalia", 
+      "value": "none", 
+      "caption": "Somalia produced no oil in 2010. ", 
+      "imageName": "EIA2011SOOilBblPortrait_en.png", 
+      "rank": 110, 
+      "id": "SO"
+    }, 
+    {
+      "name": "Jordan", 
+      "value": "none", 
+      "caption": "Jordan produced no oil in 2010. ", 
+      "imageName": "EIA2011JOOilBblPortrait_en.png", 
+      "rank": 111, 
+      "id": "JO"
+    }, 
+    {
+      "name": "Sierra Leone", 
+      "value": "none", 
+      "caption": "Sierra Leone produced no oil in 2010. ", 
+      "imageName": "EIA2011SLOilBblPortrait_en.png", 
+      "rank": 112, 
+      "id": "SL"
+    }, 
+    {
+      "name": "Slovenia", 
+      "value": "none", 
+      "caption": "Slovenia produced no oil in 2010. ", 
+      "imageName": "EIA2011SIOilBblPortrait_en.png", 
+      "rank": 113, 
+      "id": "SI"
+    }, 
+    {
+      "name": "Afghanistan", 
+      "value": "none", 
+      "caption": "Afghanistan produced no oil in 2010. ", 
+      "imageName": "EIA2011AFOilBblPortrait_en.png", 
+      "rank": 114, 
+      "id": "AF"
+    }, 
+    {
+      "name": "Antigua and Barbuda", 
+      "value": "none", 
+      "caption": "Antigua and Barbuda produced no oil in 2010. ", 
+      "imageName": "EIA2011AGOilBblPortrait_en.png", 
+      "rank": 115, 
+      "id": "AG"
+    }, 
+    {
+      "name": "Armenia", 
+      "value": "none", 
+      "caption": "Armenia produced no oil in 2010. ", 
+      "imageName": "EIA2011AMOilBblPortrait_en.png", 
+      "rank": 116, 
+      "id": "AM"
+    }, 
+    {
+      "name": "Antarctica", 
+      "value": "none", 
+      "caption": "Antarctica produced no oil in 2010. ", 
+      "imageName": "EIA2011AQOilBblPortrait_en.png", 
+      "rank": 117, 
+      "id": "AQ"
+    }, 
+    {
+      "name": "American Samoa", 
+      "value": "none", 
+      "caption": "American Samoa produced no oil in 2010. ", 
+      "imageName": "EIA2011ASOilBblPortrait_en.png", 
+      "rank": 118, 
+      "id": "AS"
+    }, 
+    {
+      "name": "Burkina Faso", 
+      "value": "none", 
+      "caption": "Burkina Faso produced no oil in 2010. ", 
+      "imageName": "EIA2011BFOilBblPortrait_en.png", 
+      "rank": 119, 
+      "id": "BF"
+    }, 
+    {
+      "name": "Burundi", 
+      "value": "none", 
+      "caption": "Burundi produced no oil in 2010. ", 
+      "imageName": "EIA2011BIOilBblPortrait_en.png", 
+      "rank": 120, 
+      "id": "BI"
+    }, 
+    {
+      "name": "Benin", 
+      "value": "none", 
+      "caption": "Benin produced no oil in 2010. ", 
+      "imageName": "EIA2011BJOilBblPortrait_en.png", 
+      "rank": 121, 
+      "id": "BJ"
+    }, 
+    {
+      "name": "Bermuda", 
+      "value": "none", 
+      "caption": "Bermuda produced no oil in 2010. ", 
+      "imageName": "EIA2011BMOilBblPortrait_en.png", 
+      "rank": 122, 
+      "id": "BM"
+    }, 
+    {
+      "name": "Bahamas", 
+      "value": "none", 
+      "caption": "Bahamas produced no oil in 2010. ", 
+      "imageName": "EIA2011BSOilBblPortrait_en.png", 
+      "rank": 123, 
+      "id": "BS"
+    }, 
+    {
+      "name": "Bhutan", 
+      "value": "none", 
+      "caption": "Bhutan produced no oil in 2010. ", 
+      "imageName": "EIA2011BTOilBblPortrait_en.png", 
+      "rank": 124, 
+      "id": "BT"
+    }, 
+    {
+      "name": "Botswana", 
+      "value": "none", 
+      "caption": "Botswana produced no oil in 2010. ", 
+      "imageName": "EIA2011BWOilBblPortrait_en.png", 
+      "rank": 125, 
+      "id": "BW"
+    }, 
+    {
+      "name": "Central African Republic", 
+      "value": "none", 
+      "caption": "Central African Republic produced no oil in 2010. ", 
+      "imageName": "EIA2011CFOilBblPortrait_en.png", 
+      "rank": 126, 
+      "id": "CF"
+    }, 
+    {
+      "name": "Cook Islands", 
+      "value": "none", 
+      "caption": "Cook Islands produced no oil in 2010. ", 
+      "imageName": "EIA2011CKOilBblPortrait_en.png", 
+      "rank": 127, 
+      "id": "CK"
+    }, 
+    {
+      "name": "Cape Verde", 
+      "value": "none", 
+      "caption": "Cape Verde produced no oil in 2010. ", 
+      "imageName": "EIA2011CVOilBblPortrait_en.png", 
+      "rank": 128, 
+      "id": "CV"
+    }, 
+    {
+      "name": "Cyprus", 
+      "value": "none", 
+      "caption": "Cyprus produced no oil in 2010. ", 
+      "imageName": "EIA2011CYOilBblPortrait_en.png", 
+      "rank": 129, 
+      "id": "CY"
+    }, 
+    {
+      "name": "Djibouti", 
+      "value": "none", 
+      "caption": "Djibouti produced no oil in 2010. ", 
+      "imageName": "EIA2011DJOilBblPortrait_en.png", 
+      "rank": 130, 
+      "id": "DJ"
+    }, 
+    {
+      "name": "Dominica", 
+      "value": "none", 
+      "caption": "Dominica produced no oil in 2010. ", 
+      "imageName": "EIA2011DMOilBblPortrait_en.png", 
+      "rank": 131, 
+      "id": "DM"
+    }, 
+    {
+      "name": "Western Sahara", 
+      "value": "none", 
+      "caption": "Western Sahara produced no oil in 2010. ", 
+      "imageName": "EIA2011EHOilBblPortrait_en.png", 
+      "rank": 132, 
+      "id": "EH"
+    }, 
+    {
+      "name": "Eritrea", 
+      "value": "none", 
+      "caption": "Eritrea produced no oil in 2010. ", 
+      "imageName": "EIA2011EROilBblPortrait_en.png", 
+      "rank": 133, 
+      "id": "ER"
+    }, 
+    {
+      "name": "Ethiopia", 
+      "value": "none", 
+      "caption": "Ethiopia produced no oil in 2010. ", 
+      "imageName": "EIA2011ETOilBblPortrait_en.png", 
+      "rank": 134, 
+      "id": "ET"
+    }, 
+    {
+      "name": "Fiji", 
+      "value": "none", 
+      "caption": "Fiji produced no oil in 2010. ", 
+      "imageName": "EIA2011FJOilBblPortrait_en.png", 
+      "rank": 135, 
+      "id": "FJ"
+    }, 
+    {
+      "name": "Falkland Islands", 
+      "value": "none", 
+      "caption": "Falkland Islands produced no oil in 2010. ", 
+      "imageName": "EIA2011FKOilBblPortrait_en.png", 
+      "rank": 136, 
+      "id": "FK"
+    }, 
+    {
+      "name": "Faroe Islands", 
+      "value": "none", 
+      "caption": "Faroe Islands produced no oil in 2010. ", 
+      "imageName": "EIA2011FOOilBblPortrait_en.png", 
+      "rank": 137, 
+      "id": "FO"
+    }, 
+    {
+      "name": "Grenada", 
+      "value": "none", 
+      "caption": "Grenada produced no oil in 2010. ", 
+      "imageName": "EIA2011GDOilBblPortrait_en.png", 
+      "rank": 138, 
+      "id": "GD"
+    }, 
+    {
+      "name": "French Guiana", 
+      "value": "none", 
+      "caption": "French Guiana produced no oil in 2010. ", 
+      "imageName": "EIA2011GFOilBblPortrait_en.png", 
+      "rank": 139, 
+      "id": "GF"
+    }, 
+    {
+      "name": "Gibraltar", 
+      "value": "none", 
+      "caption": "Gibraltar produced no oil in 2010. ", 
+      "imageName": "EIA2011GIOilBblPortrait_en.png", 
+      "rank": 140, 
+      "id": "GI"
+    }, 
+    {
+      "name": "Greenland", 
+      "value": "none", 
+      "caption": "Greenland produced no oil in 2010. ", 
+      "imageName": "EIA2011GLOilBblPortrait_en.png", 
+      "rank": 141, 
+      "id": "GL"
+    }, 
+    {
+      "name": "Gambia", 
+      "value": "none", 
+      "caption": "Gambia produced no oil in 2010. ", 
+      "imageName": "EIA2011GMOilBblPortrait_en.png", 
+      "rank": 142, 
+      "id": "GM"
+    }, 
+    {
+      "name": "Guinea", 
+      "value": "none", 
+      "caption": "Guinea produced no oil in 2010. ", 
+      "imageName": "EIA2011GNOilBblPortrait_en.png", 
+      "rank": 143, 
+      "id": "GN"
+    }, 
+    {
+      "name": "Guadeloupe", 
+      "value": "none", 
+      "caption": "Guadeloupe produced no oil in 2010. ", 
+      "imageName": "EIA2011GPOilBblPortrait_en.png", 
+      "rank": 144, 
+      "id": "GP"
+    }, 
+    {
+      "name": "Guam", 
+      "value": "none", 
+      "caption": "Guam produced no oil in 2010. ", 
+      "imageName": "EIA2011GUOilBblPortrait_en.png", 
+      "rank": 145, 
+      "id": "GU"
+    }, 
+    {
+      "name": "Guinea-Bissau", 
+      "value": "none", 
+      "caption": "Guinea-Bissau produced no oil in 2010. ", 
+      "imageName": "EIA2011GWOilBblPortrait_en.png", 
+      "rank": 146, 
+      "id": "GW"
+    }, 
+    {
+      "name": "Guyana", 
+      "value": "none", 
+      "caption": "Guyana produced no oil in 2010. ", 
+      "imageName": "EIA2011GYOilBblPortrait_en.png", 
+      "rank": 147, 
+      "id": "GY"
+    }, 
+    {
+      "name": "Hong Kong SAR China", 
+      "value": "none", 
+      "caption": "Hong Kong SAR China produced no oil in 2010. ", 
+      "imageName": "EIA2011HKOilBblPortrait_en.png", 
+      "rank": 148, 
+      "id": "HK"
+    }, 
+    {
+      "name": "Honduras", 
+      "value": "none", 
+      "caption": "Honduras produced no oil in 2010. ", 
+      "imageName": "EIA2011HNOilBblPortrait_en.png", 
+      "rank": 149, 
+      "id": "HN"
+    }, 
+    {
+      "name": "Haiti", 
+      "value": "none", 
+      "caption": "Haiti produced no oil in 2010. ", 
+      "imageName": "EIA2011HTOilBblPortrait_en.png", 
+      "rank": 150, 
+      "id": "HT"
+    }, 
+    {
+      "name": "Iceland", 
+      "value": "none", 
+      "caption": "Iceland produced no oil in 2010. ", 
+      "imageName": "EIA2011ISOilBblPortrait_en.png", 
+      "rank": 151, 
+      "id": "IS"
+    }, 
+    {
+      "name": "Cambodia", 
+      "value": "none", 
+      "caption": "Cambodia produced no oil in 2010. ", 
+      "imageName": "EIA2011KHOilBblPortrait_en.png", 
+      "rank": 152, 
+      "id": "KH"
+    }, 
+    {
+      "name": "Kiribati", 
+      "value": "none", 
+      "caption": "Kiribati produced no oil in 2010. ", 
+      "imageName": "EIA2011KIOilBblPortrait_en.png", 
+      "rank": 153, 
+      "id": "KI"
+    }, 
+    {
+      "name": "Comoros", 
+      "value": "none", 
+      "caption": "Comoros produced no oil in 2010. ", 
+      "imageName": "EIA2011KMOilBblPortrait_en.png", 
+      "rank": 154, 
+      "id": "KM"
+    }, 
+    {
+      "name": "Saint Kitts and Nevis", 
+      "value": "none", 
+      "caption": "Saint Kitts and Nevis produced no oil in 2010. ", 
+      "imageName": "EIA2011KNOilBblPortrait_en.png", 
+      "rank": 155, 
+      "id": "KN"
+    }, 
+    {
+      "name": "Cayman Islands", 
+      "value": "none", 
+      "caption": "Cayman Islands produced no oil in 2010. ", 
+      "imageName": "EIA2011KYOilBblPortrait_en.png", 
+      "rank": 156, 
+      "id": "KY"
+    }, 
+    {
+      "name": "Laos", 
+      "value": "none", 
+      "caption": "Laos produced no oil in 2010. ", 
+      "imageName": "EIA2011LAOilBblPortrait_en.png", 
+      "rank": 157, 
+      "id": "LA"
+    }, 
+    {
+      "name": "Lebanon", 
+      "value": "none", 
+      "caption": "Lebanon produced no oil in 2010. ", 
+      "imageName": "EIA2011LBOilBblPortrait_en.png", 
+      "rank": 158, 
+      "id": "LB"
+    }, 
+    {
+      "name": "Saint Lucia", 
+      "value": "none", 
+      "caption": "Saint Lucia produced no oil in 2010. ", 
+      "imageName": "EIA2011LCOilBblPortrait_en.png", 
+      "rank": 159, 
+      "id": "LC"
+    }, 
+    {
+      "name": "Liberia", 
+      "value": "none", 
+      "caption": "Liberia produced no oil in 2010. ", 
+      "imageName": "EIA2011LROilBblPortrait_en.png", 
+      "rank": 160, 
+      "id": "LR"
+    }, 
+    {
+      "name": "Lesotho", 
+      "value": "none", 
+      "caption": "Lesotho produced no oil in 2010. ", 
+      "imageName": "EIA2011LSOilBblPortrait_en.png", 
+      "rank": 161, 
+      "id": "LS"
+    }, 
+    {
+      "name": "Luxembourg", 
+      "value": "none", 
+      "caption": "Luxembourg produced no oil in 2010. ", 
+      "imageName": "EIA2011LUOilBblPortrait_en.png", 
+      "rank": 162, 
+      "id": "LU"
+    }, 
+    {
+      "name": "Latvia", 
+      "value": "none", 
+      "caption": "Latvia produced no oil in 2010. ", 
+      "imageName": "EIA2011LVOilBblPortrait_en.png", 
+      "rank": 163, 
+      "id": "LV"
+    }, 
+    {
+      "name": "Moldova", 
+      "value": "none", 
+      "caption": "Moldova produced no oil in 2010. ", 
+      "imageName": "EIA2011MDOilBblPortrait_en.png", 
+      "rank": 164, 
+      "id": "MD"
+    }, 
+    {
+      "name": "Montenegro", 
+      "value": "none", 
+      "caption": "Montenegro produced no oil in 2010. ", 
+      "imageName": "EIA2011MEOilBblPortrait_en.png", 
+      "rank": 165, 
+      "id": "ME"
+    }, 
+    {
+      "name": "Madagascar", 
+      "value": "none", 
+      "caption": "Madagascar produced no oil in 2010. ", 
+      "imageName": "EIA2011MGOilBblPortrait_en.png", 
+      "rank": 166, 
+      "id": "MG"
+    }, 
+    {
+      "name": "Mali", 
+      "value": "none", 
+      "caption": "Mali produced no oil in 2010. ", 
+      "imageName": "EIA2011MLOilBblPortrait_en.png", 
+      "rank": 167, 
+      "id": "ML"
+    }, 
+    {
+      "name": "Mongolia", 
+      "value": "none", 
+      "caption": "Mongolia produced no oil in 2010. ", 
+      "imageName": "EIA2011MNOilBblPortrait_en.png", 
+      "rank": 168, 
+      "id": "MN"
+    }, 
+    {
+      "name": "Macau SAR China", 
+      "value": "none", 
+      "caption": "Macau SAR China produced no oil in 2010. ", 
+      "imageName": "EIA2011MOOilBblPortrait_en.png", 
+      "rank": 169, 
+      "id": "MO"
+    }, 
+    {
+      "name": "Montserrat", 
+      "value": "none", 
+      "caption": "Montserrat produced no oil in 2010. ", 
+      "imageName": "EIA2011MSOilBblPortrait_en.png", 
+      "rank": 170, 
+      "id": "MS"
+    }, 
+    {
+      "name": "Malta", 
+      "value": "none", 
+      "caption": "Malta produced no oil in 2010. ", 
+      "imageName": "EIA2011MTOilBblPortrait_en.png", 
+      "rank": 171, 
+      "id": "MT"
+    }, 
+    {
+      "name": "Mauritius", 
+      "value": "none", 
+      "caption": "Mauritius produced no oil in 2010. ", 
+      "imageName": "EIA2011MUOilBblPortrait_en.png", 
+      "rank": 172, 
+      "id": "MU"
+    }, 
+    {
+      "name": "Maldives", 
+      "value": "none", 
+      "caption": "Maldives produced no oil in 2010. ", 
+      "imageName": "EIA2011MVOilBblPortrait_en.png", 
+      "rank": 173, 
+      "id": "MV"
+    }, 
+    {
+      "name": "Malawi", 
+      "value": "none", 
+      "caption": "Malawi produced no oil in 2010. ", 
+      "imageName": "EIA2011MWOilBblPortrait_en.png", 
+      "rank": 174, 
+      "id": "MW"
+    }, 
+    {
+      "name": "Mozambique", 
+      "value": "none", 
+      "caption": "Mozambique produced no oil in 2010. ", 
+      "imageName": "EIA2011MZOilBblPortrait_en.png", 
+      "rank": 175, 
+      "id": "MZ"
+    }, 
+    {
+      "name": "New Caledonia", 
+      "value": "none", 
+      "caption": "New Caledonia produced no oil in 2010. ", 
+      "imageName": "EIA2011NCOilBblPortrait_en.png", 
+      "rank": 176, 
+      "id": "NC"
+    }, 
+    {
+      "name": "Niger", 
+      "value": "none", 
+      "caption": "Niger produced no oil in 2010. ", 
+      "imageName": "EIA2011NEOilBblPortrait_en.png", 
+      "rank": 177, 
+      "id": "NE"
+    }, 
+    {
+      "name": "Nepal", 
+      "value": "none", 
+      "caption": "Nepal produced no oil in 2010. ", 
+      "imageName": "EIA2011NPOilBblPortrait_en.png", 
+      "rank": 178, 
+      "id": "NP"
+    }, 
+    {
+      "name": "Nauru", 
+      "value": "none", 
+      "caption": "Nauru produced no oil in 2010. ", 
+      "imageName": "EIA2011NROilBblPortrait_en.png", 
+      "rank": 179, 
+      "id": "NR"
+    }, 
+    {
+      "name": "Niue", 
+      "value": "none", 
+      "caption": "Niue produced no oil in 2010. ", 
+      "imageName": "EIA2011NUOilBblPortrait_en.png", 
+      "rank": 180, 
+      "id": "NU"
+    }, 
+    {
+      "name": "Panama", 
+      "value": "none", 
+      "caption": "Panama produced no oil in 2010. ", 
+      "imageName": "EIA2011PAOilBblPortrait_en.png", 
+      "rank": 181, 
+      "id": "PA"
+    }, 
+    {
+      "name": "French Polynesia", 
+      "value": "none", 
+      "caption": "French Polynesia produced no oil in 2010. ", 
+      "imageName": "EIA2011PFOilBblPortrait_en.png", 
+      "rank": 182, 
+      "id": "PF"
+    }, 
+    {
+      "name": "Saint Pierre and Miquelon", 
+      "value": "none", 
+      "caption": "Saint Pierre and Miquelon produced no oil in 2010. ", 
+      "imageName": "EIA2011PMOilBblPortrait_en.png", 
+      "rank": 183, 
+      "id": "PM"
+    }, 
+    {
+      "name": "Palestinian Territory", 
+      "value": "none", 
+      "caption": "Palestinian Territory produced no oil in 2010. ", 
+      "imageName": "EIA2011PSOilBblPortrait_en.png", 
+      "rank": 184, 
+      "id": "PS"
+    }, 
+    {
+      "name": "Paraguay", 
+      "value": "none", 
+      "caption": "Paraguay produced no oil in 2010. ", 
+      "imageName": "EIA2011PYOilBblPortrait_en.png", 
+      "rank": 185, 
+      "id": "PY"
+    }, 
+    {
+      "name": "Reunion", 
+      "value": "none", 
+      "caption": "Reunion produced no oil in 2010. ", 
+      "imageName": "EIA2011REOilBblPortrait_en.png", 
+      "rank": 186, 
+      "id": "RE"
+    }, 
+    {
+      "name": "Rwanda", 
+      "value": "none", 
+      "caption": "Rwanda produced no oil in 2010. ", 
+      "imageName": "EIA2011RWOilBblPortrait_en.png", 
+      "rank": 187, 
+      "id": "RW"
+    }, 
+    {
+      "name": "Solomon Islands", 
+      "value": "none", 
+      "caption": "Solomon Islands produced no oil in 2010. ", 
+      "imageName": "EIA2011SBOilBblPortrait_en.png", 
+      "rank": 188, 
+      "id": "SB"
+    }, 
+    {
+      "name": "Seychelles", 
+      "value": "none", 
+      "caption": "Seychelles produced no oil in 2010. ", 
+      "imageName": "EIA2011SCOilBblPortrait_en.png", 
+      "rank": 189, 
+      "id": "SC"
+    }, 
+    {
+      "name": "Saint Helena", 
+      "value": "none", 
+      "caption": "Saint Helena produced no oil in 2010. ", 
+      "imageName": "EIA2011SHOilBblPortrait_en.png", 
+      "rank": 190, 
+      "id": "SH"
+    }, 
+    {
+      "name": "Sao Tome and Principe", 
+      "value": "none", 
+      "caption": "Sao Tome and Principe produced no oil in 2010. ", 
+      "imageName": "EIA2011STOilBblPortrait_en.png", 
+      "rank": 191, 
+      "id": "ST"
+    }, 
+    {
+      "name": "Swaziland", 
+      "value": "none", 
+      "caption": "Swaziland produced no oil in 2010. ", 
+      "imageName": "EIA2011SZOilBblPortrait_en.png", 
+      "rank": 192, 
+      "id": "SZ"
+    }, 
+    {
+      "name": "Turks and Caicos Islands", 
+      "value": "none", 
+      "caption": "Turks and Caicos Islands produced no oil in 2010. ", 
+      "imageName": "EIA2011TCOilBblPortrait_en.png", 
+      "rank": 193, 
+      "id": "TC"
+    }, 
+    {
+      "name": "Togo", 
+      "value": "none", 
+      "caption": "Togo produced no oil in 2010. ", 
+      "imageName": "EIA2011TGOilBblPortrait_en.png", 
+      "rank": 194, 
+      "id": "TG"
+    }, 
+    {
+      "name": "Tonga", 
+      "value": "none", 
+      "caption": "Tonga produced no oil in 2010. ", 
+      "imageName": "EIA2011TOOilBblPortrait_en.png", 
+      "rank": 195, 
+      "id": "TO"
+    }, 
+    {
+      "name": "Tanzania", 
+      "value": "none", 
+      "caption": "Tanzania produced no oil in 2010. ", 
+      "imageName": "EIA2011TZOilBblPortrait_en.png", 
+      "rank": 196, 
+      "id": "TZ"
+    }, 
+    {
+      "name": "Uganda", 
+      "value": "none", 
+      "caption": "Uganda produced no oil in 2010. ", 
+      "imageName": "EIA2011UGOilBblPortrait_en.png", 
+      "rank": 197, 
+      "id": "UG"
+    }, 
+    {
+      "name": "United States Minor Outlying Islands", 
+      "value": "none", 
+      "caption": "United States Minor Outlying Islands produced no oil in 2010. ", 
+      "imageName": "EIA2011UMOilBblPortrait_en.png", 
+      "rank": 198, 
+      "id": "UM"
+    }, 
+    {
+      "name": "Saint Vincent and the Grenadines", 
+      "value": "none", 
+      "caption": "Saint Vincent and the Grenadines produced no oil in 2010. ", 
+      "imageName": "EIA2011VCOilBblPortrait_en.png", 
+      "rank": 199, 
+      "id": "VC"
+    }, 
+    {
+      "name": "British Virgin Islands", 
+      "value": "none", 
+      "caption": "British Virgin Islands produced no oil in 2010. ", 
+      "imageName": "EIA2011VGOilBblPortrait_en.png", 
+      "rank": 200, 
+      "id": "VG"
+    }, 
+    {
+      "name": "Vanuatu", 
+      "value": "none", 
+      "caption": "Vanuatu produced no oil in 2010. ", 
+      "imageName": "EIA2011VUOilBblPortrait_en.png", 
+      "rank": 201, 
+      "id": "VU"
+    }, 
+    {
+      "name": "Samoa", 
+      "value": "none", 
+      "caption": "Samoa produced no oil in 2010. ", 
+      "imageName": "EIA2011WSOilBblPortrait_en.png", 
+      "rank": 202, 
+      "id": "WS"
+    }, 
+    {
+      "name": "Zimbabwe", 
+      "value": "none", 
+      "caption": "Zimbabwe produced no oil in 2010. ", 
+      "imageName": "EIA2011ZWOilBblPortrait_en.png", 
+      "rank": 203, 
+      "id": "ZW"
+    }, 
+    {
+      "name": "Bosnia and Herzegovina", 
+      "value": "none", 
+      "caption": "Bosnia and Herzegovina produced no oil in 2010. ", 
+      "imageName": "EIA2011BAOilBblPortrait_en.png", 
+      "rank": 204, 
+      "id": "BA"
+    }, 
+    {
+      "name": "Senegal", 
+      "value": "none", 
+      "caption": "Senegal produced no oil in 2010. ", 
+      "imageName": "EIA2011SNOilBblPortrait_en.png", 
+      "rank": 205, 
+      "id": "SN"
+    }, 
+    {
+      "name": "Martinique", 
+      "value": "none", 
+      "caption": "Martinique produced no oil in 2010. ", 
+      "imageName": "EIA2011MQOilBblPortrait_en.png", 
+      "rank": 206, 
+      "id": "MQ"
+    }, 
+    {
+      "name": "Macedonia", 
+      "value": "none", 
+      "caption": "Macedonia produced no oil in 2010. ", 
+      "imageName": "EIA2011MKOilBblPortrait_en.png", 
+      "rank": 207, 
+      "id": "MK"
+    }, 
+    {
+      "name": "Kenya", 
+      "value": "none", 
+      "caption": "Kenya produced no oil in 2010. ", 
+      "imageName": "EIA2011KEOilBblPortrait_en.png", 
+      "rank": 208, 
+      "id": "KE"
+    }, 
+    {
+      "name": "Costa Rica", 
+      "value": "none", 
+      "caption": "Costa Rica produced no oil in 2010. ", 
+      "imageName": "EIA2011CROilBblPortrait_en.png", 
+      "rank": 209, 
+      "id": "CR"
+    }, 
+    {
+      "name": "Nicaragua", 
+      "value": "none", 
+      "caption": "Nicaragua produced no oil in 2010. ", 
+      "imageName": "EIA2011NIOilBblPortrait_en.png", 
+      "rank": 210, 
+      "id": "NI"
+    }, 
+    {
+      "name": "Dominican Republic", 
+      "value": "none", 
+      "caption": "Dominican Republic produced no oil in 2010. ", 
+      "imageName": "EIA2011DOOilBblPortrait_en.png", 
+      "rank": 211, 
+      "id": "DO"
+    }, 
+    {
+      "name": "Ireland", 
+      "value": "none", 
+      "caption": "Ireland produced no oil in 2010. ", 
+      "imageName": "EIA2011IEOilBblPortrait_en.png", 
+      "rank": 212, 
+      "id": "IE"
+    }, 
+    {
+      "name": "El Salvador", 
+      "value": "none", 
+      "caption": "El Salvador produced no oil in 2010. ", 
+      "imageName": "EIA2011SVOilBblPortrait_en.png", 
+      "rank": 213, 
+      "id": "SV"
+    }, 
+    {
+      "name": "Jamaica", 
+      "value": "none", 
+      "caption": "Jamaica produced no oil in 2010. ", 
+      "imageName": "EIA2011JMOilBblPortrait_en.png", 
+      "rank": 214, 
+      "id": "JM"
+    }, 
+    {
+      "name": "Sri Lanka", 
+      "value": "none", 
+      "caption": "Sri Lanka produced no oil in 2010. ", 
+      "imageName": "EIA2011LKOilBblPortrait_en.png", 
+      "rank": 215, 
+      "id": "LK"
+    }
+  ], 
+  "imageBaseUrl": "http://mazamascience.com/iPhone/PeakOil/"
+}

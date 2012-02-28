@@ -1,0 +1,1727 @@
+{
+  "currentNamedRankingId": "OilConsumptionBbl", 
+  "currentThemeId": "OilGasTrends", 
+  "list": [
+    {
+      "name": "United States", 
+      "value": "19.15 mbd", 
+      "caption": "United States consumed 19.1 million barrels per day in 2010. US consumption rises and falls with the economy and is down from recent highs.", 
+      "imageName": "EIA2011USOilBblPortrait_en.png", 
+      "rank": 1, 
+      "id": "US"
+    }, 
+    {
+      "name": "China", 
+      "value": "9.19 mbd", 
+      "caption": "China consumed 9.2 million barrels per day in 2010. Consumption is rising must faster than production but is still low on a per person basis. China is the #2 oil importer.", 
+      "imageName": "EIA2011CNOilBblPortrait_en.png", 
+      "rank": 2, 
+      "id": "CN"
+    }, 
+    {
+      "name": "Japan", 
+      "value": "4.42 mbd", 
+      "caption": "Japan consumed 4.4 million barrels per day in 2010. A significant portion of japanese consumption comes from the use of kerosene for home heating.", 
+      "imageName": "EIA2011JPOilBblPortrait_en.png", 
+      "rank": 3, 
+      "id": "JP"
+    }, 
+    {
+      "name": "India", 
+      "value": "3.18 mbd", 
+      "caption": "India consumed 3.2 million barrels per day in 2010. Indian consumption has far outpaced production making India the #5 importer in 2010.", 
+      "imageName": "EIA2011INOilBblPortrait_en.png", 
+      "rank": 4, 
+      "id": "IN"
+    }, 
+    {
+      "name": "Russia", 
+      "value": "2.94 mbd", 
+      "caption": "Russia consumed 2.9 million barrels per day in 2010. Russian consumption, lower since the 1991 breakup of the Soviet Union is slowly rising again.", 
+      "imageName": "EIA2011RUOilBblPortrait_en.png", 
+      "rank": 5, 
+      "id": "RU"
+    }, 
+    {
+      "name": "Brazil", 
+      "value": "2.65 mbd", 
+      "caption": "Brazil consumed 2.7 million barrels per day in 2010. Consumption is rising rapidly in Brasil, reducing the international impact of recent production increases.", 
+      "imageName": "EIA2011BROilBblPortrait_en.png", 
+      "rank": 6, 
+      "id": "BR"
+    }, 
+    {
+      "name": "Saudi Arabia", 
+      "value": "2.64 mbd", 
+      "caption": "Saudi Arabia consumed 2.6 million barrels per day in 2010. Consumption is rising rapidly. Saudi Arabia burns over 1 mbd/year in desalination plants.", 
+      "imageName": "EIA2011SAOilBblPortrait_en.png", 
+      "rank": 7, 
+      "id": "SA"
+    }, 
+    {
+      "name": "Germany", 
+      "value": "2.49 mbd", 
+      "caption": "Germany consumed 2.5 million barrels per day in 2010. Consumption is slowly declining but Germany was still the #4 importer in 2010.", 
+      "imageName": "EIA2011DEOilBblPortrait_en.png", 
+      "rank": 8, 
+      "id": "DE"
+    }, 
+    {
+      "name": "South Korea", 
+      "value": "2.25 mbd", 
+      "caption": "South Korea consumed 2.2 million barrels per day in 2010. As in Japan, kerosene for home heating accounts for a significant portion of Korean oil consumption", 
+      "imageName": "EIA2011KROilBblPortrait_en.png", 
+      "rank": 9, 
+      "id": "KR"
+    }, 
+    {
+      "name": "Canada", 
+      "value": "2.24 mbd", 
+      "caption": "Canada consumed 2.2 million barrels per day in 2010. Consumption has been stable while production increases leaving more oil for export to the US.", 
+      "imageName": "EIA2011CAOilBblPortrait_en.png", 
+      "rank": 10, 
+      "id": "CA"
+    }, 
+    {
+      "name": "Mexico", 
+      "value": "2.14 mbd", 
+      "caption": "Mexico consumed 2.1 million barrels per day in 2010. Consumption is rising steadily.", 
+      "imageName": "EIA2011MXOilBblPortrait_en.png", 
+      "rank": 11, 
+      "id": "MX"
+    }, 
+    {
+      "name": "Iran", 
+      "value": "1.84 mbd", 
+      "caption": "Iran consumed 1.8 million barrels per day in 2010. Consumption is rising steadily in Iran, eating into exports, despite a huge number of natural gas powered vehicles.", 
+      "imageName": "EIA2011IROilBblPortrait_en.png", 
+      "rank": 12, 
+      "id": "IR"
+    }, 
+    {
+      "name": "France", 
+      "value": "1.81 mbd", 
+      "caption": "France consumed 1.8 million barrels per day in 2010. French consumption and imports of oil have been steady for almost three decades. France is the #7 oil importer.", 
+      "imageName": "EIA2011FROilBblPortrait_en.png", 
+      "rank": 13, 
+      "id": "FR"
+    }, 
+    {
+      "name": "United Kingdom", 
+      "value": "1.63 mbd", 
+      "caption": "United Kingdom consumed 1.6 million barrels per day in 2010. The Piper Alpha disaster in 1988 reduced offshore production for several years. Since 2000, UK oil fields have been in steady decline.", 
+      "imageName": "EIA2011GBOilBblPortrait_en.png", 
+      "rank": 14, 
+      "id": "GB"
+    }, 
+    {
+      "name": "Italy", 
+      "value": "1.50 mbd", 
+      "caption": "Italy consumed 1.5 million barrels per day in 2010. With little production of their own, increasing prices in Italy are driving down consumption.", 
+      "imageName": "EIA2011ITOilBblPortrait_en.png", 
+      "rank": 15, 
+      "id": "IT"
+    }, 
+    {
+      "name": "Spain", 
+      "value": "1.44 mbd", 
+      "caption": "Spain consumed 1.4 million barrels per day in 2010. Spanish consumption increased during the boom of the previous decade. Spain is currently the #8 oil importer.", 
+      "imageName": "EIA2011ESOilBblPortrait_en.png", 
+      "rank": 16, 
+      "id": "ES"
+    }, 
+    {
+      "name": "Indonesia", 
+      "value": "1.29 mbd", 
+      "caption": "Indonesia consumed 1.3 million barrels per day in 2010. A classic example of the 'Export Land Model', production has fallen behind consumption and this previous OPEC member now imports oil.", 
+      "imageName": "EIA2011IDOilBblPortrait_en.png", 
+      "rank": 17, 
+      "id": "ID"
+    }, 
+    {
+      "name": "Singapore", 
+      "value": "1.08 mbd", 
+      "caption": "Singapore consumed 1.1 million barrels per day in 2010. ", 
+      "imageName": "EIA2011SGOilBblPortrait_en.png", 
+      "rank": 18, 
+      "id": "SG"
+    }, 
+    {
+      "name": "Netherlands", 
+      "value": "1.03 mbd", 
+      "caption": "Netherlands consumed 1.0 million barrels per day in 2010. ", 
+      "imageName": "EIA2011NLOilBblPortrait_en.png", 
+      "rank": 19, 
+      "id": "NL"
+    }, 
+    {
+      "name": "Taiwan", 
+      "value": "1.00 mbd", 
+      "caption": "Taiwan consumed 1.0 million barrels per day in 2010. ", 
+      "imageName": "EIA2011TWOilBblPortrait_en.png", 
+      "rank": 20, 
+      "id": "TW"
+    }, 
+    {
+      "name": "Thailand", 
+      "value": "988 kbd", 
+      "caption": "Thailand consumed 988 thousand barrels per day in 2010. Production and consumption are both rising in this net oil importer.", 
+      "imageName": "EIA2011THOilBblPortrait_en.png", 
+      "rank": 21, 
+      "id": "TH"
+    }, 
+    {
+      "name": "Australia", 
+      "value": "959 kbd", 
+      "caption": "Australia consumed 959 thousand barrels per day in 2010. Net imports are on the rise.", 
+      "imageName": "EIA2011AUOilBblPortrait_en.png", 
+      "rank": 22, 
+      "id": "AU"
+    }, 
+    {
+      "name": "Venezuela", 
+      "value": "746 kbd", 
+      "caption": "Venezuela consumed 746 thousand barrels per day in 2010. Production is in decline largely due to a lack of investment while consumption is steadily rising.", 
+      "imageName": "EIA2011VEOilBblPortrait_en.png", 
+      "rank": 23, 
+      "id": "VE"
+    }, 
+    {
+      "name": "Egypt", 
+      "value": "740 kbd", 
+      "caption": "Egypt consumed 740 thousand barrels per day in 2010. Egypt went from net exporter to net importer in 2009. The overthrow of the Mubarak regime occurred in 2010.", 
+      "imageName": "EIA2011EGOilBblPortrait_en.png", 
+      "rank": 24, 
+      "id": "EG"
+    }, 
+    {
+      "name": "Iraq", 
+      "value": "694 kbd", 
+      "caption": "Iraq consumed 694 thousand barrels per day in 2010. Iraq's production history is chaotic because of sanctions, war and ongoing dislocation. But consumption is steadily rising.", 
+      "imageName": "EIA2011IQOilBblPortrait_en.png", 
+      "rank": 25, 
+      "id": "IQ"
+    }, 
+    {
+      "name": "Argentina", 
+      "value": "618 kbd", 
+      "caption": "Argentina consumed 618 thousand barrels per day in 2010. Trends of declining production and increasing consumption look set to soon convert Argentina into a net importer.", 
+      "imageName": "EIA2011AROilBblPortrait_en.png", 
+      "rank": 26, 
+      "id": "AR"
+    }, 
+    {
+      "name": "Belgium", 
+      "value": "600 kbd", 
+      "caption": "Belgium consumed 600 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BEOilBblPortrait_en.png", 
+      "rank": 27, 
+      "id": "BE"
+    }, 
+    {
+      "name": "Turkey", 
+      "value": "591 kbd", 
+      "caption": "Turkey consumed 591 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TROilBblPortrait_en.png", 
+      "rank": 28, 
+      "id": "TR"
+    }, 
+    {
+      "name": "Malaysia", 
+      "value": "561 kbd", 
+      "caption": "Malaysia consumed 561 thousand barrels per day in 2010. Trends of declining production and increasing consumption look set to soon convert Malaysia into a net importer.", 
+      "imageName": "EIA2011MYOilBblPortrait_en.png", 
+      "rank": 29, 
+      "id": "MY"
+    }, 
+    {
+      "name": "Poland", 
+      "value": "561 kbd", 
+      "caption": "Poland consumed 561 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PLOilBblPortrait_en.png", 
+      "rank": 30, 
+      "id": "PL"
+    }, 
+    {
+      "name": "South Africa", 
+      "value": "553 kbd", 
+      "caption": "South Africa consumed 553 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ZAOilBblPortrait_en.png", 
+      "rank": 31, 
+      "id": "ZA"
+    }, 
+    {
+      "name": "UAE", 
+      "value": "545 kbd", 
+      "caption": "UAE consumed 545 thousand barrels per day in 2010. Production is currently rising more slowly than consumption.", 
+      "imageName": "EIA2011AEOilBblPortrait_en.png", 
+      "rank": 32, 
+      "id": "AE"
+    }, 
+    {
+      "name": "Pakistan", 
+      "value": "410 kbd", 
+      "caption": "Pakistan consumed 410 thousand barrels per day in 2010. Increasing oil imports have generated a sever balance of payments problem in Pakistan.", 
+      "imageName": "EIA2011PKOilBblPortrait_en.png", 
+      "rank": 33, 
+      "id": "PK"
+    }, 
+    {
+      "name": "Greece", 
+      "value": "374 kbd", 
+      "caption": "Greece consumed 374 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GROilBblPortrait_en.png", 
+      "rank": 34, 
+      "id": "GR"
+    }, 
+    {
+      "name": "Sweden", 
+      "value": "365 kbd", 
+      "caption": "Sweden consumed 365 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SEOilBblPortrait_en.png", 
+      "rank": 35, 
+      "id": "SE"
+    }, 
+    {
+      "name": "Kuwait", 
+      "value": "354 kbd", 
+      "caption": "Kuwait consumed 354 thousand barrels per day in 2010. Production has recently declined slightly. Oilfield damage resulting from the 1990 Iraqi invasion is obvious.", 
+      "imageName": "EIA2011KWOilBblPortrait_en.png", 
+      "rank": 36, 
+      "id": "KW"
+    }, 
+    {
+      "name": "Hong Kong SAR China", 
+      "value": "333 kbd", 
+      "caption": "Hong Kong SAR China consumed 333 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HKOilBblPortrait_en.png", 
+      "rank": 37, 
+      "id": "HK"
+    }, 
+    {
+      "name": "Vietnam", 
+      "value": "320 kbd", 
+      "caption": "Vietnam consumed 320 thousand barrels per day in 2010. Production has stabilized after a rapid rise but consuption is still rising. Net exports are in decline.", 
+      "imageName": "EIA2011VNOilBblPortrait_en.png", 
+      "rank": 38, 
+      "id": "VN"
+    }, 
+    {
+      "name": "Algeria", 
+      "value": "312 kbd", 
+      "caption": "Algeria consumed 312 thousand barrels per day in 2010. Production and net exports are up over the last decade.", 
+      "imageName": "EIA2011DZOilBblPortrait_en.png", 
+      "rank": 39, 
+      "id": "DZ"
+    }, 
+    {
+      "name": "Philippines", 
+      "value": "310 kbd", 
+      "caption": "Philippines consumed 310 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PHOilBblPortrait_en.png", 
+      "rank": 40, 
+      "id": "PH"
+    }, 
+    {
+      "name": "Chile", 
+      "value": "303 kbd", 
+      "caption": "Chile consumed 303 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CLOilBblPortrait_en.png", 
+      "rank": 41, 
+      "id": "CL"
+    }, 
+    {
+      "name": "Colombia", 
+      "value": "296 kbd", 
+      "caption": "Colombia consumed 296 thousand barrels per day in 2010. Production has risen recently and is anticipated to increase to 1.2 mbd by 2012.", 
+      "imageName": "EIA2011COOilBblPortrait_en.png", 
+      "rank": 42, 
+      "id": "CO"
+    }, 
+    {
+      "name": "Ukraine", 
+      "value": "296 kbd", 
+      "caption": "Ukraine consumed 296 thousand barrels per day in 2010. Ukrainian oil consumption is down sharply since the fall of the Soviet Union.", 
+      "imageName": "EIA2011UAOilBblPortrait_en.png", 
+      "rank": 43, 
+      "id": "UA"
+    }, 
+    {
+      "name": "Syria", 
+      "value": "292 kbd", 
+      "caption": "Syria consumed 292 thousand barrels per day in 2010. The production peak is evident but the events of 2011 will dramatically alter both production and consumption", 
+      "imageName": "EIA2011SYOilBblPortrait_en.png", 
+      "rank": 44, 
+      "id": "SY"
+    }, 
+    {
+      "name": "Libya", 
+      "value": "289 kbd", 
+      "caption": "Libya consumed 289 thousand barrels per day in 2010. The recent revolution in Lybia means that Lybian production and net exports will look very different for 2011.", 
+      "imageName": "EIA2011LYOilBblPortrait_en.png", 
+      "rank": 45, 
+      "id": "LY"
+    }, 
+    {
+      "name": "Nigeria", 
+      "value": "279 kbd", 
+      "caption": "Nigeria consumed 279 thousand barrels per day in 2010. Production, consumption and net exports are relatively stable.", 
+      "imageName": "EIA2011NGOilBblPortrait_en.png", 
+      "rank": 46, 
+      "id": "NG"
+    }, 
+    {
+      "name": "Austria", 
+      "value": "277 kbd", 
+      "caption": "Austria consumed 277 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ATOilBblPortrait_en.png", 
+      "rank": 47, 
+      "id": "AT"
+    }, 
+    {
+      "name": "Portugal", 
+      "value": "272 kbd", 
+      "caption": "Portugal consumed 272 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PTOilBblPortrait_en.png", 
+      "rank": 48, 
+      "id": "PT"
+    }, 
+    {
+      "name": "Switzerland", 
+      "value": "254 kbd", 
+      "caption": "Switzerland consumed 254 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CHOilBblPortrait_en.png", 
+      "rank": 49, 
+      "id": "CH"
+    }, 
+    {
+      "name": "Kazakhstan", 
+      "value": "249 kbd", 
+      "caption": "Kazakhstan consumed 249 thousand barrels per day in 2010. Production and net exports are up significantly.", 
+      "imageName": "EIA2011KZOilBblPortrait_en.png", 
+      "rank": 50, 
+      "id": "KZ"
+    }, 
+    {
+      "name": "Israel", 
+      "value": "238 kbd", 
+      "caption": "Israel consumed 238 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ILOilBblPortrait_en.png", 
+      "rank": 51, 
+      "id": "IL"
+    }, 
+    {
+      "name": "Norway", 
+      "value": "213 kbd", 
+      "caption": "Norway consumed 213 thousand barrels per day in 2010. A perfect example of a geologically determined 'production peak'.", 
+      "imageName": "EIA2011NOOilBblPortrait_en.png", 
+      "rank": 52, 
+      "id": "NO"
+    }, 
+    {
+      "name": "Finland", 
+      "value": "212 kbd", 
+      "caption": "Finland consumed 212 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011FIOilBblPortrait_en.png", 
+      "rank": 53, 
+      "id": "FI"
+    }, 
+    {
+      "name": "Morocco", 
+      "value": "209 kbd", 
+      "caption": "Morocco consumed 209 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MAOilBblPortrait_en.png", 
+      "rank": 54, 
+      "id": "MA"
+    }, 
+    {
+      "name": "Ecuador", 
+      "value": "201 kbd", 
+      "caption": "Ecuador consumed 201 thousand barrels per day in 2010. Since 2004, net exports have been in steady decline. The 1987 earthquake halved exports.", 
+      "imageName": "EIA2011ECOilBblPortrait_en.png", 
+      "rank": 55, 
+      "id": "EC"
+    }, 
+    {
+      "name": "Czech Republic", 
+      "value": "196 kbd", 
+      "caption": "Czech Republic consumed 196 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CZOilBblPortrait_en.png", 
+      "rank": 56, 
+      "id": "CZ"
+    }, 
+    {
+      "name": "Romania", 
+      "value": "196 kbd", 
+      "caption": "Romania consumed 196 thousand barrels per day in 2010. Romania was the most important source of oil for Nazi Germany but is now in long term decline.", 
+      "imageName": "EIA2011ROOilBblPortrait_en.png", 
+      "rank": 57, 
+      "id": "RO"
+    }, 
+    {
+      "name": "Peru", 
+      "value": "189 kbd", 
+      "caption": "Peru consumed 189 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PEOilBblPortrait_en.png", 
+      "rank": 58, 
+      "id": "PE"
+    }, 
+    {
+      "name": "Cuba", 
+      "value": "176 kbd", 
+      "caption": "Cuba consumed 176 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CUOilBblPortrait_en.png", 
+      "rank": 59, 
+      "id": "CU"
+    }, 
+    {
+      "name": "Denmark", 
+      "value": "167 kbd", 
+      "caption": "Denmark consumed 167 thousand barrels per day in 2010. Danish production displays a well defined peak. Net exports have entered a steady decline.", 
+      "imageName": "EIA2011DKOilBblPortrait_en.png", 
+      "rank": 60, 
+      "id": "DK"
+    }, 
+    {
+      "name": "Qatar", 
+      "value": "166 kbd", 
+      "caption": "Qatar consumed 166 thousand barrels per day in 2010. Better known for natural gas production, oil production is also up steeply in Qatar.", 
+      "imageName": "EIA2011QAOilBblPortrait_en.png", 
+      "rank": 61, 
+      "id": "QA"
+    }, 
+    {
+      "name": "Ireland", 
+      "value": "164 kbd", 
+      "caption": "Ireland consumed 164 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011IEOilBblPortrait_en.png", 
+      "rank": 62, 
+      "id": "IE"
+    }, 
+    {
+      "name": "Belarus", 
+      "value": "163 kbd", 
+      "caption": "Belarus consumed 163 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BYOilBblPortrait_en.png", 
+      "rank": 63, 
+      "id": "BY"
+    }, 
+    {
+      "name": "Yemen", 
+      "value": "157 kbd", 
+      "caption": "Yemen consumed 157 thousand barrels per day in 2010. Yemen is well past peak production. Current unrest will likely reduce production quantities.", 
+      "imageName": "EIA2011YEOilBblPortrait_en.png", 
+      "rank": 64, 
+      "id": "YE"
+    }, 
+    {
+      "name": "New Zealand", 
+      "value": "155 kbd", 
+      "caption": "New Zealand consumed 155 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NZOilBblPortrait_en.png", 
+      "rank": 65, 
+      "id": "NZ"
+    }, 
+    {
+      "name": "Puerto Rico", 
+      "value": "150 kbd", 
+      "caption": "Puerto Rico consumed 150 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PROilBblPortrait_en.png", 
+      "rank": 66, 
+      "id": "PR"
+    }, 
+    {
+      "name": "Hungary", 
+      "value": "146 kbd", 
+      "caption": "Hungary consumed 146 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HUOilBblPortrait_en.png", 
+      "rank": 67, 
+      "id": "HU"
+    }, 
+    {
+      "name": "Uzbekistan", 
+      "value": "144 kbd", 
+      "caption": "Uzbekistan consumed 144 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UZOilBblPortrait_en.png", 
+      "rank": 68, 
+      "id": "UZ"
+    }, 
+    {
+      "name": "Oman", 
+      "value": "142 kbd", 
+      "caption": "Oman consumed 142 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011OMOilBblPortrait_en.png", 
+      "rank": 69, 
+      "id": "OM"
+    }, 
+    {
+      "name": "Dominican Republic", 
+      "value": "119 kbd", 
+      "caption": "Dominican Republic consumed 119 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011DOOilBblPortrait_en.png", 
+      "rank": 70, 
+      "id": "DO"
+    }, 
+    {
+      "name": "Turkmenistan", 
+      "value": "119 kbd", 
+      "caption": "Turkmenistan consumed 119 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TMOilBblPortrait_en.png", 
+      "rank": 71, 
+      "id": "TM"
+    }, 
+    {
+      "name": "Lebanon", 
+      "value": "106 kbd", 
+      "caption": "Lebanon consumed 106 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LBOilBblPortrait_en.png", 
+      "rank": 72, 
+      "id": "LB"
+    }, 
+    {
+      "name": "Azerbaijan", 
+      "value": "104 kbd", 
+      "caption": "Azerbaijan consumed 104 thousand barrels per day in 2010. The world's first oil well was drilled in 1846 in Azerbaijan. Production and net exports are up significantly.", 
+      "imageName": "EIA2011AZOilBblPortrait_en.png", 
+      "rank": 73, 
+      "id": "AZ"
+    }, 
+    {
+      "name": "Bangladesh", 
+      "value": "98 kbd", 
+      "caption": "Bangladesh consumed 98 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BDOilBblPortrait_en.png", 
+      "rank": 74, 
+      "id": "BD"
+    }, 
+    {
+      "name": "Croatia", 
+      "value": "98 kbd", 
+      "caption": "Croatia consumed 98 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HROilBblPortrait_en.png", 
+      "rank": 75, 
+      "id": "HR"
+    }, 
+    {
+      "name": "Jordan", 
+      "value": "98 kbd", 
+      "caption": "Jordan consumed 98 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011JOOilBblPortrait_en.png", 
+      "rank": 76, 
+      "id": "JO"
+    }, 
+    {
+      "name": "Sudan", 
+      "value": "98 kbd", 
+      "caption": "Sudan consumed 98 thousand barrels per day in 2010. Production and net exports are up significantly. The recent partition of North and South may impact this trend.", 
+      "imageName": "EIA2011SDOilBblPortrait_en.png", 
+      "rank": 77, 
+      "id": "SD"
+    }, 
+    {
+      "name": "Panama", 
+      "value": "97 kbd", 
+      "caption": "Panama consumed 97 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PAOilBblPortrait_en.png", 
+      "rank": 78, 
+      "id": "PA"
+    }, 
+    {
+      "name": "Sri Lanka", 
+      "value": "92 kbd", 
+      "caption": "Sri Lanka consumed 92 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LKOilBblPortrait_en.png", 
+      "rank": 79, 
+      "id": "LK"
+    }, 
+    {
+      "name": "Bulgaria", 
+      "value": "91 kbd", 
+      "caption": "Bulgaria consumed 91 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BGOilBblPortrait_en.png", 
+      "rank": 80, 
+      "id": "BG"
+    }, 
+    {
+      "name": "Serbia", 
+      "value": "88 kbd", 
+      "caption": "Serbia consumed 88 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011RSOilBblPortrait_en.png", 
+      "rank": 81, 
+      "id": "RS"
+    }, 
+    {
+      "name": "U.S. Virgin Islands", 
+      "value": "85 kbd", 
+      "caption": "U.S. Virgin Islands consumed 85 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VIOilBblPortrait_en.png", 
+      "rank": 82, 
+      "id": "VI"
+    }, 
+    {
+      "name": "Tunisia", 
+      "value": "84 kbd", 
+      "caption": "Tunisia consumed 84 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TNOilBblPortrait_en.png", 
+      "rank": 83, 
+      "id": "TN"
+    }, 
+    {
+      "name": "Slovakia", 
+      "value": "83 kbd", 
+      "caption": "Slovakia consumed 83 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SKOilBblPortrait_en.png", 
+      "rank": 84, 
+      "id": "SK"
+    }, 
+    {
+      "name": "Kenya", 
+      "value": "78 kbd", 
+      "caption": "Kenya consumed 78 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KEOilBblPortrait_en.png", 
+      "rank": 85, 
+      "id": "KE"
+    }, 
+    {
+      "name": "Angola", 
+      "value": "74 kbd", 
+      "caption": "Angola consumed 74 thousand barrels per day in 2010. Production and net exports are up significantly. Most production is located offshore.", 
+      "imageName": "EIA2011AOOilBblPortrait_en.png", 
+      "rank": 86, 
+      "id": "AO"
+    }, 
+    {
+      "name": "Netherlands Antilles", 
+      "value": "72 kbd", 
+      "caption": "Netherlands Antilles consumed 72 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ANOilBblPortrait_en.png", 
+      "rank": 87, 
+      "id": "AN"
+    }, 
+    {
+      "name": "Guatemala", 
+      "value": "71 kbd", 
+      "caption": "Guatemala consumed 71 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GTOilBblPortrait_en.png", 
+      "rank": 88, 
+      "id": "GT"
+    }, 
+    {
+      "name": "Lithuania", 
+      "value": "67 kbd", 
+      "caption": "Lithuania consumed 67 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LTOilBblPortrait_en.png", 
+      "rank": 89, 
+      "id": "LT"
+    }, 
+    {
+      "name": "Jamaica", 
+      "value": "63 kbd", 
+      "caption": "Jamaica consumed 63 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011JMOilBblPortrait_en.png", 
+      "rank": 90, 
+      "id": "JM"
+    }, 
+    {
+      "name": "Slovenia", 
+      "value": "63 kbd", 
+      "caption": "Slovenia consumed 63 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SIOilBblPortrait_en.png", 
+      "rank": 91, 
+      "id": "SI"
+    }, 
+    {
+      "name": "Bolivia", 
+      "value": "62 kbd", 
+      "caption": "Bolivia consumed 62 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BOOilBblPortrait_en.png", 
+      "rank": 92, 
+      "id": "BO"
+    }, 
+    {
+      "name": "Cyprus", 
+      "value": "61 kbd", 
+      "caption": "Cyprus consumed 61 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CYOilBblPortrait_en.png", 
+      "rank": 93, 
+      "id": "CY"
+    }, 
+    {
+      "name": "Ghana", 
+      "value": "60 kbd", 
+      "caption": "Ghana consumed 60 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GHOilBblPortrait_en.png", 
+      "rank": 94, 
+      "id": "GH"
+    }, 
+    {
+      "name": "Luxembourg", 
+      "value": "57 kbd", 
+      "caption": "Luxembourg consumed 57 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LUOilBblPortrait_en.png", 
+      "rank": 95, 
+      "id": "LU"
+    }, 
+    {
+      "name": "Armenia", 
+      "value": "52 kbd", 
+      "caption": "Armenia consumed 52 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AMOilBblPortrait_en.png", 
+      "rank": 96, 
+      "id": "AM"
+    }, 
+    {
+      "name": "Uruguay", 
+      "value": "52 kbd", 
+      "caption": "Uruguay consumed 52 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UYOilBblPortrait_en.png", 
+      "rank": 97, 
+      "id": "UY"
+    }, 
+    {
+      "name": "Honduras", 
+      "value": "51 kbd", 
+      "caption": "Honduras consumed 51 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HNOilBblPortrait_en.png", 
+      "rank": 98, 
+      "id": "HN"
+    }, 
+    {
+      "name": "Bahrain", 
+      "value": "47 kbd", 
+      "caption": "Bahrain consumed 47 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BHOilBblPortrait_en.png", 
+      "rank": 99, 
+      "id": "BH"
+    }, 
+    {
+      "name": "Costa Rica", 
+      "value": "47 kbd", 
+      "caption": "Costa Rica consumed 47 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CROilBblPortrait_en.png", 
+      "rank": 100, 
+      "id": "CR"
+    }, 
+    {
+      "name": "Ethiopia", 
+      "value": "47 kbd", 
+      "caption": "Ethiopia consumed 47 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ETOilBblPortrait_en.png", 
+      "rank": 101, 
+      "id": "ET"
+    }, 
+    {
+      "name": "El Salvador", 
+      "value": "47 kbd", 
+      "caption": "El Salvador consumed 47 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SVOilBblPortrait_en.png", 
+      "rank": 102, 
+      "id": "SV"
+    }, 
+    {
+      "name": "Latvia", 
+      "value": "41 kbd", 
+      "caption": "Latvia consumed 41 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LVOilBblPortrait_en.png", 
+      "rank": 103, 
+      "id": "LV"
+    }, 
+    {
+      "name": "Senegal", 
+      "value": "41 kbd", 
+      "caption": "Senegal consumed 41 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SNOilBblPortrait_en.png", 
+      "rank": 104, 
+      "id": "SN"
+    }, 
+    {
+      "name": "Trinidad and Tobago", 
+      "value": "41 kbd", 
+      "caption": "Trinidad and Tobago consumed 41 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TTOilBblPortrait_en.png", 
+      "rank": 105, 
+      "id": "TT"
+    }, 
+    {
+      "name": "Tajikistan", 
+      "value": "40 kbd", 
+      "caption": "Tajikistan consumed 40 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TJOilBblPortrait_en.png", 
+      "rank": 106, 
+      "id": "TJ"
+    }, 
+    {
+      "name": "Tanzania", 
+      "value": "38 kbd", 
+      "caption": "Tanzania consumed 38 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TZOilBblPortrait_en.png", 
+      "rank": 107, 
+      "id": "TZ"
+    }, 
+    {
+      "name": "Myanmar", 
+      "value": "37 kbd", 
+      "caption": "Myanmar consumed 37 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MMOilBblPortrait_en.png", 
+      "rank": 108, 
+      "id": "MM"
+    }, 
+    {
+      "name": "Bahamas", 
+      "value": "35 kbd", 
+      "caption": "Bahamas consumed 35 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BSOilBblPortrait_en.png", 
+      "rank": 109, 
+      "id": "BS"
+    }, 
+    {
+      "name": "Albania", 
+      "value": "33 kbd", 
+      "caption": "Albania consumed 33 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ALOilBblPortrait_en.png", 
+      "rank": 110, 
+      "id": "AL"
+    }, 
+    {
+      "name": "Papua New Guinea", 
+      "value": "33 kbd", 
+      "caption": "Papua New Guinea consumed 33 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PGOilBblPortrait_en.png", 
+      "rank": 111, 
+      "id": "PG"
+    }, 
+    {
+      "name": "Cambodia", 
+      "value": "32 kbd", 
+      "caption": "Cambodia consumed 32 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KHOilBblPortrait_en.png", 
+      "rank": 112, 
+      "id": "KH"
+    }, 
+    {
+      "name": "Estonia", 
+      "value": "31 kbd", 
+      "caption": "Estonia consumed 31 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011EEOilBblPortrait_en.png", 
+      "rank": 113, 
+      "id": "EE"
+    }, 
+    {
+      "name": "Paraguay", 
+      "value": "31 kbd", 
+      "caption": "Paraguay consumed 31 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PYOilBblPortrait_en.png", 
+      "rank": 114, 
+      "id": "PY"
+    }, 
+    {
+      "name": "Cameroon", 
+      "value": "30 kbd", 
+      "caption": "Cameroon consumed 30 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CMOilBblPortrait_en.png", 
+      "rank": 115, 
+      "id": "CM"
+    }, 
+    {
+      "name": "Nicaragua", 
+      "value": "30 kbd", 
+      "caption": "Nicaragua consumed 30 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NIOilBblPortrait_en.png", 
+      "rank": 116, 
+      "id": "NI"
+    }, 
+    {
+      "name": "Bosnia and Herzegovina", 
+      "value": "28 kbd", 
+      "caption": "Bosnia and Herzegovina consumed 28 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BAOilBblPortrait_en.png", 
+      "rank": 117, 
+      "id": "BA"
+    }, 
+    {
+      "name": "Benin", 
+      "value": "25 kbd", 
+      "caption": "Benin consumed 25 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BJOilBblPortrait_en.png", 
+      "rank": 118, 
+      "id": "BJ"
+    }, 
+    {
+      "name": "Ivory Coast", 
+      "value": "25 kbd", 
+      "caption": "Ivory Coast consumed 25 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CIOilBblPortrait_en.png", 
+      "rank": 119, 
+      "id": "CI"
+    }, 
+    {
+      "name": "Gibraltar", 
+      "value": "25 kbd", 
+      "caption": "Gibraltar consumed 25 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GIOilBblPortrait_en.png", 
+      "rank": 120, 
+      "id": "GI"
+    }, 
+    {
+      "name": "Palestinian Territory", 
+      "value": "24 kbd", 
+      "caption": "Palestinian Territory consumed 24 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PSOilBblPortrait_en.png", 
+      "rank": 121, 
+      "id": "PS"
+    }, 
+    {
+      "name": "Mauritius", 
+      "value": "23 kbd", 
+      "caption": "Mauritius consumed 23 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MUOilBblPortrait_en.png", 
+      "rank": 122, 
+      "id": "MU"
+    }, 
+    {
+      "name": "Togo", 
+      "value": "23 kbd", 
+      "caption": "Togo consumed 23 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TGOilBblPortrait_en.png", 
+      "rank": 123, 
+      "id": "TG"
+    }, 
+    {
+      "name": "Madagascar", 
+      "value": "22 kbd", 
+      "caption": "Madagascar consumed 22 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MGOilBblPortrait_en.png", 
+      "rank": 124, 
+      "id": "MG"
+    }, 
+    {
+      "name": "Reunion", 
+      "value": "21 kbd", 
+      "caption": "Reunion consumed 21 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011REOilBblPortrait_en.png", 
+      "rank": 125, 
+      "id": "RE"
+    }, 
+    {
+      "name": "Moldova", 
+      "value": "20 kbd", 
+      "caption": "Moldova consumed 20 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MDOilBblPortrait_en.png", 
+      "rank": 126, 
+      "id": "MD"
+    }, 
+    {
+      "name": "Mauritania", 
+      "value": "20 kbd", 
+      "caption": "Mauritania consumed 20 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MROilBblPortrait_en.png", 
+      "rank": 127, 
+      "id": "MR"
+    }, 
+    {
+      "name": "Nepal", 
+      "value": "20 kbd", 
+      "caption": "Nepal consumed 20 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NPOilBblPortrait_en.png", 
+      "rank": 128, 
+      "id": "NP"
+    }, 
+    {
+      "name": "Macedonia", 
+      "value": "19 kbd", 
+      "caption": "Macedonia consumed 19 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MKOilBblPortrait_en.png", 
+      "rank": 129, 
+      "id": "MK"
+    }, 
+    {
+      "name": "Malta", 
+      "value": "19 kbd", 
+      "caption": "Malta consumed 19 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MTOilBblPortrait_en.png", 
+      "rank": 130, 
+      "id": "MT"
+    }, 
+    {
+      "name": "Iceland", 
+      "value": "18 kbd", 
+      "caption": "Iceland consumed 18 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ISOilBblPortrait_en.png", 
+      "rank": 131, 
+      "id": "IS"
+    }, 
+    {
+      "name": "Gabon", 
+      "value": "18 kbd", 
+      "caption": "Gabon consumed 18 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GAOilBblPortrait_en.png", 
+      "rank": 132, 
+      "id": "GA"
+    }, 
+    {
+      "name": "Brunei", 
+      "value": "17 kbd", 
+      "caption": "Brunei consumed 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BNOilBblPortrait_en.png", 
+      "rank": 133, 
+      "id": "BN"
+    }, 
+    {
+      "name": "Mongolia", 
+      "value": "17 kbd", 
+      "caption": "Mongolia consumed 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MNOilBblPortrait_en.png", 
+      "rank": 134, 
+      "id": "MN"
+    }, 
+    {
+      "name": "Macau SAR China", 
+      "value": "17 kbd", 
+      "caption": "Macau SAR China consumed 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MOOilBblPortrait_en.png", 
+      "rank": 135, 
+      "id": "MO"
+    }, 
+    {
+      "name": "Martinique", 
+      "value": "17 kbd", 
+      "caption": "Martinique consumed 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MQOilBblPortrait_en.png", 
+      "rank": 136, 
+      "id": "MQ"
+    }, 
+    {
+      "name": "Mozambique", 
+      "value": "17 kbd", 
+      "caption": "Mozambique consumed 17 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MZOilBblPortrait_en.png", 
+      "rank": 137, 
+      "id": "MZ"
+    }, 
+    {
+      "name": "Guadeloupe", 
+      "value": "16 kbd", 
+      "caption": "Guadeloupe consumed 16 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GPOilBblPortrait_en.png", 
+      "rank": 138, 
+      "id": "GP"
+    }, 
+    {
+      "name": "Kyrgyzstan", 
+      "value": "16 kbd", 
+      "caption": "Kyrgyzstan consumed 16 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KGOilBblPortrait_en.png", 
+      "rank": 139, 
+      "id": "KG"
+    }, 
+    {
+      "name": "Zambia", 
+      "value": "16 kbd", 
+      "caption": "Zambia consumed 16 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ZMOilBblPortrait_en.png", 
+      "rank": 140, 
+      "id": "ZM"
+    }, 
+    {
+      "name": "Botswana", 
+      "value": "15 kbd", 
+      "caption": "Botswana consumed 15 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BWOilBblPortrait_en.png", 
+      "rank": 141, 
+      "id": "BW"
+    }, 
+    {
+      "name": "Fiji", 
+      "value": "15 kbd", 
+      "caption": "Fiji consumed 15 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011FJOilBblPortrait_en.png", 
+      "rank": 142, 
+      "id": "FJ"
+    }, 
+    {
+      "name": "Suriname", 
+      "value": "15 kbd", 
+      "caption": "Suriname consumed 15 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SROilBblPortrait_en.png", 
+      "rank": 143, 
+      "id": "SR"
+    }, 
+    {
+      "name": "New Caledonia", 
+      "value": "14 kbd", 
+      "caption": "New Caledonia consumed 14 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NCOilBblPortrait_en.png", 
+      "rank": 144, 
+      "id": "NC"
+    }, 
+    {
+      "name": "Uganda", 
+      "value": "14 kbd", 
+      "caption": "Uganda consumed 14 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UGOilBblPortrait_en.png", 
+      "rank": 145, 
+      "id": "UG"
+    }, 
+    {
+      "name": "Congo - Kinshasa", 
+      "value": "13 kbd", 
+      "caption": "Congo - Kinshasa consumed 13 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CDOilBblPortrait_en.png", 
+      "rank": 146, 
+      "id": "CD"
+    }, 
+    {
+      "name": "Georgia", 
+      "value": "13 kbd", 
+      "caption": "Georgia consumed 13 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GEOilBblPortrait_en.png", 
+      "rank": 147, 
+      "id": "GE"
+    }, 
+    {
+      "name": "North Korea", 
+      "value": "13 kbd", 
+      "caption": "North Korea consumed 13 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KPOilBblPortrait_en.png", 
+      "rank": 148, 
+      "id": "KP"
+    }, 
+    {
+      "name": "Djibouti", 
+      "value": "12 kbd", 
+      "caption": "Djibouti consumed 12 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011DJOilBblPortrait_en.png", 
+      "rank": 149, 
+      "id": "DJ"
+    }, 
+    {
+      "name": "Haiti", 
+      "value": "12 kbd", 
+      "caption": "Haiti consumed 12 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011HTOilBblPortrait_en.png", 
+      "rank": 150, 
+      "id": "HT"
+    }, 
+    {
+      "name": "Congo - Brazzaville", 
+      "value": "11 kbd", 
+      "caption": "Congo - Brazzaville consumed 11 thousand barrels per day in 2010. Production has been rising. Consumption is still negligable.", 
+      "imageName": "EIA2011CGOilBblPortrait_en.png", 
+      "rank": 151, 
+      "id": "CG"
+    }, 
+    {
+      "name": "Zimbabwe", 
+      "value": "11 kbd", 
+      "caption": "Zimbabwe consumed 11 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ZWOilBblPortrait_en.png", 
+      "rank": 152, 
+      "id": "ZW"
+    }, 
+    {
+      "name": "Guyana", 
+      "value": "10 kbd", 
+      "caption": "Guyana consumed 10 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GYOilBblPortrait_en.png", 
+      "rank": 153, 
+      "id": "GY"
+    }, 
+    {
+      "name": "Barbados", 
+      "value": "9 kbd", 
+      "caption": "Barbados consumed 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BBOilBblPortrait_en.png", 
+      "rank": 154, 
+      "id": "BB"
+    }, 
+    {
+      "name": "Burkina Faso", 
+      "value": "9 kbd", 
+      "caption": "Burkina Faso consumed 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BFOilBblPortrait_en.png", 
+      "rank": 155, 
+      "id": "BF"
+    }, 
+    {
+      "name": "Guinea", 
+      "value": "9 kbd", 
+      "caption": "Guinea consumed 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GNOilBblPortrait_en.png", 
+      "rank": 156, 
+      "id": "GN"
+    }, 
+    {
+      "name": "Guam", 
+      "value": "9 kbd", 
+      "caption": "Guam consumed 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GUOilBblPortrait_en.png", 
+      "rank": 157, 
+      "id": "GU"
+    }, 
+    {
+      "name": "Sierra Leone", 
+      "value": "9 kbd", 
+      "caption": "Sierra Leone consumed 9 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SLOilBblPortrait_en.png", 
+      "rank": 158, 
+      "id": "SL"
+    }, 
+    {
+      "name": "Aruba", 
+      "value": "8 kbd", 
+      "caption": "Aruba consumed 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AWOilBblPortrait_en.png", 
+      "rank": 159, 
+      "id": "AW"
+    }, 
+    {
+      "name": "Malawi", 
+      "value": "8 kbd", 
+      "caption": "Malawi consumed 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MWOilBblPortrait_en.png", 
+      "rank": 160, 
+      "id": "MW"
+    }, 
+    {
+      "name": "French Polynesia", 
+      "value": "8 kbd", 
+      "caption": "French Polynesia consumed 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PFOilBblPortrait_en.png", 
+      "rank": 161, 
+      "id": "PF"
+    }, 
+    {
+      "name": "Seychelles", 
+      "value": "8 kbd", 
+      "caption": "Seychelles consumed 8 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SCOilBblPortrait_en.png", 
+      "rank": 162, 
+      "id": "SC"
+    }, 
+    {
+      "name": "Belize", 
+      "value": "7 kbd", 
+      "caption": "Belize consumed 7 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BZOilBblPortrait_en.png", 
+      "rank": 163, 
+      "id": "BZ"
+    }, 
+    {
+      "name": "French Guiana", 
+      "value": "7 kbd", 
+      "caption": "French Guiana consumed 7 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GFOilBblPortrait_en.png", 
+      "rank": 164, 
+      "id": "GF"
+    }, 
+    {
+      "name": "Eritrea", 
+      "value": "6 kbd", 
+      "caption": "Eritrea consumed 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011EROilBblPortrait_en.png", 
+      "rank": 165, 
+      "id": "ER"
+    }, 
+    {
+      "name": "Mali", 
+      "value": "6 kbd", 
+      "caption": "Mali consumed 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MLOilBblPortrait_en.png", 
+      "rank": 166, 
+      "id": "ML"
+    }, 
+    {
+      "name": "Maldives", 
+      "value": "6 kbd", 
+      "caption": "Maldives consumed 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MVOilBblPortrait_en.png", 
+      "rank": 167, 
+      "id": "MV"
+    }, 
+    {
+      "name": "Niger", 
+      "value": "6 kbd", 
+      "caption": "Niger consumed 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NEOilBblPortrait_en.png", 
+      "rank": 168, 
+      "id": "NE"
+    }, 
+    {
+      "name": "Rwanda", 
+      "value": "6 kbd", 
+      "caption": "Rwanda consumed 6 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011RWOilBblPortrait_en.png", 
+      "rank": 169, 
+      "id": "RW"
+    }, 
+    {
+      "name": "Antigua and Barbuda", 
+      "value": "5 kbd", 
+      "caption": "Antigua and Barbuda consumed 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AGOilBblPortrait_en.png", 
+      "rank": 170, 
+      "id": "AG"
+    }, 
+    {
+      "name": "Bermuda", 
+      "value": "5 kbd", 
+      "caption": "Bermuda consumed 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BMOilBblPortrait_en.png", 
+      "rank": 171, 
+      "id": "BM"
+    }, 
+    {
+      "name": "Faroe Islands", 
+      "value": "5 kbd", 
+      "caption": "Faroe Islands consumed 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011FOOilBblPortrait_en.png", 
+      "rank": 172, 
+      "id": "FO"
+    }, 
+    {
+      "name": "Somalia", 
+      "value": "5 kbd", 
+      "caption": "Somalia consumed 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SOOilBblPortrait_en.png", 
+      "rank": 173, 
+      "id": "SO"
+    }, 
+    {
+      "name": "Afghanistan", 
+      "value": "5 kbd", 
+      "caption": "Afghanistan consumed 5 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AFOilBblPortrait_en.png", 
+      "rank": 174, 
+      "id": "AF"
+    }, 
+    {
+      "name": "Liberia", 
+      "value": "4 kbd", 
+      "caption": "Liberia consumed 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LROilBblPortrait_en.png", 
+      "rank": 175, 
+      "id": "LR"
+    }, 
+    {
+      "name": "American Samoa", 
+      "value": "4 kbd", 
+      "caption": "American Samoa consumed 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011ASOilBblPortrait_en.png", 
+      "rank": 176, 
+      "id": "AS"
+    }, 
+    {
+      "name": "Greenland", 
+      "value": "4 kbd", 
+      "caption": "Greenland consumed 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GLOilBblPortrait_en.png", 
+      "rank": 177, 
+      "id": "GL"
+    }, 
+    {
+      "name": "Montenegro", 
+      "value": "4 kbd", 
+      "caption": "Montenegro consumed 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MEOilBblPortrait_en.png", 
+      "rank": 178, 
+      "id": "ME"
+    }, 
+    {
+      "name": "Swaziland", 
+      "value": "4 kbd", 
+      "caption": "Swaziland consumed 4 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SZOilBblPortrait_en.png", 
+      "rank": 179, 
+      "id": "SZ"
+    }, 
+    {
+      "name": "Burundi", 
+      "value": "3 kbd", 
+      "caption": "Burundi consumed 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BIOilBblPortrait_en.png", 
+      "rank": 180, 
+      "id": "BI"
+    }, 
+    {
+      "name": "Grenada", 
+      "value": "3 kbd", 
+      "caption": "Grenada consumed 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GDOilBblPortrait_en.png", 
+      "rank": 181, 
+      "id": "GD"
+    }, 
+    {
+      "name": "Guinea-Bissau", 
+      "value": "3 kbd", 
+      "caption": "Guinea-Bissau consumed 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GWOilBblPortrait_en.png", 
+      "rank": 182, 
+      "id": "GW"
+    }, 
+    {
+      "name": "Cayman Islands", 
+      "value": "3 kbd", 
+      "caption": "Cayman Islands consumed 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KYOilBblPortrait_en.png", 
+      "rank": 183, 
+      "id": "KY"
+    }, 
+    {
+      "name": "Laos", 
+      "value": "3 kbd", 
+      "caption": "Laos consumed 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LAOilBblPortrait_en.png", 
+      "rank": 184, 
+      "id": "LA"
+    }, 
+    {
+      "name": "Saint Lucia", 
+      "value": "3 kbd", 
+      "caption": "Saint Lucia consumed 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LCOilBblPortrait_en.png", 
+      "rank": 185, 
+      "id": "LC"
+    }, 
+    {
+      "name": "East Timor", 
+      "value": "3 kbd", 
+      "caption": "East Timor consumed 3 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TLOilBblPortrait_en.png", 
+      "rank": 186, 
+      "id": "TL"
+    }, 
+    {
+      "name": "Antarctica", 
+      "value": "2 kbd", 
+      "caption": "Antarctica consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011AQOilBblPortrait_en.png", 
+      "rank": 187, 
+      "id": "AQ"
+    }, 
+    {
+      "name": "Central African Republic", 
+      "value": "2 kbd", 
+      "caption": "Central African Republic consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CFOilBblPortrait_en.png", 
+      "rank": 188, 
+      "id": "CF"
+    }, 
+    {
+      "name": "Cape Verde", 
+      "value": "2 kbd", 
+      "caption": "Cape Verde consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CVOilBblPortrait_en.png", 
+      "rank": 189, 
+      "id": "CV"
+    }, 
+    {
+      "name": "Western Sahara", 
+      "value": "2 kbd", 
+      "caption": "Western Sahara consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011EHOilBblPortrait_en.png", 
+      "rank": 190, 
+      "id": "EH"
+    }, 
+    {
+      "name": "Gambia", 
+      "value": "2 kbd", 
+      "caption": "Gambia consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011GMOilBblPortrait_en.png", 
+      "rank": 191, 
+      "id": "GM"
+    }, 
+    {
+      "name": "Equatorial Guinea", 
+      "value": "2 kbd", 
+      "caption": "Equatorial Guinea consumed 2 thousand barrels per day in 2010. The rapid rise in offshore production has now tapered off. The US is the #1 destination for Guinean oil.", 
+      "imageName": "EIA2011GQOilBblPortrait_en.png", 
+      "rank": 192, 
+      "id": "GQ"
+    }, 
+    {
+      "name": "Saint Kitts and Nevis", 
+      "value": "2 kbd", 
+      "caption": "Saint Kitts and Nevis consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KNOilBblPortrait_en.png", 
+      "rank": 193, 
+      "id": "KN"
+    }, 
+    {
+      "name": "Lesotho", 
+      "value": "2 kbd", 
+      "caption": "Lesotho consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011LSOilBblPortrait_en.png", 
+      "rank": 194, 
+      "id": "LS"
+    }, 
+    {
+      "name": "Solomon Islands", 
+      "value": "2 kbd", 
+      "caption": "Solomon Islands consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011SBOilBblPortrait_en.png", 
+      "rank": 195, 
+      "id": "SB"
+    }, 
+    {
+      "name": "Chad", 
+      "value": "2 kbd", 
+      "caption": "Chad consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TDOilBblPortrait_en.png", 
+      "rank": 196, 
+      "id": "TD"
+    }, 
+    {
+      "name": "United States Minor Outlying Islands", 
+      "value": "2 kbd", 
+      "caption": "United States Minor Outlying Islands consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011UMOilBblPortrait_en.png", 
+      "rank": 197, 
+      "id": "UM"
+    }, 
+    {
+      "name": "Saint Vincent and the Grenadines", 
+      "value": "2 kbd", 
+      "caption": "Saint Vincent and the Grenadines consumed 2 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VCOilBblPortrait_en.png", 
+      "rank": 198, 
+      "id": "VC"
+    }, 
+    {
+      "name": "Nauru", 
+      "value": "1 kbd", 
+      "caption": "Nauru consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011NROilBblPortrait_en.png", 
+      "rank": 199, 
+      "id": "NR"
+    }, 
+    {
+      "name": "Bhutan", 
+      "value": "1 kbd", 
+      "caption": "Bhutan consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011BTOilBblPortrait_en.png", 
+      "rank": 200, 
+      "id": "BT"
+    }, 
+    {
+      "name": "Cook Islands", 
+      "value": "1 kbd", 
+      "caption": "Cook Islands consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011CKOilBblPortrait_en.png", 
+      "rank": 201, 
+      "id": "CK"
+    }, 
+    {
+      "name": "Dominica", 
+      "value": "1 kbd", 
+      "caption": "Dominica consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011DMOilBblPortrait_en.png", 
+      "rank": 202, 
+      "id": "DM"
+    }, 
+    {
+      "name": "Comoros", 
+      "value": "1 kbd", 
+      "caption": "Comoros consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011KMOilBblPortrait_en.png", 
+      "rank": 203, 
+      "id": "KM"
+    }, 
+    {
+      "name": "Montserrat", 
+      "value": "1 kbd", 
+      "caption": "Montserrat consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011MSOilBblPortrait_en.png", 
+      "rank": 204, 
+      "id": "MS"
+    }, 
+    {
+      "name": "Saint Pierre and Miquelon", 
+      "value": "1 kbd", 
+      "caption": "Saint Pierre and Miquelon consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011PMOilBblPortrait_en.png", 
+      "rank": 205, 
+      "id": "PM"
+    }, 
+    {
+      "name": "Sao Tome and Principe", 
+      "value": "1 kbd", 
+      "caption": "Sao Tome and Principe consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011STOilBblPortrait_en.png", 
+      "rank": 206, 
+      "id": "ST"
+    }, 
+    {
+      "name": "Tonga", 
+      "value": "1 kbd", 
+      "caption": "Tonga consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011TOOilBblPortrait_en.png", 
+      "rank": 207, 
+      "id": "TO"
+    }, 
+    {
+      "name": "British Virgin Islands", 
+      "value": "1 kbd", 
+      "caption": "British Virgin Islands consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VGOilBblPortrait_en.png", 
+      "rank": 208, 
+      "id": "VG"
+    }, 
+    {
+      "name": "Vanuatu", 
+      "value": "1 kbd", 
+      "caption": "Vanuatu consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011VUOilBblPortrait_en.png", 
+      "rank": 209, 
+      "id": "VU"
+    }, 
+    {
+      "name": "Samoa", 
+      "value": "1 kbd", 
+      "caption": "Samoa consumed 1 thousand barrels per day in 2010. ", 
+      "imageName": "EIA2011WSOilBblPortrait_en.png", 
+      "rank": 210, 
+      "id": "WS"
+    }, 
+    {
+      "name": "Turks and Caicos Islands", 
+      "value": "none", 
+      "caption": "Turks and Caicos Islands consumed no oil in 2010. ", 
+      "imageName": "EIA2011TCOilBblPortrait_en.png", 
+      "rank": 211, 
+      "id": "TC"
+    }, 
+    {
+      "name": "Falkland Islands", 
+      "value": "none", 
+      "caption": "Falkland Islands consumed no oil in 2010. ", 
+      "imageName": "EIA2011FKOilBblPortrait_en.png", 
+      "rank": 212, 
+      "id": "FK"
+    }, 
+    {
+      "name": "Kiribati", 
+      "value": "none", 
+      "caption": "Kiribati consumed no oil in 2010. ", 
+      "imageName": "EIA2011KIOilBblPortrait_en.png", 
+      "rank": 213, 
+      "id": "KI"
+    }, 
+    {
+      "name": "Saint Helena", 
+      "value": "none", 
+      "caption": "Saint Helena consumed no oil in 2010. ", 
+      "imageName": "EIA2011SHOilBblPortrait_en.png", 
+      "rank": 214, 
+      "id": "SH"
+    }, 
+    {
+      "name": "Niue", 
+      "value": "none", 
+      "caption": "Niue consumed no oil in 2010. ", 
+      "imageName": "EIA2011NUOilBblPortrait_en.png", 
+      "rank": 215, 
+      "id": "NU"
+    }
+  ], 
+  "imageBaseUrl": "http://mazamascience.com/iPhone/PeakOil/"
+}

@@ -1,0 +1,31 @@
+{
+    "dataId": "OilAndGasTrends",
+    "title": "Oil and Gas Trends",   
+    "tableTitle":"Choose a Ranking",     
+    "dataArray": 
+    [
+        {                
+            "jsonUrlSuffix": "EIA2011OilProductionBbl.json",
+            "id": "OilProductionBbl",        
+            "title": "By Oil Production (bbl)"
+        },
+        {
+
+            "jsonUrlSuffix": "EIA2011OilConsumptionBbl.json",
+            "id": "OilConsumptionBbl",
+            "title": "By Oil Consumption (bbl)"
+
+        },
+        {  
+            "jsonUrlSuffix": "EIA2011OilExportsBbl.json",
+            "id": "OilExportsBbl",
+            "title": "By Oil Exports (bbl)"
+        },
+        {  
+            "jsonUrlSuffix": "EIA2011OilImportsBbl.json",
+            "id": "OilImportsBbl",
+            "title": "By Oil Imports (bbl)"
+        }
+    ]
+
+}

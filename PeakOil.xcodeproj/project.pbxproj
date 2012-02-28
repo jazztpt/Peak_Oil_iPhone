@@ -1,0 +1,540 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* PeakOilAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* PeakOilAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		28860BE50F44EE6400985440 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28860BE40F44EE6400985440 /* CoreData.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		2899E5600DE3E45000AC0155 /* ListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E55F0DE3E45000AC0155 /* ListViewController.xib */; };
+		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
+		28C286E10D94DF7D0034E888 /* ListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* ListViewController.m */; };
+		28D3F202112F7DC200FD0661 /* PeakOil.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28D3F201112F7DC200FD0661 /* PeakOil.xcdatamodeld */; };
+		490126AD1438C0DF00EEF574 /* CountryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 490126AB1438C0DF00EEF574 /* CountryViewController.m */; };
+		490126B01438D18300EEF574 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 490126AF1438D18300EEF574 /* QuartzCore.framework */; };
+		49336D72145306AE005FEFBD /* Theme.m in Sources */ = {isa = PBXBuildFile; fileRef = 49336D71145306AE005FEFBD /* Theme.m */; };
+		49336D75145306AF005FEFBD /* NamedRanking.m in Sources */ = {isa = PBXBuildFile; fileRef = 49336D74145306AF005FEFBD /* NamedRanking.m */; };
+		49336D78145306AF005FEFBD /* Country.m in Sources */ = {isa = PBXBuildFile; fileRef = 49336D77145306AF005FEFBD /* Country.m */; };
+		4947DB0B145C589B006CD616 /* 19-gear.png in Resources */ = {isa = PBXBuildFile; fileRef = 4947DB0A145C589B006CD616 /* 19-gear.png */; };
+		4947DB0D145C58B9006CD616 /* icon_information.png in Resources */ = {isa = PBXBuildFile; fileRef = 4947DB0C145C58B9006CD616 /* icon_information.png */; };
+		49631CCF136A435F00FF9ECC /* PeakOil.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49631CCE136A435F00FF9ECC /* PeakOil.plist */; };
+		4967EB35142BBA860053DAD4 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4967EB34142BBA860053DAD4 /* DataManager.m */; };
+		4967EB37142BBAE10053DAD4 /* sampleCountries.json in Resources */ = {isa = PBXBuildFile; fileRef = 4967EB36142BBAE10053DAD4 /* sampleCountries.json */; };
+		4967EB3D142BD4D00053DAD4 /* Constants.m in Sources */ = {isa = PBXBuildFile; fileRef = 4967EB3C142BD4D00053DAD4 /* Constants.m */; };
+		499FDD4514489D0D001938E3 /* CountryViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 499FDD4314489D0D001938E3 /* CountryViewController.xib */; };
+		49B6254D1364EC3A0000901E /* APIManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B6254C1364EC3A0000901E /* APIManager.m */; };
+		49B625541364F2E30000901E /* Countries.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49B625531364F2E30000901E /* Countries.plist */; };
+		49B625A3136503590000901E /* ASIAuthenticationDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B62590136503590000901E /* ASIAuthenticationDialog.m */; };
+		49B625A4136503590000901E /* ASIDataCompressor.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B62593136503590000901E /* ASIDataCompressor.m */; };
+		49B625A5136503590000901E /* ASIDataDecompressor.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B62595136503590000901E /* ASIDataDecompressor.m */; };
+		49B625A6136503590000901E /* ASIDownloadCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B62597136503590000901E /* ASIDownloadCache.m */; };
+		49B625A7136503590000901E /* ASIFormDataRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B62599136503590000901E /* ASIFormDataRequest.m */; };
+		49B625A8136503590000901E /* ASIHTTPRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B6259B136503590000901E /* ASIHTTPRequest.m */; };
+		49B625A9136503590000901E /* ASIInputStream.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B6259F136503590000901E /* ASIInputStream.m */; };
+		49B625AA136503590000901E /* ASINetworkQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B625A1136503590000901E /* ASINetworkQueue.m */; };
+		49B625AD1365036D0000901E /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B625AC1365036D0000901E /* Reachability.m */; };
+		49B625AF136503920000901E /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49B625AE136503920000901E /* CFNetwork.framework */; };
+		49B625B31365039B0000901E /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49B625B21365039B0000901E /* SystemConfiguration.framework */; };
+		49B625B71365039D0000901E /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49B625B61365039D0000901E /* MobileCoreServices.framework */; };
+		49B625BB136503B80000901E /* libz.1.2.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 49B625BA136503B80000901E /* libz.1.2.3.dylib */; };
+		49B625E91365053D0000901E /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B625E01365053D0000901E /* NSObject+SBJSON.m */; };
+		49B625EA1365053D0000901E /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B625E21365053D0000901E /* NSString+SBJSON.m */; };
+		49B625EB1365053D0000901E /* SBJsonBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B625E41365053D0000901E /* SBJsonBase.m */; };
+		49B625EC1365053D0000901E /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B625E61365053D0000901E /* SBJsonParser.m */; };
+		49B625ED1365053D0000901E /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B625E81365053D0000901E /* SBJsonWriter.m */; };
+		49BDF49514C3717A0057EF23 /* themes.json in Resources */ = {isa = PBXBuildFile; fileRef = 49BDF49414C3717A0057EF23 /* themes.json */; };
+		49BDF49B14C3721E0057EF23 /* EIA2011OilAlphabeticBbl.json in Resources */ = {isa = PBXBuildFile; fileRef = 49BDF49614C3721E0057EF23 /* EIA2011OilAlphabeticBbl.json */; };
+		49BDF49C14C3721E0057EF23 /* EIA2011OilConsumptionBbl.json in Resources */ = {isa = PBXBuildFile; fileRef = 49BDF49714C3721E0057EF23 /* EIA2011OilConsumptionBbl.json */; };
+		49BDF49D14C3721E0057EF23 /* EIA2011OilExportsBbl.json in Resources */ = {isa = PBXBuildFile; fileRef = 49BDF49814C3721E0057EF23 /* EIA2011OilExportsBbl.json */; };
+		49BDF49E14C3721E0057EF23 /* EIA2011OilImportsBbl.json in Resources */ = {isa = PBXBuildFile; fileRef = 49BDF49914C3721E0057EF23 /* EIA2011OilImportsBbl.json */; };
+		49BDF49F14C3721E0057EF23 /* EIA2011OilProductionBbl.json in Resources */ = {isa = PBXBuildFile; fileRef = 49BDF49A14C3721E0057EF23 /* EIA2011OilProductionBbl.json */; };
+		49E040D7145B6DEB00AA853E /* sampleThemes.json in Resources */ = {isa = PBXBuildFile; fileRef = 49E040D6145B6DEB00AA853E /* sampleThemes.json */; };
+		49FDCA81145ADF3200E80EF9 /* SplashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49FDCA7F145ADF3200E80EF9 /* SplashViewController.m */; };
+		49FDCA82145ADF3200E80EF9 /* SplashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49FDCA80145ADF3200E80EF9 /* SplashViewController.xib */; };
+		49FDCA87145ADFAD00E80EF9 /* DataChoicesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49FDCA85145ADFAD00E80EF9 /* DataChoicesTableViewController.m */; };
+		49FDCA88145ADFAD00E80EF9 /* DataChoicesTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49FDCA86145ADFAD00E80EF9 /* DataChoicesTableViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* PeakOilAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PeakOilAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* PeakOilAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PeakOilAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* PeakOil.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PeakOil.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		28860B760F44E54D00985440 /* PeakOil.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = PeakOil.xcdatamodel; sourceTree = "<group>"; };
+		28860BE40F44EE6400985440 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E55F0DE3E45000AC0155 /* ListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ListViewController.xib; path = ../ListViewController.xib; sourceTree = "<group>"; };
+		28A0AAE50D9B0CCF005BE974 /* PeakOil_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PeakOil_Prefix.pch; sourceTree = "<group>"; };
+		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = ../MainWindow.xib; sourceTree = "<group>"; };
+		28C286DF0D94DF7D0034E888 /* ListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListViewController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* ListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		490126AA1438C0DF00EEF574 /* CountryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CountryViewController.h; sourceTree = "<group>"; };
+		490126AB1438C0DF00EEF574 /* CountryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CountryViewController.m; sourceTree = "<group>"; };
+		490126AF1438D18300EEF574 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		49336D70145306AE005FEFBD /* Theme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Theme.h; sourceTree = "<group>"; };
+		49336D71145306AE005FEFBD /* Theme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Theme.m; sourceTree = "<group>"; };
+		49336D73145306AF005FEFBD /* NamedRanking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NamedRanking.h; sourceTree = "<group>"; };
+		49336D74145306AF005FEFBD /* NamedRanking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NamedRanking.m; sourceTree = "<group>"; };
+		49336D76145306AF005FEFBD /* Country.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Country.h; sourceTree = "<group>"; };
+		49336D77145306AF005FEFBD /* Country.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Country.m; sourceTree = "<group>"; };
+		4947DB0A145C589B006CD616 /* 19-gear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "19-gear.png"; path = "../../iphone-toolbar-icons/icons/19-gear.png"; sourceTree = "<group>"; };
+		4947DB0C145C58B9006CD616 /* icon_information.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon_information.png; path = "../../iphone-toolbar-icons/twg_iphone_toolbar_icons/icon_information.png"; sourceTree = "<group>"; };
+		49631CCE136A435F00FF9ECC /* PeakOil.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PeakOil.plist; sourceTree = "<group>"; };
+		4967EB33142BBA860053DAD4 /* DataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataManager.h; sourceTree = "<group>"; };
+		4967EB34142BBA860053DAD4 /* DataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataManager.m; sourceTree = "<group>"; };
+		4967EB36142BBAE10053DAD4 /* sampleCountries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sampleCountries.json; sourceTree = "<group>"; };
+		4967EB3B142BD4D00053DAD4 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
+		4967EB3C142BD4D00053DAD4 /* Constants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Constants.m; sourceTree = "<group>"; };
+		499FDD4314489D0D001938E3 /* CountryViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CountryViewController.xib; sourceTree = "<group>"; };
+		49B6254B1364EC3A0000901E /* APIManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APIManager.h; sourceTree = "<group>"; };
+		49B6254C1364EC3A0000901E /* APIManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APIManager.m; sourceTree = "<group>"; };
+		49B625531364F2E30000901E /* Countries.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Countries.plist; sourceTree = "<group>"; };
+		49B6258F136503590000901E /* ASIAuthenticationDialog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIAuthenticationDialog.h; sourceTree = "<group>"; };
+		49B62590136503590000901E /* ASIAuthenticationDialog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIAuthenticationDialog.m; sourceTree = "<group>"; };
+		49B62591136503590000901E /* ASICacheDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASICacheDelegate.h; sourceTree = "<group>"; };
+		49B62592136503590000901E /* ASIDataCompressor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIDataCompressor.h; sourceTree = "<group>"; };
+		49B62593136503590000901E /* ASIDataCompressor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIDataCompressor.m; sourceTree = "<group>"; };
+		49B62594136503590000901E /* ASIDataDecompressor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIDataDecompressor.h; sourceTree = "<group>"; };
+		49B62595136503590000901E /* ASIDataDecompressor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIDataDecompressor.m; sourceTree = "<group>"; };
+		49B62596136503590000901E /* ASIDownloadCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIDownloadCache.h; sourceTree = "<group>"; };
+		49B62597136503590000901E /* ASIDownloadCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIDownloadCache.m; sourceTree = "<group>"; };
+		49B62598136503590000901E /* ASIFormDataRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIFormDataRequest.h; sourceTree = "<group>"; };
+		49B62599136503590000901E /* ASIFormDataRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIFormDataRequest.m; sourceTree = "<group>"; };
+		49B6259A136503590000901E /* ASIHTTPRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIHTTPRequest.h; sourceTree = "<group>"; };
+		49B6259B136503590000901E /* ASIHTTPRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIHTTPRequest.m; sourceTree = "<group>"; };
+		49B6259C136503590000901E /* ASIHTTPRequestConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIHTTPRequestConfig.h; sourceTree = "<group>"; };
+		49B6259D136503590000901E /* ASIHTTPRequestDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIHTTPRequestDelegate.h; sourceTree = "<group>"; };
+		49B6259E136503590000901E /* ASIInputStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIInputStream.h; sourceTree = "<group>"; };
+		49B6259F136503590000901E /* ASIInputStream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASIInputStream.m; sourceTree = "<group>"; };
+		49B625A0136503590000901E /* ASINetworkQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASINetworkQueue.h; sourceTree = "<group>"; };
+		49B625A1136503590000901E /* ASINetworkQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASINetworkQueue.m; sourceTree = "<group>"; };
+		49B625A2136503590000901E /* ASIProgressDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIProgressDelegate.h; sourceTree = "<group>"; };
+		49B625AB1365036D0000901E /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		49B625AC1365036D0000901E /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		49B625AE136503920000901E /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		49B625B21365039B0000901E /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		49B625B61365039D0000901E /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		49B625BA136503B80000901E /* libz.1.2.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.3.dylib; path = usr/lib/libz.1.2.3.dylib; sourceTree = SDKROOT; };
+		49B625DE1365053D0000901E /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSON.h; sourceTree = "<group>"; };
+		49B625DF1365053D0000901E /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJSON.h"; sourceTree = "<group>"; };
+		49B625E01365053D0000901E /* NSObject+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJSON.m"; sourceTree = "<group>"; };
+		49B625E11365053D0000901E /* NSString+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+SBJSON.h"; sourceTree = "<group>"; };
+		49B625E21365053D0000901E /* NSString+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+SBJSON.m"; sourceTree = "<group>"; };
+		49B625E31365053D0000901E /* SBJsonBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonBase.h; sourceTree = "<group>"; };
+		49B625E41365053D0000901E /* SBJsonBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonBase.m; sourceTree = "<group>"; };
+		49B625E51365053D0000901E /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonParser.h; sourceTree = "<group>"; };
+		49B625E61365053D0000901E /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonParser.m; sourceTree = "<group>"; };
+		49B625E71365053D0000901E /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
+		49B625E81365053D0000901E /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
+		49BDF49414C3717A0057EF23 /* themes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = themes.json; sourceTree = "<group>"; };
+		49BDF49614C3721E0057EF23 /* EIA2011OilAlphabeticBbl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EIA2011OilAlphabeticBbl.json; sourceTree = "<group>"; };
+		49BDF49714C3721E0057EF23 /* EIA2011OilConsumptionBbl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EIA2011OilConsumptionBbl.json; sourceTree = "<group>"; };
+		49BDF49814C3721E0057EF23 /* EIA2011OilExportsBbl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EIA2011OilExportsBbl.json; sourceTree = "<group>"; };
+		49BDF49914C3721E0057EF23 /* EIA2011OilImportsBbl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EIA2011OilImportsBbl.json; sourceTree = "<group>"; };
+		49BDF49A14C3721E0057EF23 /* EIA2011OilProductionBbl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EIA2011OilProductionBbl.json; sourceTree = "<group>"; };
+		49E040D6145B6DEB00AA853E /* sampleThemes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sampleThemes.json; sourceTree = "<group>"; };
+		49FDCA7E145ADF3200E80EF9 /* SplashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SplashViewController.h; sourceTree = "<group>"; };
+		49FDCA7F145ADF3200E80EF9 /* SplashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SplashViewController.m; sourceTree = "<group>"; };
+		49FDCA80145ADF3200E80EF9 /* SplashViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SplashViewController.xib; sourceTree = "<group>"; };
+		49FDCA84145ADFAD00E80EF9 /* DataChoicesTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataChoicesTableViewController.h; sourceTree = "<group>"; };
+		49FDCA85145ADFAD00E80EF9 /* DataChoicesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataChoicesTableViewController.m; sourceTree = "<group>"; };
+		49FDCA86145ADFAD00E80EF9 /* DataChoicesTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DataChoicesTableViewController.xib; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* PeakOil-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "PeakOil-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				490126B01438D18300EEF574 /* QuartzCore.framework in Frameworks */,
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				28860BE50F44EE6400985440 /* CoreData.framework in Frameworks */,
+				49B625AF136503920000901E /* CFNetwork.framework in Frameworks */,
+				49B625B31365039B0000901E /* SystemConfiguration.framework in Frameworks */,
+				49B625B71365039D0000901E /* MobileCoreServices.framework in Frameworks */,
+				49B625BB136503B80000901E /* libz.1.2.3.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4967EB33142BBA860053DAD4 /* DataManager.h */,
+				4967EB34142BBA860053DAD4 /* DataManager.m */,
+				49B6254B1364EC3A0000901E /* APIManager.h */,
+				49B6254C1364EC3A0000901E /* APIManager.m */,
+				1D3623240D0F684500981E51 /* PeakOilAppDelegate.h */,
+				1D3623250D0F684500981E51 /* PeakOilAppDelegate.m */,
+				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
+				28C286DF0D94DF7D0034E888 /* ListViewController.h */,
+				28C286E00D94DF7D0034E888 /* ListViewController.m */,
+				2899E55F0DE3E45000AC0155 /* ListViewController.xib */,
+				490126AA1438C0DF00EEF574 /* CountryViewController.h */,
+				490126AB1438C0DF00EEF574 /* CountryViewController.m */,
+				499FDD4314489D0D001938E3 /* CountryViewController.xib */,
+				49FDCA83145ADF4200E80EF9 /* Settings */,
+				4967EB3B142BD4D00053DAD4 /* Constants.h */,
+				4967EB3C142BD4D00053DAD4 /* Constants.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* PeakOil.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				490126AF1438D18300EEF574 /* QuartzCore.framework */,
+				49B625DB136504B70000901E /* JSON */,
+				49B6258E1365033B0000901E /* ASIHTTP */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* PeakOil_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				49BDF49614C3721E0057EF23 /* EIA2011OilAlphabeticBbl.json */,
+				49BDF49714C3721E0057EF23 /* EIA2011OilConsumptionBbl.json */,
+				49BDF49814C3721E0057EF23 /* EIA2011OilExportsBbl.json */,
+				49BDF49914C3721E0057EF23 /* EIA2011OilImportsBbl.json */,
+				49BDF49A14C3721E0057EF23 /* EIA2011OilProductionBbl.json */,
+				4947DB0C145C58B9006CD616 /* icon_information.png */,
+				4947DB0A145C589B006CD616 /* 19-gear.png */,
+				4967EB36142BBAE10053DAD4 /* sampleCountries.json */,
+				49E040D6145B6DEB00AA853E /* sampleThemes.json */,
+				28D3F201112F7DC200FD0661 /* PeakOil.xcdatamodeld */,
+				49336D76145306AF005FEFBD /* Country.h */,
+				49336D77145306AF005FEFBD /* Country.m */,
+				49336D73145306AF005FEFBD /* NamedRanking.h */,
+				49336D74145306AF005FEFBD /* NamedRanking.m */,
+				49336D70145306AE005FEFBD /* Theme.h */,
+				49336D71145306AE005FEFBD /* Theme.m */,
+				8D1107310486CEB800E47090 /* PeakOil-Info.plist */,
+				49B625531364F2E30000901E /* Countries.plist */,
+				49631CCE136A435F00FF9ECC /* PeakOil.plist */,
+				49BDF49414C3717A0057EF23 /* themes.json */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				49B625BA136503B80000901E /* libz.1.2.3.dylib */,
+				49B625B61365039D0000901E /* MobileCoreServices.framework */,
+				49B625B21365039B0000901E /* SystemConfiguration.framework */,
+				49B625AE136503920000901E /* CFNetwork.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+				28860BE40F44EE6400985440 /* CoreData.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		49B6258E1365033B0000901E /* ASIHTTP */ = {
+			isa = PBXGroup;
+			children = (
+				49B625AB1365036D0000901E /* Reachability.h */,
+				49B625AC1365036D0000901E /* Reachability.m */,
+				49B6258F136503590000901E /* ASIAuthenticationDialog.h */,
+				49B62590136503590000901E /* ASIAuthenticationDialog.m */,
+				49B62591136503590000901E /* ASICacheDelegate.h */,
+				49B62592136503590000901E /* ASIDataCompressor.h */,
+				49B62593136503590000901E /* ASIDataCompressor.m */,
+				49B62594136503590000901E /* ASIDataDecompressor.h */,
+				49B62595136503590000901E /* ASIDataDecompressor.m */,
+				49B62596136503590000901E /* ASIDownloadCache.h */,
+				49B62597136503590000901E /* ASIDownloadCache.m */,
+				49B62598136503590000901E /* ASIFormDataRequest.h */,
+				49B62599136503590000901E /* ASIFormDataRequest.m */,
+				49B6259A136503590000901E /* ASIHTTPRequest.h */,
+				49B6259B136503590000901E /* ASIHTTPRequest.m */,
+				49B6259C136503590000901E /* ASIHTTPRequestConfig.h */,
+				49B6259D136503590000901E /* ASIHTTPRequestDelegate.h */,
+				49B6259E136503590000901E /* ASIInputStream.h */,
+				49B6259F136503590000901E /* ASIInputStream.m */,
+				49B625A0136503590000901E /* ASINetworkQueue.h */,
+				49B625A1136503590000901E /* ASINetworkQueue.m */,
+				49B625A2136503590000901E /* ASIProgressDelegate.h */,
+			);
+			name = ASIHTTP;
+			sourceTree = "<group>";
+		};
+		49B625DB136504B70000901E /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				49B625DE1365053D0000901E /* JSON.h */,
+				49B625DF1365053D0000901E /* NSObject+SBJSON.h */,
+				49B625E01365053D0000901E /* NSObject+SBJSON.m */,
+				49B625E11365053D0000901E /* NSString+SBJSON.h */,
+				49B625E21365053D0000901E /* NSString+SBJSON.m */,
+				49B625E31365053D0000901E /* SBJsonBase.h */,
+				49B625E41365053D0000901E /* SBJsonBase.m */,
+				49B625E51365053D0000901E /* SBJsonParser.h */,
+				49B625E61365053D0000901E /* SBJsonParser.m */,
+				49B625E71365053D0000901E /* SBJsonWriter.h */,
+				49B625E81365053D0000901E /* SBJsonWriter.m */,
+			);
+			name = JSON;
+			sourceTree = "<group>";
+		};
+		49FDCA83145ADF4200E80EF9 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				49FDCA7E145ADF3200E80EF9 /* SplashViewController.h */,
+				49FDCA7F145ADF3200E80EF9 /* SplashViewController.m */,
+				49FDCA80145ADF3200E80EF9 /* SplashViewController.xib */,
+				49FDCA84145ADFAD00E80EF9 /* DataChoicesTableViewController.h */,
+				49FDCA85145ADFAD00E80EF9 /* DataChoicesTableViewController.m */,
+				49FDCA86145ADFAD00E80EF9 /* DataChoicesTableViewController.xib */,
+			);
+			name = Settings;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* PeakOil */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "PeakOil" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PeakOil;
+			productName = PeakOil;
+			productReference = 1D6058910D05DD3D006BFB54 /* PeakOil.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PeakOil" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* PeakOil */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
+				2899E5600DE3E45000AC0155 /* ListViewController.xib in Resources */,
+				49B625541364F2E30000901E /* Countries.plist in Resources */,
+				49631CCF136A435F00FF9ECC /* PeakOil.plist in Resources */,
+				4967EB37142BBAE10053DAD4 /* sampleCountries.json in Resources */,
+				499FDD4514489D0D001938E3 /* CountryViewController.xib in Resources */,
+				49FDCA82145ADF3200E80EF9 /* SplashViewController.xib in Resources */,
+				49FDCA88145ADFAD00E80EF9 /* DataChoicesTableViewController.xib in Resources */,
+				49E040D7145B6DEB00AA853E /* sampleThemes.json in Resources */,
+				4947DB0B145C589B006CD616 /* 19-gear.png in Resources */,
+				4947DB0D145C58B9006CD616 /* icon_information.png in Resources */,
+				49BDF49514C3717A0057EF23 /* themes.json in Resources */,
+				49BDF49B14C3721E0057EF23 /* EIA2011OilAlphabeticBbl.json in Resources */,
+				49BDF49C14C3721E0057EF23 /* EIA2011OilConsumptionBbl.json in Resources */,
+				49BDF49D14C3721E0057EF23 /* EIA2011OilExportsBbl.json in Resources */,
+				49BDF49E14C3721E0057EF23 /* EIA2011OilImportsBbl.json in Resources */,
+				49BDF49F14C3721E0057EF23 /* EIA2011OilProductionBbl.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* PeakOilAppDelegate.m in Sources */,
+				28C286E10D94DF7D0034E888 /* ListViewController.m in Sources */,
+				28D3F202112F7DC200FD0661 /* PeakOil.xcdatamodeld in Sources */,
+				49B6254D1364EC3A0000901E /* APIManager.m in Sources */,
+				49B625A3136503590000901E /* ASIAuthenticationDialog.m in Sources */,
+				49B625A4136503590000901E /* ASIDataCompressor.m in Sources */,
+				49B625A5136503590000901E /* ASIDataDecompressor.m in Sources */,
+				49B625A6136503590000901E /* ASIDownloadCache.m in Sources */,
+				49B625A7136503590000901E /* ASIFormDataRequest.m in Sources */,
+				49B625A8136503590000901E /* ASIHTTPRequest.m in Sources */,
+				49B625A9136503590000901E /* ASIInputStream.m in Sources */,
+				49B625AA136503590000901E /* ASINetworkQueue.m in Sources */,
+				49B625AD1365036D0000901E /* Reachability.m in Sources */,
+				49B625E91365053D0000901E /* NSObject+SBJSON.m in Sources */,
+				49B625EA1365053D0000901E /* NSString+SBJSON.m in Sources */,
+				49B625EB1365053D0000901E /* SBJsonBase.m in Sources */,
+				49B625EC1365053D0000901E /* SBJsonParser.m in Sources */,
+				49B625ED1365053D0000901E /* SBJsonWriter.m in Sources */,
+				4967EB35142BBA860053DAD4 /* DataManager.m in Sources */,
+				4967EB3D142BD4D00053DAD4 /* Constants.m in Sources */,
+				490126AD1438C0DF00EEF574 /* CountryViewController.m in Sources */,
+				49336D72145306AE005FEFBD /* Theme.m in Sources */,
+				49336D75145306AF005FEFBD /* NamedRanking.m in Sources */,
+				49336D78145306AF005FEFBD /* Country.m in Sources */,
+				49FDCA81145ADF3200E80EF9 /* SplashViewController.m in Sources */,
+				49FDCA87145ADFAD00E80EF9 /* DataChoicesTableViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = PeakOil_Prefix.pch;
+				INFOPLIST_FILE = "PeakOil-Info.plist";
+				PRODUCT_NAME = PeakOil;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = PeakOil_Prefix.pch;
+				INFOPLIST_FILE = "PeakOil-Info.plist";
+				PRODUCT_NAME = PeakOil;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Leska Fore (6VN7W3NN2Q)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "43230238-D3D3-4727-82F4-98250A2E1DDD";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Leska Fore (6VN7W3NN2Q)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "43230238-D3D3-4727-82F4-98250A2E1DDD";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "PeakOil" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PeakOil" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		28D3F201112F7DC200FD0661 /* PeakOil.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				28860B760F44E54D00985440 /* PeakOil.xcdatamodel */,
+			);
+			currentVersion = 28860B760F44E54D00985440 /* PeakOil.xcdatamodel */;
+			path = PeakOil.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Continents</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>North America</string>
+			<key>Countries</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>USA</string>
+					<key>ImageUrl</key>
+					<string>http://mazamascience.com/images/usapeakoil.png</string>
+				</dict>
+			</array>
+			<key>Groups</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>NAFTA</string>
+					<key>ImageUrl</key>
+					<string>http://mazamascience.com/images/naftapeakoil.png</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
